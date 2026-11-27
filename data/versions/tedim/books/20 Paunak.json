@@ -1,0 +1,4072 @@
+{
+  "schema_version": "1.1",
+  "book": "Sepher Mishlei",
+  "chapters": [
+    {
+      "number": 1,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Paunak laiBu",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Mishlei Shelomo ben David Melek Yisrayl",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Israyl Kumpi David’ Tapa Solomon’ Paunakte",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Paunak leh a Ngimna",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Siatna pan Kikep Nading Hilhkholhna",
+          "before_verse": 8
+        },
+        {
+          "level": 1,
+          "text": "Pilna’ Hong Thuumna",
+          "before_verse": 20
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Israyl kumpi David’ tapa Solomon’ paunakte:"
+        },
+        {
+          "number": 2,
+          "text": "Mite in pilna leh gamtat hoih a ngah nading, khiatna thuk a nei kammalte a tel theih nading,"
+        },
+        {
+          "number": 3,
+          "text": "pilna, thutanna, thukhen siamna leh a kilawm a kituaka gamtat theihna cihte ngaihsut siam nadingin kisinna ngah nading,"
+        },
+        {
+          "number": 4,
+          "text": "mimawlte tungah ciimna a pia ding, khangnote tungah thutheihna leh ngaihsut siamna a pia ding,"
+        },
+        {
+          "number": 5,
+          "text": "(Mipilte in zong za-in, a thutheihna uh khang semsem henla, mi ciimsate in lamlahna hoih ngah uh hen);"
+        },
+        {
+          "number": 6,
+          "text": "lungsim puahphat nading leh paunakte, thugentehnate leh kidop dinga genkholhnate, mi ciimte’ thugennate leh a haksa thuthuk amau dotnate zatna tawh gamtat hoihna kisek nading ahi hi."
+        },
+        {
+          "number": 7,
+          "text": "Yahweh zahtakna in pilna kipatna hi a, mihaite bek in pilna leh thuhilhna simmawh uh hi."
+        },
+        {
+          "number": 8,
+          "text": "Ka ta aw, na pa hong thuhilhna ngai inla, na nu’ hong hilh torah nusia kei in;"
+        },
+        {
+          "number": 9,
+          "text": "Tuate in na lu tungah a hoih kizepna tawh kibang ding a, na ngawng-a a etlawm khi tawh kibang ding hi."
+        },
+        {
+          "number": 10,
+          "text": "Ka ta aw, mi mawhte in hong zol ciangin amau’ zolna zui kei in."
+        },
+        {
+          "number": 11,
+          "text": "Amaute in, “Hong pai in, mi khatpeuh sisan suah dingin va pang ni. Thu om lopi-in mawhbaang lo pawlkhat va buk ni."
+        },
+        {
+          "number": 12,
+          "text": "Hankhuk bangin a hingin amaute nawmvalh-in, dum sunga kiate bangin va pumkhiat ni."
+        },
+        {
+          "number": 13,
+          "text": "Tua hileh hauhna namkim i ngah ding a, i innte van ngahte tawh a dim ding hi."
+        },
+        {
+          "number": 14,
+          "text": "Kote lakah hong kihel in; sumbawm i nei khawm ding hi,” hong cih uh ciangin,"
+        },
+        {
+          "number": 15,
+          "text": "Ka ta aw, amaute zui kei inla, amau lampi panin na khe kem in;"
+        },
+        {
+          "number": 16,
+          "text": "bang hang hiam cihleh sisan suah ding a manlang mah bangun amau khete siatna ah manlang uh hi."
+        },
+        {
+          "number": 17,
+          "text": "Vasate muh tangpi-in thang siah le hang bang phattuamna om ahi hiam?"
+        },
+        {
+          "number": 18,
+          "text": "Ahih hangin hih mite in amau sisan luan nading mah ngak uh a, amau nuntakna mah a buksim uh hi!"
+        },
+        {
+          "number": 19,
+          "text": "Zawhthawh thu tawh mi’ na a sutte’ lampi tua bang hi a, tua banga a ngahte in a nuntakna suplawh uh hi."
+        },
+        {
+          "number": 20,
+          "text": "Lampi ah nakpi-in pilna kiko a, kongzing lakah a aw a sangsak hi."
+        },
+        {
+          "number": 21,
+          "text": "Khuapi kulh kongpi lutnate-a kulh tung dawnte ah hong kiko-in thugen a,"
+        },
+        {
+          "number": 22,
+          "text": "“No mimawlte aw, bang tanvei haina deih lai ding na hi uh hiam? No mi gensiate aw, bang tanvei mikona nuamsa lai ding na hi uh hiam? No mihaite aw, bang tanvei thutheihna mudah lai ding na hi uh hiam?"
+        },
+        {
+          "number": 23,
+          "text": "Kong taii-na leh kong hilhkholhna ah kikhel hi le uh cin, note tungah ka kha kong bua ding a, ka kammalte kong telsak ding hi."
+        },
+        {
+          "number": 24,
+          "text": "Ahih hangin kong sap-a kipanin nong nial uh a, ka khut kong vaan lai-in kuamah in nong thudon loh nungsangun,"
+        },
+        {
+          "number": 25,
+          "text": "kong ngaihsut piakna khat beek zong ngaihsut-in nei loin, kong taii-na leh kong hilhkholhna khat zong na sang loh nungsangun—"
+        },
+        {
+          "number": 26,
+          "text": "Haksatna na tuah uh ciangin kei zong kong nuihsan lel ding a, no tungah a lipkhaphuai hong tun ciangin kong zahpih ding hi;"
+        },
+        {
+          "number": 27,
+          "text": "Huihpi bangin no tungah lauhuai-na hong tun ciang, pingpei bangin no tungah suksiatna hong tun ciang, no tungah lungkhamna leh sinkhamna hong tun ciangin kong nuihsan lel ding hi."
+        },
+        {
+          "number": 28,
+          "text": "Tua ciangin amaute in kei hong sam ding uh a, ahih hangin ka dawng kei ding hi. Amaute in limtakin kei hong zong ding uh a, ahih hangin hong mu kei ding uh hi—"
+        },
+        {
+          "number": 29,
+          "text": "Bang hang hiam cihleh amaute in thu theihna mudah-in, Yahweh tungah zahtakna piak ding a teel nuam kei uh hi."
+        },
+        {
+          "number": 30,
+          "text": "Amaute in ka ngaihsut piakna khat zong nei loin, ka taii-na leh ka hilhkholhna khempeuh a simmawh nungsangun,"
+        },
+        {
+          "number": 31,
+          "text": "amau gamtatna gah mah ne ding uh a, amau ngaihsutna tawh mawk om meimai ding uh hi."
+        },
+        {
+          "number": 32,
+          "text": "Mimawlte in amau kihei khiatna sihlawh ding a, mi haite’ kihai muanna in amau kisiatna ding mah ahi hi."
+        },
+        {
+          "number": 33,
+          "text": "Ahih hangin ka thu hong ngai peuhmah in suksiatna kihta loin muanhuai tak leh lungmuang takin om ding uh hi."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Pilna Zonna Hanga Phattuamnate",
+          "before_verse": 1
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ka ta aw, ka thugente na san a, ka Thukamte na sungah na khol leh;"
+        },
+        {
+          "number": 2,
+          "text": "pilna lamah na bil ngatin, thu theihtelna lamah na lungsim na zat leh;"
+        },
+        {
+          "number": 3,
+          "text": "Hi hi, thutheihna deih takpi-in, theihtel theihna lunggulhin nakpi-in na kiko leh;"
+        },
+        {
+          "number": 4,
+          "text": "Nangmah in ngun bangin pilna zongin, a kiseel van manpha zon bangin pilna na zon leh—"
+        },
+        {
+          "number": 5,
+          "text": "tua ciangin nangmah in Yahweh zahtakna thu na theitel ding a, i Vantung Pa’ theihna na mu ding hi."
+        },
+        {
+          "number": 6,
+          "text": "Bang hang hiam cihleh pilna a piapa Yahweh hi a, Ama kam panin theihna leh thu theihtelna hong pai hi."
+        },
+        {
+          "number": 7,
+          "text": "Yahweh in thumaan mite aa dingin thu theihtel theihna hoih koihsak a, Amah pen thutang taka a gamta mite aa dingin kidalna lum ahi hi:"
+        },
+        {
+          "number": 8,
+          "text": "Bang hang hiam cihleh Yahweh in thutang mite’ lampi cing a, Ama misiangte’ lampi a kem hi."
+        },
+        {
+          "number": 9,
+          "text": "Tua hileh thumaan lampi peuhmah—thumaan, thutang leh a kilawm a kituak na thei ding hi."
+        },
+        {
+          "number": 10,
+          "text": "Na lungsim sungah pilna hong lut ciangin thutheihna in na nuntakna hong nuamsak ding a—"
+        },
+        {
+          "number": 11,
+          "text": "Khentel siamna in nang hong hu-in, thu theihtelna in nang hong cing ding hi;"
+        },
+        {
+          "number": 12,
+          "text": "tua in siatna lampi pan, thulehgen mite kiang pan,"
+        },
+        {
+          "number": 13,
+          "text": "khuamial lampite a zui dingin thumaan lampi a nusia mite kiang pan,"
+        },
+        {
+          "number": 14,
+          "text": "siatna gamtat nuamsa-in, thusia kawigenna nuam a sa mite kiang pan,"
+        },
+        {
+          "number": 15,
+          "text": "a lampite uh kawi-in amau lampite mah in a lehkhem mite kiang panin hong hotkhiat theih nading ahi hi."
+        },
+        {
+          "number": 16,
+          "text": "Khentel theihna leh thu theihtelna in theih ngeiloh numei pan leh, kam khum zangin mi a zol numei paktat kiang panin nang hong hon ding hi;"
+        },
+        {
+          "number": 17,
+          "text": "tua nu in a kikholpih a khangno lawm ama pasal nusia a, a Pa Yahweh’ thuciamna a mangngilh hi."
+        },
+        {
+          "number": 18,
+          "text": "Sihna sungah tuanu’ inn tolhsuk a, ama lampite in sihna lam zuan hi."
+        },
+        {
+          "number": 19,
+          "text": "Ama kiangah a pai peuhmah kilehkik nawn lo a, amaute in nuntakna lampite zong a tawn nawn kei uh hi."
+        },
+        {
+          "number": 20,
+          "text": "Tua ahih ciangin thutang lampi tawn inla, thumaan lampite zui in;"
+        },
+        {
+          "number": 21,
+          "text": "Bang hang hiam cihleh thutang mite leitung ah teng ding uh a, a paubang lo mite a om ding uh hi."
+        },
+        {
+          "number": 22,
+          "text": "Ahih hangin migilote ahih leh leitung panin kilawn khia ding a, leitung panin thupalsatte kizungbot ding hi."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Biakna tawh Nuntakna Thamante",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Pilna’ Letsong Manpha",
+          "before_verse": 13
+        },
+        {
+          "level": 1,
+          "text": "Yahweh in Pilna tawh Leitung Phut",
+          "before_verse": 19
+        },
+        {
+          "level": 1,
+          "text": "A pilte’ Vaipuakte",
+          "before_verse": 21
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ka ta aw, ka Thukham mangngilh kei inla, ka thuhilhnate zong na lungtang ah ciamteh in."
+        },
+        {
+          "number": 2,
+          "text": "Bang hang hiam cihleh nuntak nite, khansau-na leh lungnopna, nang tungah hong kibehlap ding hi."
+        },
+        {
+          "number": 3,
+          "text": "Hehpihna leh thu man kinusia sak ngei kei inla, na ngawng ah tuate awkin, na lungsim kawm tungah gelh in;"
+        },
+        {
+          "number": 4,
+          "text": "tua hileh, Yahweh leh mihingte muhna ah pahtawina, minphatna leh thukimpihna na ngah ding hi."
+        },
+        {
+          "number": 5,
+          "text": "Na lungsim khempeuh tawh Yahweh muang inla, nangma theihna suang kei in."
+        },
+        {
+          "number": 6,
+          "text": "Na hihna khempeuh ah Yahweh phawk in; tua ciangin Amah in lam hong lak ding hi."
+        },
+        {
+          "number": 7,
+          "text": "Nang le nang pil kisa kei inla, siatna panin kihei sitsetna tawh Yahweh zahtak in."
+        },
+        {
+          "number": 8,
+          "text": "Hih in na pumpi cidamsak ding a, na guhte thadimsak ding hi."
+        },
+        {
+          "number": 9,
+          "text": "Na neihsate leh na ngahna khempeuh panin gah masate tawh Yahweh pahtawi in;"
+        },
+        {
+          "number": 10,
+          "text": "tua ciangin na ansalte ah tampitak dim ding a, na beelte leenggahzu thak tawh dimlet ding hi."
+        },
+        {
+          "number": 11,
+          "text": "Ka ta aw, Yahweh’ hong thuhilhna thusim lo kei inla, Ama hong puahphatna sangnuam lo kei in."
+        },
+        {
+          "number": 12,
+          "text": "Bang hang hiam cihleh pa in ama lungdamna ahi a tapa a puahphat mah bangin Yahweh in a it mite a puahpha hi."
+        },
+        {
+          "number": 13,
+          "text": "Pilna a mu mipa, thupha ngah ahi hi. Thu theihtelna a ngah mipa, thupha ngah ahi hi."
+        },
+        {
+          "number": 14,
+          "text": "Bang hang hiam cihleh tua bang ngahna pen ngun ngahna sangin hoihzaw a, a thaman pen kham hoihpen sangin zong lianzaw hi."
+        },
+        {
+          "number": 15,
+          "text": "Pilna in suangsan manpha pente sangin manpha zaw a, na lunggulhpente khat beek tawh tehkak theih ding ahi kei hi."
+        },
+        {
+          "number": 16,
+          "text": "Khansau-na ama taklam khut sungah om a, ama veilam khut ah hauhna leh pahtawina a om hi."
+        },
+        {
+          "number": 17,
+          "text": "Ama lampite pen lungdamna lampite hi a, ama zawi khempeuh lungnopna vive ahi hi."
+        },
+        {
+          "number": 18,
+          "text": "Amah pen amah a pom mite aa dingin nuntakna singkung khat ahi hi. Amah a kiplet mite thupha ngah ahi hi."
+        },
+        {
+          "number": 19,
+          "text": "Yahweh in pilna tawh leitung phut hi. Amah in theihtelna tawh vantungte kipsak hi."
+        },
+        {
+          "number": 20,
+          "text": "Ama thutheihna tungtawntin a thukpite kitamzan a, vanpite in daitui a kiasak hi."
+        },
+        {
+          "number": 21,
+          "text": "Ka ta aw, a kip pilna leh khensat siamna kemcing inla, na mai panin khahsuah ngei kei in."
+        },
+        {
+          "number": 22,
+          "text": "Amaute pen na sunglam aa dingin nuntakna hi ding a, na ngawng-a kizepna hoih tawh kibang ding hi."
+        },
+        {
+          "number": 23,
+          "text": "Tua ciangin na lampi ah lungmuang takin na pai ding aa, na khe in bangmah suikha lo ding hi."
+        },
+        {
+          "number": 24,
+          "text": "Na lup ciangin na lau kei ding hi. Hi hi, na lumsuk ding a, na ihmut nuam mahmah ding hi."
+        },
+        {
+          "number": 25,
+          "text": "Hong phawngvat lipkhaphuai lau-na na nei kei ding a, migilote kisuksiatna a tun ciangin zong na lau kei ding hi."
+        },
+        {
+          "number": 26,
+          "text": "Bang hang hiam cihleh Yahweh pen nangma kimuanna hi ding a, thang-a awk nading panin na khe hong kem ding hi."
+        },
+        {
+          "number": 27,
+          "text": "Na huh zawh ding ahih leh, huhna kisam mi khatpeuh na huh nuam lo kei in."
+        },
+        {
+          "number": 28,
+          "text": "Na neih hi-in, na kianga ompi mah ahih leh, na vengpa kiangah, “Ciah-in, zingciang hong paikik in, kong pia ding hi,” ci kei in."
+        },
+        {
+          "number": 29,
+          "text": "Nang hong muangin na kianga hong teng na vengpa tungah siatna bawl kei in."
+        },
+        {
+          "number": 30,
+          "text": "Nangma nat nading bangmah hong bawl lo ahih leh, thu om lopi-in mi khatpeuh mawhsak kei in."
+        },
+        {
+          "number": 31,
+          "text": "Mi bawlsiate engkha kei inla, amau lampite zong teel kei in."
+        },
+        {
+          "number": 32,
+          "text": "Lungkhauh mite Yahweh aa dingin a kihhuai ahi hi; ahih hangin Ama thusim pen thumaan mite tawh om hi."
+        },
+        {
+          "number": 33,
+          "text": "Migilote’ inn sungah Yahweh’ samsiatna om a, ahih hangin Amah in thutang mite’ inn thupha a pia hi."
+        },
+        {
+          "number": 34,
+          "text": "Amah in mi en-neute zahpih taktak a, ahih hangin a kiniamkhiatte tungah pahtawina a pia hi."
+        },
+        {
+          "number": 35,
+          "text": "Mipilte in minthanna luah ding uh a, ahih hangin mi haite in maizumna ngah ding uh hi."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Pilna Thupi",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Migilote’ Lampi langah Hilhkholhna",
+          "before_verse": 10
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tate aw, na thu theihtelna uh a khan theih nadingin Yahweh hong thuhilhna limtakin don un."
+        },
+        {
+          "number": 2,
+          "text": "Bang hang hiam cihleh ka Thukham na nusiat loh nadingun upna-bulkip kong pia ding hi."
+        },
+        {
+          "number": 3,
+          "text": "Ka pa’ tapa neihsun leh ka nu muhna ah a it-huai naupangno ka hih lai-in,"
+        },
+        {
+          "number": 4,
+          "text": "amah in kei zong hong hilhin, keima kiangah, “Ka kammalte na lungsim ah lenkip in. Ka Thukhamte zui inla, nungta in!"
+        },
+        {
+          "number": 5,
+          "text": "Pilna ngah inla, thu theihtelna zong ngah in! Ka kam pana kammalte panin pial kei inla, mangngilh kei in."
+        },
+        {
+          "number": 6,
+          "text": "Pilna nusia kei in; amah in nang hong kem ding hi. Amah it in, amah in hong cing ding hi."
+        },
+        {
+          "number": 7,
+          "text": "Pilna pen awlmawh masak pen ding ahi hi; tua ahih ciangin pilna zong in. Tua ciangin na ngahsa khempeuh tawh thu theihtelna zong in."
+        },
+        {
+          "number": 8,
+          "text": "Amah thupisak in, amah in nang hong tawisang ding hi. Amah na pom ciangin amah in pahtawina hong puak ding hi."
+        },
+        {
+          "number": 9,
+          "text": "Amah in na lu tungah kizepna hoih hong sik ding a, nangma tungah minthanna lukhu hong pia ding hi,” hong ci hi."
+        },
+        {
+          "number": 10,
+          "text": "Ka tapa aw, za inla, ka thugen sang in; tua ciangin na nuntak kumte tampi a pha ding hi."
+        },
+        {
+          "number": 11,
+          "text": "Pilna lampi nang kong hilh a, lampi mante ah nang kong paipih hi."
+        },
+        {
+          "number": 12,
+          "text": "Nang na pai ciangin, na lampi siangin lauhuai-na om lo ding hi. Na tai ciangin na tuk kei ding hi."
+        },
+        {
+          "number": 13,
+          "text": "Thuhilhna lenkip inla, khahsuah kei in; limtakin cing in; bang hang hiam cihleh tua in na nuntakna ahi hi."
+        },
+        {
+          "number": 14,
+          "text": "Migilote’ lampi ah lut kei inla, siatna lampi tawn kei in."
+        },
+        {
+          "number": 15,
+          "text": "Tua lampi pelh inla, a tung zong tawn kei in! Pialkhia inla, nangma lampi ah pai in."
+        },
+        {
+          "number": 16,
+          "text": "Bang hang hiam cihleh migilote in siatna khatpeuh a bawl khit matengun a omkhong thei kei uh hi. Amaute in mi khatpeuh a puksak khit matengun a ihmu kei uh hi."
+        },
+        {
+          "number": 17,
+          "text": "Bang hang hiam cihleh amaute in gitlohna anlum ne uh a, ngongtatna leenggahzu a dawn uh hi."
+        },
+        {
+          "number": 18,
+          "text": "Ahih hangin thutang mite’ lampi pen sunkim dong a tangpha semsem zingsak khuavak tung tawh kibang hi."
+        },
+        {
+          "number": 19,
+          "text": "Migilote lampi ahih leh khuamial tawh kibang a, amau a tuksak bang hiam cih zong a thei kei uh hi."
+        },
+        {
+          "number": 20,
+          "text": "Ka ta aw, ka Thukhamte limtakin ngai inla, ka thugente na bil ngat in."
+        },
+        {
+          "number": 21,
+          "text": "Na mai panin paikhiasak kei inla, na lungtang laizangah kem in."
+        },
+        {
+          "number": 22,
+          "text": "Bang hang hiam cihleh tua thute a zong mite aa dingin tuate in nuntakna ngahsak a, pumpi buppi aa dingin cidamna ahi hi."
+        },
+        {
+          "number": 23,
+          "text": "Kidop theih tawpin na lungsim cing in; bang hang hiam cihleh tua panin nuntakna tuinakte luangkhia hi."
+        },
+        {
+          "number": 24,
+          "text": "Na kiang panin a man lo thugenna kam lakhia inla, gensiatna mukte na kiang panin gamlapi ah koih in."
+        },
+        {
+          "number": 25,
+          "text": "Na mitte a mailam tangtakin haksak inla, na mailam tangtakin en gige in."
+        },
+        {
+          "number": 26,
+          "text": "Na khete’ pai-na mun en gige inla, lampi kipte tung bek sik in."
+        },
+        {
+          "number": 27,
+          "text": "Taklam ahi a, vei lam ahi zongin pial kei inla, siatna lampi tawn kei in."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Nu-leh-pa Mawhna langah Hilhkholhna",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Zi leh Pasal tunga Cihtakna hanga Phattuamnate",
+          "before_verse": 15
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ka tapa aw, ka pilna ngai in. Ka thu theihtelna ah na bil ngat in:"
+        },
+        {
+          "number": 2,
+          "text": "Tua hileh khentel theihna na kisek ding a, na mukte in thuhtheihna a kem ding hi."
+        },
+        {
+          "number": 3,
+          "text": "Bang hang hiam cihleh numei paktatte’ muk pen khuaizutaak bangin khum a, ama kam pen sathau sangin neel zaw hi."
+        },
+        {
+          "number": 4,
+          "text": "Ahih hangin a tawpna ah amah pen gamsai bangin kha a, langnih-hiam namsau bangin a hiam hi."
+        },
+        {
+          "number": 5,
+          "text": "Sihna ah a khete paisuk a, ama kalsuanna in Sheol; hankhuk, tangtakin manawh hi."
+        },
+        {
+          "number": 6,
+          "text": "Amah in nuntakna lampi ngaihsutin nei lo a, a lampite in manawh mel nei loin kawi a, ahih hangin amah in a thei kei hi."
+        },
+        {
+          "number": 7,
+          "text": "Tua ahih ciangin ka tate aw, tu-in ka thu hong ngai un; ka thu genna panin pialkhia kei un."
+        },
+        {
+          "number": 8,
+          "text": "Gamlapi panin tuanu peel unla, a inn kongkhak nai-ah pai kei un;"
+        },
+        {
+          "number": 9,
+          "text": "Tua bang ahih keileh na minphatna uh mi dang tungah tung ding a, hehpihna a neilo mite tungah na nuntakna uh na pia kha ding uh hi."
+        },
+        {
+          "number": 10,
+          "text": "Tua ciangin na hauhna teng uh tawh khualmite in nuamsa ding a, na thalawhna gahte uh khualmipa’ inn ah tung ding hi."
+        },
+        {
+          "number": 11,
+          "text": "Tua ciangin na cilesa leh na pumpi kiamgawp-in a tawpna ah na kap ding uh a,"
+        },
+        {
+          "number": 12,
+          "text": "“Bang hangin thuhilhna mudah ing a, bang hangin hong kitai-na leh hong kihilhkholhna ka lungsim in mudah a hi hiam!"
+        },
+        {
+          "number": 13,
+          "text": "Ka siate thu ka mang nuam kei a, kei hong hilh mite thu ka ngai nuam kei kha hi!"
+        },
+        {
+          "number": 14,
+          "text": "Tu-in mihon kikhopna leh mihon laizangah kisiat kiuhkeuhna mong ah ka om ta hi,” na ci ding uh hi."
+        },
+        {
+          "number": 15,
+          "text": "Nangma tuikuang mah panin dawn inla, nangma tuikhuk panin a phul tui mah in siang hi, ci-in a kigen mah bangin,"
+        },
+        {
+          "number": 16,
+          "text": "Kongzingte-a tui luangkhiate bangin na tuinakte luangkhia zelzul gawp ding ahi hiam?"
+        },
+        {
+          "number": 17,
+          "text": "Tuate nang aa bek hisak inla, mi dangte tawh neikhawm kei in."
+        },
+        {
+          "number": 18,
+          "text": "Na tuinak in thupha ngah henla, na khangno lai-a na zi tawh nuamsa in."
+        },
+        {
+          "number": 19,
+          "text": "A it-huai sazukpi ahih keileh a lungkim huai sakhipi bangin a tawntungin ama nawite tawh lungkim in. Ama itna tawh nang hong mancip den hen."
+        },
+        {
+          "number": 20,
+          "text": "Ka ta aw, bang hangin angkawmnu’ matcipsa-in om na hi hiam? Bang hangin mi dang khat angkawi na hi hiam?"
+        },
+        {
+          "number": 21,
+          "text": "Bang hang hiam cihleh mihing gamtatnate khempeuh siangtakin Yahweh in mu a, a pai-nate khempeuh limtakin a sittel hi."
+        },
+        {
+          "number": 22,
+          "text": "Migilopa ama gamtat hoih lohna mah ah awk a, ama mawhna khauhualte mah in a gakcip hi."
+        },
+        {
+          "number": 23,
+          "text": "Ama ki-uk zawh lohna hangin amah si ding a, ama hai luatna tawh a pial gawp ding hi."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Kidawm Lo-a Ciamkhaknate",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Thadahna",
+          "before_verse": 6
+        },
+        {
+          "level": 1,
+          "text": "Migilote’ Thu",
+          "before_verse": 12
+        },
+        {
+          "level": 1,
+          "text": "Yahweh aa dingin a Muhdah-huai Sagih",
+          "before_verse": 16
+        },
+        {
+          "level": 1,
+          "text": "Paktatna tawh Kisuksiat Tawmna",
+          "before_verse": 20
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ka ta aw, na sanggampa sum leitawi na ah a lohzawh kei leh ama tangin lohsak dingin na kiciam leh, ahih keileh khualmi khat kiciamna van khatpeuh a loh zawh kei leh lohsak dingin thukimna-in khut na kilet khak leh,"
+        },
+        {
+          "number": 2,
+          "text": "Na kampau pan-a kammal tawh a awk na hi a, na ciamsa thu bangin hong kiman hi."
+        },
+        {
+          "number": 3,
+          "text": "Tua ahih ciangin ka ta aw, hih bangin hih in; nang le nang kihonkhia in; bang hang hiam cihleh tu-in na sanggampa khut sungah om na hi hi. Pai-in kiniamkhiat inla, hong khahkhiatna dingin na sanggampa kiangah va thuum in."
+        },
+        {
+          "number": 4,
+          "text": "Sabengpa khut-a sakhi leh vasa bengpa khut-a vasa bangin na suahtak matengin,"
+        },
+        {
+          "number": 5,
+          "text": "ihmu kei inla, zong lusu kha kei in."
+        },
+        {
+          "number": 6,
+          "text": "Thadahpa aw, miksi kiangah pai-in, a nuntak ziate ngaihsun inla, pil in."
+        },
+        {
+          "number": 7,
+          "text": "Amah in a makaih, a lamlak leh a uk zong nei se loin,"
+        },
+        {
+          "number": 8,
+          "text": "khuakhal hunin a nek ding an nei a, anlak hun-in an a kaikhawm hi."
+        },
+        {
+          "number": 9,
+          "text": "Thadahpa aw, bang tanvei lum ding na hi hiam? Cik ciangin thokhia ding na hi hiam?"
+        },
+        {
+          "number": 10,
+          "text": "Tawmvei lum lai ning, tawmvei mengme lai ning, tomno sung khut tawh kihum-in mengme lai ning na cih sungin,"
+        },
+        {
+          "number": 11,
+          "text": "a buluh gawpte bangin zawnna na tungah hong tungin, galhiam tawi khat bangin hong susia mang ding hi."
+        },
+        {
+          "number": 12,
+          "text": "Migina lo a gilopa in a kam panin zuau thu genin vak kawikawi hi."
+        },
+        {
+          "number": 13,
+          "text": "Amah in a mit sinsan-in, a khe tawh gen a, a khutmete tawh hilh hi;"
+        },
+        {
+          "number": 14,
+          "text": "a lungsim sungah zuauthu bek om a, siatna vive geelin ahih keileh ki-etkhialhna vive a piangsak hi."
+        },
+        {
+          "number": 15,
+          "text": "Tua ahih ciangin thakhat thu-in ama tungah haksat-buaina hong tung vat ding a, tomno sungin bawlkik zawh nawn lohin kisia mang ding hi."
+        },
+        {
+          "number": 16,
+          "text": "Yahweh in a muhdah guk om hi. Hi hi, Ama aa dingin a kih-huai sagih om hi:"
+        },
+        {
+          "number": 17,
+          "text": "Kiphatsakna, zuaugenna, mawhbang lo sisan suahna,"
+        },
+        {
+          "number": 18,
+          "text": "gitlohna vive ngaihsutna lungsim, siatna lamah manlangna,"
+        },
+        {
+          "number": 19,
+          "text": "zuau genin a manlo tecipangte leh a sanggamte lakah ki-etkhialhna a vawh mi ahi hi."
+        },
+        {
+          "number": 20,
+          "text": "Ka ta aw, Yahweh’ Thukhamte zui inla, Yahweh’ Inn panin Thukham sung hilhcianna leh lamlahnate nusia kei in."
+        },
+        {
+          "number": 21,
+          "text": "Na lungsim ah a tawntungin tuate khihcip inla, na ngawng ah tuate ok in."
+        },
+        {
+          "number": 22,
+          "text": "Na pai ciangin tuate in nang hong makaih ding a, na ihmut ciangin tuate in nang hong cing gige ding hi; na khanlawh ciangin tuate in nang hong hopih ding hi."
+        },
+        {
+          "number": 23,
+          "text": "Bang hang hiam cihleh thupiaknate pen meivak hi a, Thukham pen khuavak ahi hi; thuhilh-in kitainate pen nuntakna lampi ahi hi:"
+        },
+        {
+          "number": 24,
+          "text": "tuate in numei ginalo kiang pan, khualmi numei’ a zolsiam leii panin nang hong kep nading ahi hi."
+        },
+        {
+          "number": 25,
+          "text": "Na lungsim sungah ama meel hoihna lunggulh kha kei inla, ama hong zawlmitna khenglah kha kei in."
+        },
+        {
+          "number": 26,
+          "text": "Numei paktat khat’ manh in anlum khat manh zah hi a, ahih hangin khualmi numei khat’ manh dingin nangmah nuntakna mahmah ahi hi."
+        },
+        {
+          "number": 27,
+          "text": "Mi khat in a puan kangsak loin mei-am pom thei ding ahi hiam?"
+        },
+        {
+          "number": 28,
+          "text": "Mi khat in a khe kangsak loin, mei-am sa tungah pai thei ding ahi hiam?"
+        },
+        {
+          "number": 29,
+          "text": "A vengpa’ zi tawh a mawh mipa zong tua mah tawh kibang hi—tuanu a mawhpih peuhmah mawhbang lo hilo ding hi."
+        },
+        {
+          "number": 30,
+          "text": "Mi khat in a gilkial ciangin a gilvah nadingin na a guk ciang nangawn-in, mite in gutapa khahkhong lo uh hi;"
+        },
+        {
+          "number": 31,
+          "text": "Amah a kimat leh, ama inn-a a neihsa khempeuh a bei ding ahi phial zongin a guksate hangin a zah sagih-in a kipiasak hi."
+        },
+        {
+          "number": 32,
+          "text": "Ahih hangin numei tawh mawhna a bawl mipa pen thu theihtelna nei lo hi a, tua bang a gamta mipa in ama nuntakna mah a susia ahi hi."
+        },
+        {
+          "number": 33,
+          "text": "Amah in liamna leh mindaina ngah ding a, ama maizumna maimang lo ding hi."
+        },
+        {
+          "number": 34,
+          "text": "Bang hang hiam cihleh hazatna in a pasal’ hehna khangsak a, amah in a thukkik ciangin tawmcik zong a hehpih kei ding hi."
+        },
+        {
+          "number": 35,
+          "text": "Amah in liau-sum zong sang nuam lo ding a, letsong tampi na piak hangin zong hehnem zo lo ding hi."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Numei Paktatte",
+          "before_verse": 1
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ka ta aw, ka thute kem inla, ka Thukhamte na sungah khol in."
+        },
+        {
+          "number": 2,
+          "text": "Ka thupiaknate kem in, na nungta ding hi. Na mit nauta bangin ka Thukham kem in."
+        },
+        {
+          "number": 3,
+          "text": "Na khutmete tungah hen inla, na lungsim ah tuate gelh in."
+        },
+        {
+          "number": 4,
+          "text": "Pilna kiangah, “Ka sanggamnu na hi hi!” ci inla, thu theihtelna kiangah, “Ka kinaipihpen ka tanau-numei na hi hi!” ci in."
+        },
+        {
+          "number": 5,
+          "text": "Tua ciangin amaute in khualmi numeite kiang pan, a kammalte tawh hong zol numei paktatte kiang panin hong kem ding hi."
+        },
+        {
+          "number": 6,
+          "text": "Ka inn tawlet kongvang panin ka khuadak a,"
+        },
+        {
+          "number": 7,
+          "text": "mimawlte lak, tangvalte lakah thu theihtelna nei lo khangno khat ka mu hi."
+        },
+        {
+          "number": 8,
+          "text": "Tuanu innkiu nai-a lampi tungah amah pai a, tuanu inn lam manawh-in a pai hi;"
+        },
+        {
+          "number": 9,
+          "text": "Zan vomin a mial ma, nitak a bei kuan, khuamui hun ahi hi."
+        },
+        {
+          "number": 10,
+          "text": "En in, amah a dawntuah dingin numei paktat khat bangin puan a silh, a lungsim ah a hoih lo ngimna khat a nei numei khat hong paikhia hi."
+        },
+        {
+          "number": 11,
+          "text": "(Tuanu pen maizum na meel thei loin a hang mahmah hi a, a inn ah a khe a om ngei lo khat ahi hi."
+        },
+        {
+          "number": 12,
+          "text": "Tu-in kongzing teng leh, tual-awng teng, mun kiu teng ah mi a buk ahi hi.)"
+        },
+        {
+          "number": 13,
+          "text": "Tua ahih ciangin tuanu in amah manin, nam a, maingal takin ama kiangah,"
+        },
+        {
+          "number": 14,
+          "text": "“Tuni-in ka kiciamna tangtun ka hih manin ka inn ah kilemna biakna’ sa ka nei hi."
+        },
+        {
+          "number": 15,
+          "text": "Tua thu hangin nang tawh kimu dingin a pusuakkhia ka hi hi. Lunglawp takin nang kong zong a, kong mu ta hi."
+        },
+        {
+          "number": 16,
+          "text": "Egypt pana a mel tuamtuam tawh a kigan puan hoihpen, ka lupna tungah ka phah khin a,"
+        },
+        {
+          "number": 17,
+          "text": "Myrrh, aloes leh cinnamon paknamtui tawh ka lupna ka namtuisak khin hi."
+        },
+        {
+          "number": 18,
+          "text": "Hong pai in, zingsang dong itna tui dawn khawm ni. Itna tawh nuamsa khawm ni."
+        },
+        {
+          "number": 19,
+          "text": "Ka pasal inn ah om lo a, khual gamlapi ah zinkhin hi;"
+        },
+        {
+          "number": 20,
+          "text": "Amah in sum ip khat keng a, a kiseh ni a tun mateng inn hong ciah lo ding hi,” a ci hi."
+        },
+        {
+          "number": 21,
+          "text": "Amah in zolna kam zangin tuapa zol a, ama aw-khum tawh tuapa a zolkhia hi."
+        },
+        {
+          "number": 22,
+          "text": "A kigawh nading a zuan bawngtal bang, ahih keileh kolbulh-a puahphat dingin mihaite a pai bangin thakhat thu-in amah in tuanu a zui pah hi;"
+        },
+        {
+          "number": 23,
+          "text": "A nuntakna bulpite thaltang in a khak mateng, ama nuntakna a suplawh ding ahih lam thei loin vasa in thangzak a bawh bangin a kinawh hi."
+        },
+        {
+          "number": 24,
+          "text": "Tua ahih ciangin tu-in ka tate aw, ka thu hong ngai un. Kong gen ding thu limtakin don un."
+        },
+        {
+          "number": 25,
+          "text": "Tuanu’ lampite ah na lungsim uh kiheisak kha kei unla, ama zawite pialsan un."
+        },
+        {
+          "number": 26,
+          "text": "Bang hang hiam cihleh amah in mi tampi tak siasakin, ama thahsate sim zawhloh mihonpi a pha hi."
+        },
+        {
+          "number": 27,
+          "text": "Tuanu’ inn pen hankhuk zuatna lampi hi a, sihna inndeite ah a tuaksuk hi."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Pilna in Hong Sam",
+          "before_verse": 1
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Pilna hong kiko khia lo ahi hiam? Thu theihtelna in a aw ngaihsak hi lo ahi hiam?"
+        },
+        {
+          "number": 2,
+          "text": "Lampite a kituahna lampi kianga a sangnate dawn ah amah ding hi."
+        },
+        {
+          "number": 3,
+          "text": "Khuapi lutna kulh kongpite gei, lutna kongkhakte ah amah kiko hi."
+        },
+        {
+          "number": 4,
+          "text": "“Mihingte aw, kong sam hi; mihing khempeuh tungah kong thuum hi."
+        },
+        {
+          "number": 5,
+          "text": "No mimawlte aw, pilna tel un! No mihaite aw, lungsim thu theihtelna nei un!"
+        },
+        {
+          "number": 6,
+          "text": "Ngai un; bang hang hiam cihleh thu manpha mahmah kong gen ding hi; ka kamka-in ka gen ding thu a hoih vive ahi hi."
+        },
+        {
+          "number": 7,
+          "text": "Bang hang hiam cihleh thuman ka gen ding hi. Ka muk aa dingin gitlohna pen kihhuai-lua hi."
+        },
+        {
+          "number": 8,
+          "text": "Ka kam pana pusuak thu khempeuh thumaan vive hi a, thukawi ahi a, zuauthu ahi zongin khat beek a om kei hi."
+        },
+        {
+          "number": 9,
+          "text": "Thu theihtelna a nei mipa aa dingin kilang mahmah a, thutheihna a nei mite aa dingin man mahmah hi."
+        },
+        {
+          "number": 10,
+          "text": "Ngun dangka sangin ka thuhilhna sangzaw unla, a kideihpen kham sangin thutheihna deihzaw un."
+        },
+        {
+          "number": 11,
+          "text": "Bang hang hiam cihleh pilna pen suangsan manphate sangin hoihzaw a, a kideih na khempeuh tawh zong teh theih ding ahi kei hi."
+        },
+        {
+          "number": 12,
+          "text": "Keimah Pilna ka hi a, Ciimna tawh ka tengkhawm hi. Thutheihna leh Tei-na tawh ka kipawl hi."
+        },
+        {
+          "number": 13,
+          "text": "Yahweh zahtakna pen siatna muhdahna ahi hi. Tua ahih ciangin mi kiphasakte leh mi ngongtatte, a sia lampi leh kam zuau ka mudah taktak hi."
+        },
+        {
+          "number": 14,
+          "text": "Ngaihsut siamna kei aa hi a, thutheihna leh thukhen siamna tawh ka nei khawm hi. Keimah in thu theihtelna ka hi a, tua tawh a tonkhawm vangliatna ka hi hi."
+        },
+        {
+          "number": 15,
+          "text": "Kei tungtawnin kumpite in uk a, ukpite in thutangin thukhen hi."
+        },
+        {
+          "number": 16,
+          "text": "Kei tungtawnin uliante, mi thupite leh leitung thukhente khempeuh in thuneihna nei uh hi."
+        },
+        {
+          "number": 17,
+          "text": "Kei hong it mite ka it a, limtakin kei hong zong mite in hong mu ding uh hi."
+        },
+        {
+          "number": 18,
+          "text": "Hauhna leh pahtawina kei tawh om khawm hi; hi hi, lawhcinna leh thumaanna kei tawh ngitnget hi."
+        },
+        {
+          "number": 19,
+          "text": "Kham sangin keima gah hoihzaw a, kham siangsa sangin zong hoihzaw tham hi; ngun hoihpen sangin ka gah hoihzaw hi."
+        },
+        {
+          "number": 20,
+          "text": "Thumaan lampi ah ka pai a, thutang lampi laizang ka tawn hi;"
+        },
+        {
+          "number": 21,
+          "text": "tua in kei hong it mite hauhna taktak ka luahsak theih nading, amau vankholnate ka dimsak theih nading ahi hi."
+        },
+        {
+          "number": 22,
+          "text": "Yahweh in tangtawng-a ama nasepte khat beek a bawl ma-in kei hong piangsak masapen hi."
+        },
+        {
+          "number": 23,
+          "text": "A kipat ma, leitung a kipiansak ma, leitung cih nangawn a om ma, a kipat cilcil-in kei hong ki-omsak hi."
+        },
+        {
+          "number": 24,
+          "text": "Tui thukpite a om ma, tui tawh a dim tuikhukte a om ma-in kei ka suak hi."
+        },
+        {
+          "number": 25,
+          "text": "Mual liante leh mual neute a kikoih ma-in kei ka suak hi."
+        },
+        {
+          "number": 26,
+          "text": "Yahweh in leitung ahi a, lote ahi a, leitung-a leivui khat beek zong a bawl ma-in, Amah tawh ka om khawm hi."
+        },
+        {
+          "number": 27,
+          "text": "Vantungte a bawl lai-in kei ka om hi. Tui thukpi maitang ah a kual khat a suaih lai,"
+        },
+        {
+          "number": 28,
+          "text": "a tunga meiite kipsakin, tuipi tuinakte muanhuai takin a bawl lai,"
+        },
+        {
+          "number": 29,
+          "text": "tuite in Ama thupiakna khengin a luan loh nadingin Amah in tuipi thu a piak lai, Amah in leitung bulpi ding a ciamteh lai-in,"
+        },
+        {
+          "number": 30,
+          "text": "Ama kiangah ka om a, Amah tawh a khangkhia khawm khat bangin Ama omna ah nuamsa mahmah-in, nisim-in Ama lungdamna ka hi hi."
+        },
+        {
+          "number": 31,
+          "text": "Ama tenna leitung ah kipaakin, mihing’ tapate lakah nuam ka sa hi."
+        },
+        {
+          "number": 32,
+          "text": "Tua ahih ciangin tu-in ka tate aw, ka thu hong ngai un; bang hang hiam cihleh ka lampi a zui mite thupha ngah ahi hi."
+        },
+        {
+          "number": 33,
+          "text": "Ka thuhilhna ngai-in pil unla, nial kei un."
+        },
+        {
+          "number": 34,
+          "text": "Ka kongpite nisimin a vil, ka kongkhak khuamte ah a hong ngak, ka thu a ngai mipa in thupha ngah ahi hi."
+        },
+        {
+          "number": 35,
+          "text": "Bang hang hiam cihleh kei hong mu mi peuhmah in nuntakna a mu hi a, Yahweh kiang panin pahtawina a ngah hi."
+        },
+        {
+          "number": 36,
+          "text": "Ahih hangin kei tungah a mawh mipa, amah le mah kinasak hi a, kei hong mudahte khempeuh a si nuam ahi hi."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Pilna’ Sap Ankuang Umna",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Haina’ Sap Ankuang Umna",
+          "before_verse": 13
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Pilna in a inn ding lam a, a khuampi sagih a phut hi;"
+        },
+        {
+          "number": 2,
+          "text": "Amah in a sa sem khinin, leenggahzu khaih khin a, a sabuai zong a phah khin hi."
+        },
+        {
+          "number": 3,
+          "text": "Amah in a inn-nasem numeite sawlkhia-in, khuapi sung mun sangnate panin kiko khia a,"
+        },
+        {
+          "number": 4,
+          "text": "“Mimawl peuhmah hi lai-ah hong paisak un,” a ci hi. Amah in theihtelna a nei lo mite kiangah,"
+        },
+        {
+          "number": 5,
+          "text": "“Hong pai unla, ka an ne-in ka khaihsa ka leenggahzu hong dawn un."
+        },
+        {
+          "number": 6,
+          "text": "Na haina uh nusia unla, nungta un! Thu theihtelna lampi tawn un!” a ci hi."
+        },
+        {
+          "number": 7,
+          "text": "Mi thusim lote a thuhilh mipa in ama deihsakna tangin zahko-na ngah a, migilopa a thuhilh mipa in sukgawpna a ngahzaw hi."
+        },
+        {
+          "number": 8,
+          "text": "Mi thusim lo khat tai lecin, nang hong mudah ding a, mipil khat tai lecin, nang hong it ding hi."
+        },
+        {
+          "number": 9,
+          "text": "Mipil pa tungah thuhilhna hoih pia lecin, amah pil semsem lai ding a, thutang mipa hilh lecin, ama thusinna beh lap lai ding hi."
+        },
+        {
+          "number": 10,
+          "text": "Yahweh zahtakna pen pilna kipatna hi a, Siangtho Pa theihna pen thu theihtelna ahi hi."
+        },
+        {
+          "number": 11,
+          "text": "Bang hang hiam cihleh tua in na khan hong sausak ding a, na nuntak kumte kibehlap ding hi."
+        },
+        {
+          "number": 12,
+          "text": "Pil lecin na pilna in nangmah phattuamna hong pia ding a, ahih hangin na simmawh khak leh, nangmah bek in na thuak ding hi."
+        },
+        {
+          "number": 13,
+          "text": "Haina pen a pau zuakzuak numei tawh kibang hi. Amah a mawl hi a, bangmah a thei kei hi."
+        },
+        {
+          "number": 14,
+          "text": "A inn kongkhak ah ahi a, khuapi mun sangnate tunga tutphah ah ahi zongin tu-in,"
+        },
+        {
+          "number": 15,
+          "text": "amau vai ciat tawh a pai, amah a nawk mite samin,"
+        },
+        {
+          "number": 16,
+          "text": "“Mimawl peuhpeuh, hih lai-ah hong paisak un!” a ci hi. Amah in thu theitel lote kiangah,"
+        },
+        {
+          "number": 17,
+          "text": "“A kigu tui khum deuh a, anlum neksim lim deuh hi!” a ci hi."
+        },
+        {
+          "number": 18,
+          "text": "Ahih hangin a sap mite in tua lai-ah misite a om lam ahi a, a lengnate hankhuk thukpite sungah a om lam ahi zongin a thei kei uh hi."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Solomon Gen Pilna",
+          "before_verse": 1
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Solomon’ paunakte: Ta pil in a pa lungdam sak a, ta hai in a nu dahsak hi."
+        },
+        {
+          "number": 2,
+          "text": "A man lo-a ngahna in man nei lo a, thumaanna in sihna panin honkhia hi."
+        },
+        {
+          "number": 3,
+          "text": "Yahweh in thumaan mite gilkialin koih lo a, ahih hangin migilote’ lunggulhna a nial hi."
+        },
+        {
+          "number": 4,
+          "text": "Thadah khut tawh nasem mipa zawng a, a thanuam khut in hauhna ngah hi."
+        },
+        {
+          "number": 5,
+          "text": "Khuakhal hunin a kaikhawmpa ta pil hi a, anlak hunin a ihmu tapa pen a zumhuai ahi hi."
+        },
+        {
+          "number": 6,
+          "text": "Thumaan mite lu tungah thupha kipia a, ahih hangin ngongtatna in migilote’ kam a tuam hi."
+        },
+        {
+          "number": 7,
+          "text": "Thumaan mite a kiphawkna pen thupha hi a, migilote’ min a muatcip hi."
+        },
+        {
+          "number": 8,
+          "text": "Lungpil mi in Yahweh’ Thukhamte mang nuam ding a, ahih hangin a mawk paupau mihaipa puk ding hi."
+        },
+        {
+          "number": 9,
+          "text": "Kawkbang loin a gamta pa, lungmuang takin pai a, ahih hangin thukawi bawl mipa ahih leh kitheikhia ding hi."
+        },
+        {
+          "number": 10,
+          "text": "Mit hem a pia mipa in buaina thuak ding a, ahih hangin hang taka hilhna in kilemna, nopna piangsak hi."
+        },
+        {
+          "number": 11,
+          "text": "Thumaan mite kammal pen nuntakna tuikhuk hi a, ahih hangin ngongtatna in migilote’ kam a tuam hi."
+        },
+        {
+          "number": 12,
+          "text": "Muhdahna in kitotna piangsak a, ahih hangin itna in mawhna khempeuh vukcip hi."
+        },
+        {
+          "number": 13,
+          "text": "Thu theihtelna a nei mite kam ah pilna kimu a, ahih hangin theih theihna nei lo mipa aa dingin a nungzang ah ciangduai om hi."
+        },
+        {
+          "number": 14,
+          "text": "Mipilte in a theihna uh khol a, mihaipa’ kam in siatna vive a zuan hi."
+        },
+        {
+          "number": 15,
+          "text": "Mihaute’ hauhna in a khuapi muanhuai uh hi a, ahih hangin zawnna pen mizawngte kisiatna ahi hi."
+        },
+        {
+          "number": 16,
+          "text": "Thumaan mite’ thaman in nuntakna hi a, gitlohna’ gah in mawhna leh sihna ahi hi."
+        },
+        {
+          "number": 17,
+          "text": "Thuhilhna a mang mipa pen nuntakna lampi ah a om hi a, ahih hangin kihilhna a mang lo mipa a lamkhial ahi hi."
+        },
+        {
+          "number": 18,
+          "text": "Muk zuau tawh muhdahna a gen mipa, gensiatna a kizelsak mipa, mihai ahi hi."
+        },
+        {
+          "number": 19,
+          "text": "Kidawm loin kam tampi pauna ah mawhna kihel loin om lo hi; tua ahih ciangin a leii a ukzo mipa a pil ahi hi."
+        },
+        {
+          "number": 20,
+          "text": "Thumaan mite’ leii in ngun hoihpen hi a, migilote lungsim in manh nei lo hi."
+        },
+        {
+          "number": 21,
+          "text": "Thumaan mite’ muk in mi tampi vak a, ahih hangin mihaite ahih leh pilna a neih loh manun si hi."
+        },
+        {
+          "number": 22,
+          "text": "Yahweh’ thupha in mi hausak a, Amah in dahna kihel loin pia hi."
+        },
+        {
+          "number": 23,
+          "text": "Mihaite aa dingin siatna bawlna pen amau kimawlna bang hi a, ahih hangin thu theitel mipa in pilna sungah nuamsa hi."
+        },
+        {
+          "number": 24,
+          "text": "Migilopa in a kihtakte ama tungah tung ding a, thumaan mipa a lunggulhna kipia ding hi."
+        },
+        {
+          "number": 25,
+          "text": "Pingpei in a nawk ciangin, migilopa mangthang ding a, ahih hangin thumaan mipa in tawntung bulkip a nei hi."
+        },
+        {
+          "number": 26,
+          "text": "Ha aa dingin leenggahtui thuk leh mit aa ding meikhu bangin, amah a sawlpa aa dingin mi thadahte tua bang ahi hi."
+        },
+        {
+          "number": 27,
+          "text": "Yahweh zahtakna in khan sausak a, migilote’ nuntak kumte tawm ding hi."
+        },
+        {
+          "number": 28,
+          "text": "Thumaan mite’ lametna pen kipakna hi ding a, ahih hangin migilote’ lametna pen a hawmpi hi ding hi."
+        },
+        {
+          "number": 29,
+          "text": "Yahweh’ zia pen thutang mite aa dingin thahatna hi a, ahih hangin mawhna a bawl mite tungah suksiatna tung ding hi."
+        },
+        {
+          "number": 30,
+          "text": "Thumaan mite kihemkhia ngei lo ding a, ahih hangin migilote leitung ah a teng kei ding uh hi."
+        },
+        {
+          "number": 31,
+          "text": "Thutang mite’ kam in pilna genkhia a, ahih hangin a zuau thei leii ki-attan ding hi."
+        },
+        {
+          "number": 32,
+          "text": "Thumaan mite’ muk in a san theih huai thu thei a, ahih hangin migilote’ kam in thusia bekbek gengen hi."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tawikhaina man lo zangte Yahweh aa dingin kihhuai a, ahih hangin tawikhaina man ah Amah a lungkim hi."
+        },
+        {
+          "number": 2,
+          "text": "Kiphatsak ciangin ki mindai hi; tua ahih ciangin mipilte kiniamkhiat uh hi."
+        },
+        {
+          "number": 3,
+          "text": "Thutang mite’ cihtakna in amaute lamlak ding a, ahih hangin thupalsatte’ zuautatna in amaute susia ding hi."
+        },
+        {
+          "number": 4,
+          "text": "Heh ni-in hauhna in manh nei lo a, ahih hangin sih nading panin thumaan mite kihonkhia hi."
+        },
+        {
+          "number": 5,
+          "text": "A paubaang lopa a thumaanna in a lampi ding lak a, ahih hangin migilopa pen ama gitlohna mah tawh puk ding hi."
+        },
+        {
+          "number": 6,
+          "text": "Thutang mite a thumaanna un amaute honkhia ding a, ahih hangin thupalsat mite pen a huaihamna mah ah awk ding hi."
+        },
+        {
+          "number": 7,
+          "text": "Migilopa a sih ciangin ama lametna mangthang a, a lametna khempeuh a mawkna suak hi."
+        },
+        {
+          "number": 8,
+          "text": "Lungkhamna panin thumaan mite kihonkhia a, tua tangin migilote tungah a tungzaw hi."
+        },
+        {
+          "number": 9,
+          "text": "Mi hoih kineih khempa in a kam tawh a sanggampa susia hi; ahih hangin thutheihna tungtawnin thutang mipa kihonkhia ding hi."
+        },
+        {
+          "number": 10,
+          "text": "Thumaan mite a tuahphat ciangin khua sungah nuamna om a, migilote a sih ciangin lungdamin kikona a om hi."
+        },
+        {
+          "number": 11,
+          "text": "Thutang mite thupha hangin khuapi kitawisang a, ahih hangin migilote kam hangin khuapi kisia hi."
+        },
+        {
+          "number": 12,
+          "text": "A vengpa simmawh-in a ko bawl mipa in pilna a nei lo ahi hi; tua ahih ciangin thu theihtelna a nei mipa in a ngaihsutnate a ip hi."
+        },
+        {
+          "number": 13,
+          "text": "Mi gensia kawikawite in thusim genkhia uh a, ahih hangin a muanhuai mipa in thusim a kem zo hi."
+        },
+        {
+          "number": 14,
+          "text": "Pilna lamlahna a om lohna mun ah, mite puk a, ahih hangin thu lamlak tampi neihna ah lungmuanna a om hi."
+        },
+        {
+          "number": 15,
+          "text": "Mi dang khat’ leiba a loh zawh kei leh a lohsak dingin a kiciampa in a thuak ding hi. Tua bang thu ah a kihel lo mipa lungmuang ding hi."
+        },
+        {
+          "number": 16,
+          "text": "A dik numei in pahtawina ngah a, ahih hangin hehpihna nei lo pasalte in hauhna bek ngah uh hi."
+        },
+        {
+          "number": 17,
+          "text": "A migi mipa ama phattuamna mah hi a, a gamh mipa amahmah a kibuaitawmsak ahi hi."
+        },
+        {
+          "number": 18,
+          "text": "Migilopa’ thamante zuauthu-in kiheisak ding a, thumaanna a vawh pa in thaman taktak la ding hi."
+        },
+        {
+          "number": 19,
+          "text": "Thumaanna in nuntakna lam a manawh mah bangin siatna a zui mipa pen ama sihna ding lam a zuanzuan ahi hi."
+        },
+        {
+          "number": 20,
+          "text": "Lungsim kawi a nei mite pen Yahweh in kih a, ahih hangin a gamtatna peuh ah a thutang mite Ama kipaakna ahi hi."
+        },
+        {
+          "number": 21,
+          "text": "Hih thu telcian in. Migilote dantuak loin om lo ding uh a, thumaan mite’ suanlekhakte ahih leh kihonkhia ding hi."
+        },
+        {
+          "number": 22,
+          "text": "Thu ngaihsun thei lo numei ngaihbaangnu pen vokpi’ naka kham nakbah tawh kibang hi."
+        },
+        {
+          "number": 23,
+          "text": "Thumaan mite lunggulhna in thumaanna mah tun a, ahih hangin migilote’ lametna in siatna tun hi."
+        },
+        {
+          "number": 24,
+          "text": "Mi pawlkhat in cingh takin hawmkhia ziahziah napi-in khang semsem uh a, ahih hangin mi pawlkhat pen a hi ding zah sangin cilzaw a, tua in a zawngsak zawsop hi."
+        },
+        {
+          "number": 25,
+          "text": "A cingh mipa thau ding a, mi dangte’ huan tui a buahsakpa in ama huan ah tui kicing ngah ding hi."
+        },
+        {
+          "number": 26,
+          "text": "A kisap hunin buhtang a zuak nuam lo vanzuakpa mite in hamsiat ding a, ahih hangin a zuakpa ahih leh a lu tungah thupha om ding hi."
+        },
+        {
+          "number": 27,
+          "text": "Na hoih sep ding a hanciam mipa in pahtawina ngah ding a, ahih hangin buaina a piangsak mipa in buaina mah ngah ding hi."
+        },
+        {
+          "number": 28,
+          "text": "A hauhna a suang mipa puk ding a, ahih hangin thumaan mi pen singhiang pha tawh kibang ding hi."
+        },
+        {
+          "number": 29,
+          "text": "A inn sung a tokbuai mipa huih lakah teng ding a, mihaite pen lungpilte’ sila suak ding hi."
+        },
+        {
+          "number": 30,
+          "text": "Thumaanna gah pen nuntakna singkung hi a, mite’ lungsim a zo mipa mipil ahi hi."
+        },
+        {
+          "number": 31,
+          "text": "En in, thumaan mite in leitung ah thaman sang ding uh hi. Migilote leh mi mawhte in nakpi takin a thaman uh ngahzaw ding hi!"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Thuhilhna a deih mi peuhmah in thutheihna zong deih uh a, ahih hangin puahpha-in kithuhilhna a deih lo mipa khuak nei lo ahi hi."
+        },
+        {
+          "number": 2,
+          "text": "Thumaan mipa in Yahweh kiang panin pahtawina sang a, ahih hangin a gilo mipa’ ngaihsutnate Amah in a mawhsak ding hi."
+        },
+        {
+          "number": 3,
+          "text": "Gitlohna in mihing khat kipsak lo ding a, ahih hangin thumaan mipa’ zung kilongkhia zo lo ding hi."
+        },
+        {
+          "number": 4,
+          "text": "A gamtat hoih numei pen a pasal aa dingin kumpi-lukhu hi a, ahih hangin maizumna a piangsak numei pen a pasal guh a muatsak tawh kibang hi."
+        },
+        {
+          "number": 5,
+          "text": "Thumaan mite’ ngaihsutnate man a, ahih hangin migilote’ ngaihsutna zuauthu ahi hi."
+        },
+        {
+          "number": 6,
+          "text": "Migilote kammal in sisan suah theih nadingin buk a, ahih hangin thutang mite kampau in amaute a honkhia hi."
+        },
+        {
+          "number": 7,
+          "text": "Migilote kilawngawp-in beimang uh a, ahih hangin thumaan mipa’ inn a kip hi."
+        },
+        {
+          "number": 8,
+          "text": "Mi khat in a pilna tawh kizui-in a thugenna tawh nuamsa ding a, ahih hangin lungsim sia a nei mipa kineu-et ding hi."
+        },
+        {
+          "number": 9,
+          "text": "An nei lo pi-in mi khatpeuh aa ding a thupi kineihna sangin, ama kivak nadingin na a sem mi mawkmawk khat hih ding hoihzaw hi."
+        },
+        {
+          "number": 10,
+          "text": "Thumaan mipa in a ganhingte’ nuntakna don a, ahih hangin migilote’ hehpihna honpite in bawlsiatna suak hi."
+        },
+        {
+          "number": 11,
+          "text": "Ama leitang a khopa in an tawh nuamsa ding a, ahih hangin sakhituihup peuh a delhdelh mipa in thu theihtelna a nei lo ahi hi."
+        },
+        {
+          "number": 12,
+          "text": "Migilote in siatna tawh ngahna lunggulh uh a, ahih hangin thumaan mipa’ zung in gah hoih a gahsak hi."
+        },
+        {
+          "number": 13,
+          "text": "Migilopa, a thugenna mah tawh awk a, ahih hangin buaina panin thutangpa paikhia ding hi."
+        },
+        {
+          "number": 14,
+          "text": "Mi khat in a kampauna tawh kizui-in thaman sang ding a, ama sepna tawh kituakin kipia ding hi."
+        },
+        {
+          "number": 15,
+          "text": "Mihaipa in ama muhna ah ama hihna mah mansa a, ahih hangin thukuppihna a ngai mipa a pil ahi hi."
+        },
+        {
+          "number": 16,
+          "text": "Mihaipa’ a hehlam thakhatin kithei pah a, ahih hangin a kidopsiam mipa in a hehna im hi."
+        },
+        {
+          "number": 17,
+          "text": "Thuman a genpa in thumaanna a genkhia hi a, ahih hangin a man lo teci in zuauthu genkhia hi."
+        },
+        {
+          "number": 18,
+          "text": "Ngaihsun loin kampauna tawh namsau bangin a bantan mang mi pawlkhat om a, ahih hangin mipilte’ leii in a dam nadingin huh hi."
+        },
+        {
+          "number": 19,
+          "text": "A man thu a gen muk pen kikipsak tawntung ding a, a zuau leii tawmvei sung bek kimang ding hi."
+        },
+        {
+          "number": 20,
+          "text": "Siatna a ngim mite’ lungtang ah zuauthu om a, ahih hangin kilemna ding a deih mite kiangah lungnopna om hi."
+        },
+        {
+          "number": 21,
+          "text": "1 Thutang mite tungah thusia tung lo ding a, ahih hangin migilote ahih leh buaina tawh kidim ding uh hi."
+        },
+        {
+          "number": 22,
+          "text": "Muk zuaute Yahweh aa dingin kihhuai a, ahih hangin thu man a gen mite Ama kipaakna ahi hi."
+        },
+        {
+          "number": 23,
+          "text": "A kidawm thei mipa, a theih thu ah daitakin om lel a, ahih hangin mihaite lungtang in a haina uh tangko hi."
+        },
+        {
+          "number": 24,
+          "text": "A thanuam mite khut in uk ding a, ahih hangin a thadahte aana tawh kisemsak ding hi."
+        },
+        {
+          "number": 25,
+          "text": "Lunghihmawh luatna in mihing puksak a, ahih hangin hanthotna kammal in amah nuamsak hi."
+        },
+        {
+          "number": 26,
+          "text": "Migilote a gamtatna un lamkhialhpih ahih manin thumaan mipa in kidawm takin a lawm dingte teel hi."
+        },
+        {
+          "number": 27,
+          "text": "Mi thadah in a sa matsa hangkeu nuam lo a, ahih hangin mi thanuam in a neihsate a thupi ngaihsut hi."
+        },
+        {
+          "number": 28,
+          "text": "Thumaan mite lampi ah nuntakna om a, tua lamdung ah sihna om lo hi."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ta pil in a pa’ thuhilhna manpha sa a, ahih hangin mi kihisakte in thuhilhna ngai nuam lo hi."
+        },
+        {
+          "number": 2,
+          "text": "Mihing in a kam pana gah, a thaman ne ding a, thupalsatte in ngongtatna ne ding uh hi."
+        },
+        {
+          "number": 3,
+          "text": "A kam a cing mipa in a nuntakna a kem hi a, ahih hangin a kam ka beba mipa kisiatna tung ding hi."
+        },
+        {
+          "number": 4,
+          "text": "Mi thadahte in deih ngitnget ding uh a, ahih hangin bangmah ngah lo ding uh hi; a thanuamte ahih leh a dimletin a ngah ding uh hi."
+        },
+        {
+          "number": 5,
+          "text": "Thumaan mi in zuauthu mudah a, migilopa luaksuah huai-in, maizumna thuak ding hi."
+        },
+        {
+          "number": 6,
+          "text": "Thumaanna in a gamtatna ah a thutang mipa kem a, ahih hangin gitlohna in mimawhte lawngawp hi."
+        },
+        {
+          "number": 7,
+          "text": "Bangmah nei lopi-in a hau kineih mi om a, ahih hangin neihsa lianpi nei-in a zawng a kineih mi om hi."
+        },
+        {
+          "number": 8,
+          "text": "A hau mipa in a nuntakna a tan zo hauhna nei a, ahih hangin a zawng mipa in lausakna a za ngei kei hi."
+        },
+        {
+          "number": 9,
+          "text": "Thumaan mite’ khuavak tangpha a, ahih hangin migilote’ meivak kisumit hi."
+        },
+        {
+          "number": 10,
+          "text": "Kiphatsakna in kitotna bek suahkhia a, ahih hangin mi’ ngaihsutna a dong mite sungah pilna kimu hi."
+        },
+        {
+          "number": 11,
+          "text": "Thumaan loin ngahna tawh hauhna pen maimang ding a, ahih hangin sep ciatciatna in khangsak semsem hi."
+        },
+        {
+          "number": 12,
+          "text": "A tung pak lo lametna in lungsim na sak a, ahih hangin lunggulh tangtunna in nuntakna singkung ahi hi."
+        },
+        {
+          "number": 13,
+          "text": "Thu; Thukham leh kamsangte thugente, a simmawh mi peuhmah kisusia ding a, ahih hangin Yahweh’ Thukhamte a zahtak mipa thaman kipia ding hi."
+        },
+        {
+          "number": 14,
+          "text": "Mipilte’ Thukham in nuntakna tuinak hi a, sihna thangzak panin a kipelhsak hi."
+        },
+        {
+          "number": 15,
+          "text": "Thu theihtelna hoih in pahtawina ngah a, ahih hangin thupalsatte lampi haksa hi."
+        },
+        {
+          "number": 16,
+          "text": "A kidawm thei mi peuhmah theihna tawh gamta uh a, ahih hangin mihaipa in a haina pholak hi."
+        },
+        {
+          "number": 17,
+          "text": "Migilo kamtaipa in buaina tuak a, ahih hangin a citak thupuapa in damna puak hi."
+        },
+        {
+          "number": 18,
+          "text": "Thuhilhna a mang lo mipa tungah zawnna leh maizumna tung ding a, ahih hangin taiina leh hilhkholhna a thudonpa kipahtawi ding hi."
+        },
+        {
+          "number": 19,
+          "text": "Lunggulh tangtunna pen lungsim aa dingin khum hi; tua ahih ciangin siatna panin kihei khiat ding pen mihaite aa dingin a muhdah huai khat ahi hi."
+        },
+        {
+          "number": 20,
+          "text": "Mipilte tawh a kithuah mipa pil semsem ding a, ahih hangin mihaite a kikholhpihpa kisusia ding hi."
+        },
+        {
+          "number": 21,
+          "text": "Siatna in mimawhte delh a, ahih hangin midikte tungah thumaanna kipia ding hi."
+        },
+        {
+          "number": 22,
+          "text": "Thumaan mipa in a tate’ tate aa dingin gamh nusia a, ahih hangin mimawhpa’ hauhna pen thumaan mite aa dingin kihawi hi."
+        },
+        {
+          "number": 23,
+          "text": "Mizawngpa’ khawhna lo in an tampi piangsak kha ding a, ahih hangin thutan lohna in tua khempeuh a susia thei hi."
+        },
+        {
+          "number": 24,
+          "text": "Ciangduai tawh a tapa a thuhilh lo mipa in a tapa a mudah hi a, ahih hangin a tapa a it mipa in manlang takin thuhilh hi."
+        },
+        {
+          "number": 25,
+          "text": "Thumaan mipa in a duhzah ne a, ahih hangin migilote a gilkial ding uh hi."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "A pil numei in a inn lam a, ahih hangin a hai numei in a khut tawh a susia hi."
+        },
+        {
+          "number": 2,
+          "text": "Thutang takin a gamta mipa in Yahweh zahtak a, ahih hangin a gamtatna ah a lungsim kawi mipa in Amah a simmawh hi."
+        },
+        {
+          "number": 3,
+          "text": "Mihaipa’ kampauna in a nungzang ah ciangduai puak a, ahih hangin mipilte’ muk in amau a kem hi."
+        },
+        {
+          "number": 4,
+          "text": "Bawngtal a om lohna ah gan ankuang hawm a, ahih hangin bawngtal’ thahatna hangin an tampi kila hi."
+        },
+        {
+          "number": 5,
+          "text": "A muanhuai teci in zuau gen lo a, ahih hangin a man lo teci in zuau vive a gen hi."
+        },
+        {
+          "number": 6,
+          "text": "Mi thusim lote in pilna a zon uh hangin a mu kei uh hi; ahih hangin thu theitel mipa kiangah baihtakin thutheihna tung hi."
+        },
+        {
+          "number": 7,
+          "text": "Mihaipa omna nusia in; ama sungah thutheihna mukte na mu kei ding hi."
+        },
+        {
+          "number": 8,
+          "text": "Thu khentel theite a pilna in a gamtatna telcianna hi a, ahih hangin mihaite’ haina ahih leh khemna ahi hi."
+        },
+        {
+          "number": 9,
+          "text": "Mihaite in mawhna aa ding thoihdamna zahko uh a, ahih hangin thumaan mite lakah kipahtawi ding hi."
+        },
+        {
+          "number": 10,
+          "text": "Lungtang khempeuh in amau thuakna thei ciat a, kuamah dang in a lungnopna hawm thei lo hi."
+        },
+        {
+          "number": 11,
+          "text": "Migilopa’ inn kilumlet ding a, ahih hangin thutang mipa’ buk a gina semsem ding hi."
+        },
+        {
+          "number": 12,
+          "text": "Mihing aa dingin a man tawh a kibang lampi om a, ahih hangin a tawpna ah sihna lampite ahi hi."
+        },
+        {
+          "number": 13,
+          "text": "Nuih laitak nangawnin lungsim na thei a, lungnopna mong ah dahna tung thei hi."
+        },
+        {
+          "number": 14,
+          "text": "A kilehhei mipa a gamtatna bangin kithuk ding a, thumaan mipa a thumaanna hangin thaman kipia ding hi."
+        },
+        {
+          "number": 15,
+          "text": "Mimawlpa in thu khempeuh um a, ahih hangin khentel theihna a nei mipa in a zuih ding lampi limtakin en hi."
+        },
+        {
+          "number": 16,
+          "text": "Mipilte in Yahweh zahtakin a sia panin kihem uh a, ahih hangin mihaite gilo-in kipum muan uh hi."
+        },
+        {
+          "number": 17,
+          "text": "A hehbaih mipa hai gamtat a, a gitloh-pil mipa kimudah hi."
+        },
+        {
+          "number": 18,
+          "text": "Mimawlte in haina luah uh a, ahih hangin a thu ngaihsun theite tungah thutheihna kikhusak hi."
+        },
+        {
+          "number": 19,
+          "text": "Thumaan mite mai-ah mi tatsiate kun ding uh a, thumaan mite’ kongkhak ah migilote kun ding uh hi."
+        },
+        {
+          "number": 20,
+          "text": "Mizawngte ahih leh a vengte nangawn in pelh uh a, ahih hangin mi haupa in lawm it tampi a nei hi."
+        },
+        {
+          "number": 21,
+          "text": "A sanggam a simmawh mi in a mawh hi a, ahih hangin mizawngte tungah hehpihna a nei mi in mi nuamsa ahi hi."
+        },
+        {
+          "number": 22,
+          "text": "Siatna a geel mite a lamkhial uh hi lo ahi hiam? Ahih hangin thumaan ding a hanciam mite tungah hehpihna leh thuman om ding hi."
+        },
+        {
+          "number": 23,
+          "text": "Haksapi-a sepna khempeuh ah ngahna om a, ahih hangin kam bek pau mawkna in zawnna hong tun hi."
+        },
+        {
+          "number": 24,
+          "text": "Mipilte a hauhna uh a lukhu hi a, ahih hangin mihaite’ haina in haina mah a suah hi."
+        },
+        {
+          "number": 25,
+          "text": "A thuman teci in nuntakna tampi hu a, ahih hangin a man lo teci in mi lehhek ahi hi."
+        },
+        {
+          "number": 26,
+          "text": "Yahweh zahtakna ah kimuanna kiptak om a, Ama tate in bukna mun kip a nei ding uh hi."
+        },
+        {
+          "number": 27,
+          "text": "Yahweh zahtakna pen nuntakna bulpi hi a, sihna thangzakte tawh kipelh nading ahi hi."
+        },
+        {
+          "number": 28,
+          "text": "Kumpipa’ minphatna pen gammi tampi neihna panin hong piang hi a, a mipite loin, a kumpipa’ tapa a mawkna ahi hi."
+        },
+        {
+          "number": 29,
+          "text": "A hehhak mipa pen thu theihtelna lianpi nei hi a, ahih hangin a lungtom mi in a haina pulak hi."
+        },
+        {
+          "number": 30,
+          "text": "Lungsim nopna in pumpi aa ding cidamna hi a, ahih hangin mi hazatna in guhte aa ding a muatsak na ahi hi."
+        },
+        {
+          "number": 31,
+          "text": "Mizawngte a nengniam mi peuhmah in amah a Bawlpa a simmawh hi a, ahih hangin Amah a pahtawi mipa in mizawngte hehpih hi."
+        },
+        {
+          "number": 32,
+          "text": "Migilopa a gitlohna in notkek a, ahih hangin thumaan mite in sihna ding nangawn ah lametna nei hi."
+        },
+        {
+          "number": 33,
+          "text": "Thu theihtelna a nei mipa lungsim ah pilna teng a, ahih hangin mihaite lungsim sungah pilna kithei kha lo hi."
+        },
+        {
+          "number": 34,
+          "text": "Thumaan mite in minam tawisang a, ahih hangin mimawhte in mi khatpeuh a mindaisak hi."
+        },
+        {
+          "number": 35,
+          "text": "A pil nasempa tungah kumpipa’ pahtawina kipia a, ahih hangin a zumhuai nasempa in amah a hehsak hi."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kamnem-a dawnna in hehna damsak a, kamkhauh in hehna khangsak semsem hi."
+        },
+        {
+          "number": 2,
+          "text": "Mipilpa’ leii in thutheihna mantakin zangh a, ahih hangin mihaite’ kam in haina a buakhia hi."
+        },
+        {
+          "number": 3,
+          "text": "Yahweh’ mit in mun khempeuh mu a, misia leh mipha a encik hi."
+        },
+        {
+          "number": 4,
+          "text": "A neem leii in nuntakna singkung hi a, ahih hangin a kidawm lo leii in lungsim susia hi."
+        },
+        {
+          "number": 5,
+          "text": "Mihaipa in a pa’ thuhilhna simmawh a, ahih hangin taiina a mang mipa pen thu ngaihsun thei ahi hi."
+        },
+        {
+          "number": 6,
+          "text": "Thumaan mipa’ inn sungah van manpha tampi om a, ahih hangin migilote ahih leh a ngahna in lungkhamsak hi."
+        },
+        {
+          "number": 7,
+          "text": "Mipilpa’ leii in thutheihna kizelsak a, mihaite’ lungsim in thuman lo kizelsak hi."
+        },
+        {
+          "number": 8,
+          "text": "Migilote’ biakna Yahweh in kih a, ahih hangin thutang mite’ thungetna pen Ama lungkimna ahi hi."
+        },
+        {
+          "number": 9,
+          "text": "Migilote’ lampi Yahweh in kih a, ahih hangin Amah in thumaan takin a gamta mi it hi."
+        },
+        {
+          "number": 10,
+          "text": "Lampial mipa thuak-hak a sak liang dingin kihilh a, thuhilhna a mang nuam lo pa si ding hi."
+        },
+        {
+          "number": 11,
+          "text": "Yahweh in Sheol; sihna, leh Abaddon, suksiatna, kilang takin mu hi; tua ahih ciangin mihingte’ lungsim bangzah takin muzaw tham ding ahi hiam?"
+        },
+        {
+          "number": 12,
+          "text": "Mi thusim lo pa in amah a thuhilh ding mipa tungah itna nei lo hi; tua ahih ciangin amah in mi pilpa neh lo ding hi."
+        },
+        {
+          "number": 13,
+          "text": "Lungsim nopna in maitaisak a, ahih hangin dahna in lungsim suzan hi."
+        },
+        {
+          "number": 14,
+          "text": "Lungsim a ciim mipa in thutheihna zong a, ahih hangin mihaite’ kam in haina bek ne uh hi."
+        },
+        {
+          "number": 15,
+          "text": "A kinengniam mite aa dingin nisimin dahna vive hi a, a lungnop mite aa dingin nisimin a kizomsuak pawi ahi hi."
+        },
+        {
+          "number": 16,
+          "text": "Lungkhamna tawh van manpha lianpi neihna sangin Yahweh tawmno khat zahtakna in hoihzaw hi."
+        },
+        {
+          "number": 17,
+          "text": "Kimuhdahna tawh bawngno vakthau’ sa nekkhop sangin ki-itna tawh anteh meh nekna hoihzaw hi."
+        },
+        {
+          "number": 18,
+          "text": "A hehbaih mipa in kitotna piangsak a, ahih hangin a lungduai mipa in kinialna daisak hi."
+        },
+        {
+          "number": 19,
+          "text": "Mi thadahpa’ lampi dai-ling tawh awkcip a, ahih hangin thumaan mipa lampi a kihong hi."
+        },
+        {
+          "number": 20,
+          "text": "A pil tapa in a pa kipaaksak a, ahih hangin mihaipa in a nu simmawh hi."
+        },
+        {
+          "number": 21,
+          "text": "Pilna nei lo mipa aa dingin haina pen a lungdam huai tawh kibang a, ahih hangin thu theitel mipa thumaan takin kalsuan hi."
+        },
+        {
+          "number": 22,
+          "text": "Kikupna a om lohna mun ah geelnate tangtung lo a, thukuppih tampite’ ngaihsut piakna tawh geelnate kigualzo hi."
+        },
+        {
+          "number": 23,
+          "text": "Ahi liana dawnna in mite lungnuamsak a, a hun tawh kituaka a kigen thu, hoih lua mahmah hi."
+        },
+        {
+          "number": 24,
+          "text": "Mipilte, nuailam sihna panin a paikhiat theih nadingin mipilte aa dingin nuntakna lampi kah to to hi."
+        },
+        {
+          "number": 25,
+          "text": "Yahweh in mi kiphasakte’ inn susia ding a, ahih hangin Amah in meigongte’ kigi dal ding hi."
+        },
+        {
+          "number": 26,
+          "text": "Migilote’ ngaihsutnate Yahweh in kih a, ahih hangin a siangthote’ thugenna a lungkim hi."
+        },
+        {
+          "number": 27,
+          "text": "Buhtang deih-in a huaiham mipa in ama inn mah ah buaina tun a, ahih hangin golhguk a mudah mipa nungta ding hi."
+        },
+        {
+          "number": 28,
+          "text": "Thumaan mipa’ lungsim in a dawn ma-in limtakin ngaihsun a, migilopa’ kam in siatna a sungkhia ziahziah hi."
+        },
+        {
+          "number": 29,
+          "text": "Migilote kiang panin gamlapi ah Yahweh om a, ahih hangin Amah in thumaan mite’ thungetna a za hi."
+        },
+        {
+          "number": 30,
+          "text": "Maitaisa-a etna in lungsim nuamsak a, lungdamna thu in guhte cidamsak hi."
+        },
+        {
+          "number": 31,
+          "text": "Nuntakna a pia thuhilhna a ngai bil a neipa pen mipilte lakah a inn tawh om ding hi."
+        },
+        {
+          "number": 32,
+          "text": "Thuhilhna a nial mipa in a nuntakna a susia hi a, ahih hangin tai-in kihilhna a mang pa in thu theihtelna ngah hi."
+        },
+        {
+          "number": 33,
+          "text": "Yahweh zahtakna pen pilna sungah kithuhilhna hi a, pahtawina a tun ma-in kiniamkhiatna tung masa hi."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Lungsim sunga geelnate pen mihing aa hi a, ahih hangin a kam pana dawnkikna pen Yahweh kiang pana hong pai ahi hi."
+        },
+        {
+          "number": 2,
+          "text": "Mihingte in a hihna khempeuh uh amau mit ah man kisa a, ahih hangin Yahweh in lungsim a khitkhai hi."
+        },
+        {
+          "number": 3,
+          "text": "Na nasepte Yahweh tungah ap in, na ngaihsutnate hong tangtung ding hi."
+        },
+        {
+          "number": 4,
+          "text": "Yahweh in Ama aa dingin na khempeuh bawlkhin hi; hi hi, suksiatna ni cianga dingin migilote nangawn bawl hi."
+        },
+        {
+          "number": 5,
+          "text": "Lungsim kiphasak peuhmah Yahweh in kih hi. Hih thu tel in: Dantat loin om lo ding hi."
+        },
+        {
+          "number": 6,
+          "text": "Hehpihna leh thuman in mawhna sawpsiang a, Yahweh zahtakna in siatna panin mite taikhiasak hi."
+        },
+        {
+          "number": 7,
+          "text": "Mihing’ gamtatna in Yahweh a lungkimsak ciangin, Amah in a galte nangawn tawh kilemsak hi."
+        },
+        {
+          "number": 8,
+          "text": "Thumaan lo-a tampi ngahna sangin thumaanna tawh tawmno bek neihna hoihzaw hi."
+        },
+        {
+          "number": 9,
+          "text": "Mihing’ lungsim in a lampi ding geel a, ahih hangin Yahweh in a kalsuan nading lak hi."
+        },
+        {
+          "number": 10,
+          "text": "Kumpipa’ mukah a kimuam thukhenna om hi; tua ahih ciangin ama kam in thukhenna a lehhek peuhmah kei hi."
+        },
+        {
+          "number": 11,
+          "text": "A man tawi khaina leh tawi tehnate Yahweh aa hi a, ip sunga tawisuangte khempeuh ama bawlsa ahi hi."
+        },
+        {
+          "number": 12,
+          "text": "Gitlohna gamtat ding pen kumpipa aa dingin kihhuai hi; bang hang hiam cihleh kumpi-tokhom pen thumaanna tawh a kikipsak ahi hi."
+        },
+        {
+          "number": 13,
+          "text": "A thumaan mukte pen kumpite’ lungkimna hi a, amaute in thuman gente manpha sa uh hi."
+        },
+        {
+          "number": 14,
+          "text": "Kumpipa’ hehna pen sihna thupuak kamtaipa bang hi a, ahih hangin mipil khat in a hehna damsak ding hi."
+        },
+        {
+          "number": 15,
+          "text": "Kumpipa’ maitaina ah nuntakna om a, ama pahtawina in tukguah a zusak meiite tawh kibang hi."
+        },
+        {
+          "number": 16,
+          "text": "Kham sangin pilna ngah ding bangzah takin hoihzaw ahi hiam! Ngun sangin thu theihtelna teelzaw un!"
+        },
+        {
+          "number": 17,
+          "text": "Thutang mite’ lam lianpi in siatna panin hong paikhiatpih a, a gamtatna a kidawm mipa in ama nuntakna a kem ahi hi."
+        },
+        {
+          "number": 18,
+          "text": "Suksiatna a tun ma-in kiphatsakna masa a, pukna ma-in kihihsakna lungsim masa hi."
+        },
+        {
+          "number": 19,
+          "text": "A kiphasakte tawh vansuhsa hawm khopna sangin miniamte tawh lungsim a kiniamkhiat mi hih ding hoihzaw hi."
+        },
+        {
+          "number": 20,
+          "text": "Pilvang taka thu a vaihawmpa in gualzawhna ngah ding a, Yahweh a muang mipa, thupha ngah ahi hi."
+        },
+        {
+          "number": 21,
+          "text": "Lungsim pilte pen mi ciimte kici ding a, aw-nem in theihna khangsak hi."
+        },
+        {
+          "number": 22,
+          "text": "Thu theihtelna pen a neipa aa dingin nuntakna tuikhuk hi a, mihaite’ thuhilhna pen haina bek mah ahi hi."
+        },
+        {
+          "number": 23,
+          "text": "Mipilte’ lungsim in a kam uk a, a mukte tungah theihna a behlap hi."
+        },
+        {
+          "number": 24,
+          "text": "Aw-nem pen khuaikai bang hi a, lungsim sungah khum-in, guhte aa dingin damna ahi hi."
+        },
+        {
+          "number": 25,
+          "text": "Mite aa dingin a man tawh a kibang lampi khat om a, ahih hangin a tawpna ah sihna lampi ahi hi."
+        },
+        {
+          "number": 26,
+          "text": "Nasempa a anduhna in na semsak hi; bang hang hiam cihleh a gilkialna in nasemin not hi."
+        },
+        {
+          "number": 27,
+          "text": "Migilote in thusia zongzong uh a, a kuangpha meikuang bangin a muk tungah thusia a om hi."
+        },
+        {
+          "number": 28,
+          "text": "A lungsim kawi mipa in ki-etkhialhsakna vawh a, mi gensiate in lawmta ki-itpente khen hi."
+        },
+        {
+          "number": 29,
+          "text": "Mi ngongtatpa in a vengpa zolin, a man lo lampite ah a paipih hi."
+        },
+        {
+          "number": 30,
+          "text": "A mitsitsan mipa in thu-kawi bawlnuam hi a, a nehpiikte in thusia bawlnuam ahi hi."
+        },
+        {
+          "number": 31,
+          "text": "Thumaanna tawh a ngah ahih leh samkanna pen minthanna lukhu ahi hi."
+        },
+        {
+          "number": 32,
+          "text": "Galhang khat sangin a hehhak mipa hoihzaw a, khuapi khat a manzo pa sangin a lungsim a ukzo pa hoihzaw hi."
+        },
+        {
+          "number": 33,
+          "text": "Phei tungah ai a kilawn hi a, ahih hangin khensatna khempeuh pen Yahweh kiang pan ahi hi."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Buaina leh kitotna tawh inn dimin a om biakpiakna sa nekna sangin kilem tak leh dai takin moh keu them khat nekna hoihzaw hi."
+        },
+        {
+          "number": 2,
+          "text": "A pil nasempa in maizumna a piangsak tapa tungah thu nei ding a, tuapa’ sanggamte lakah amau sanggam khat bangin gamh luah a ngah ding hi."
+        },
+        {
+          "number": 3,
+          "text": "Ngun siansakna beel leh kham huantui-na bangin Yahweh in mihingte’ lungsim sittel hi."
+        },
+        {
+          "number": 4,
+          "text": "A gitloh gamtatte in a man lo mukte’ thugen ngai a, mi zuaute in langneihna leh galbawlna leii’ thugen a ngai uh hi."
+        },
+        {
+          "number": 5,
+          "text": "Mizawngte simmawh bawlin a ko peuhmah in amah a Bawlpa a simmawh hi a, suksiatna leh bawlsiatna ah nuam a sa mipa kidantat loin om lo ding hi."
+        },
+        {
+          "number": 6,
+          "text": "Putekte aa dingin tute pen kumpi-lukhu hi a, pate pen tate’ angtanna ahi hi."
+        },
+        {
+          "number": 7,
+          "text": "Hoih taka thugenna pen haina suak ngei lo a, muk zuau in u lian suaksak ngei lozaw lai hi."
+        },
+        {
+          "number": 8,
+          "text": "Letsong pen a sangpa aa dingin a manpha mahmah suangmanpha tawh kibang hi; tua ahih ciangin a pia mipa a heina peuhpeuh ah gualzo ding hi."
+        },
+        {
+          "number": 9,
+          "text": "Khialhna a maisak mi in itna hangin ahih hi a, ahih hangin a thu gen kikkikna in lawm hoihpente kikhensak hi."
+        },
+        {
+          "number": 10,
+          "text": "Khauteep tawh mihaipa’ nungzang zavei satna sangin mi pilpa khatvei taii-na in bunzaw hi."
+        },
+        {
+          "number": 11,
+          "text": "A tatsia mipa lehdona lam bek ah awn hi; tua ahih ciangin ama langah a hehpih lo thukansimpa kisawl ding hi."
+        },
+        {
+          "number": 12,
+          "text": "Mi khat in mihai khat a hai gamtatna a tuah sangin a note a kilaksak vompi khat tuakzaw hen."
+        },
+        {
+          "number": 13,
+          "text": "Dikna pen siatna tawh a thuk mi peuhmah, siatna in a inn taisan lo ding hi."
+        },
+        {
+          "number": 14,
+          "text": "Kitotna a kipatna pen tuicinna a kihongkhia tawh kibang hi; tua ahih ciangin kitotna a pian ma-in, kinialna nusia in."
+        },
+        {
+          "number": 15,
+          "text": "Migilote thutang hi, a cipa leh thutang mipa a mawhsakpa, a nih tuakin Yahweh in kih hi."
+        },
+        {
+          "number": 16,
+          "text": "Mihaipa in khuak nei lo ahih nungsangin pilna a lei nadingin mihaipa’ khut sunga sum in ama aa dingin bang phattuamna nei ahi hiam?"
+        },
+        {
+          "number": 17,
+          "text": "Lawm khat in hong it tawntung a, sanggam khat bangin haksat hun cianga dingin a suak ahi hi."
+        },
+        {
+          "number": 18,
+          "text": "Thu theihtelna a nei lo mipa in leitawi lakna ah a lohzawh keileh lohsak dingin a lawmpa aa dingin kiciam a, van-pawngna thu ah bansah a piaksak hi."
+        },
+        {
+          "number": 19,
+          "text": "Kitot nuam a sa mipa in thupalsatna zong nuamsa a, amah le amah a kiphatphatte ama siatna ding a samsam ahi hi."
+        },
+        {
+          "number": 20,
+          "text": "Lungsim kawite in gualzawhna ngah lo uh a, leii zuau nei mipa buaina sungah kia hi."
+        },
+        {
+          "number": 21,
+          "text": "Mihai khat ta-in a nei mipa dah mahmah a, mihaipa a pa in lungnopna nei lo hi."
+        },
+        {
+          "number": 22,
+          "text": "Lungnopna in zatui bangin damsak a, ahih hangin lungsim tapkhapna in guhte keusak hi."
+        },
+        {
+          "number": 23,
+          "text": "Thutang lampite a lumlet dingin migilo in golhguk sang hi."
+        },
+        {
+          "number": 24,
+          "text": "Thu theihtelna a nei mipa mai teekteek ah pilna om a, ahih hangin mihaipa’ mit in leitung mongte dongah zong hi."
+        },
+        {
+          "number": 25,
+          "text": "Tapa hai pen a pa aa dingin dahna hi a, a pianna a nu aa dingin kha mahmah hi."
+        },
+        {
+          "number": 26,
+          "text": "Thutang mite dantatna pen a man hilo a, a diktatna uh hangin a pahtawi huai mite satna zong a man hilo hi."
+        },
+        {
+          "number": 27,
+          "text": "Thuthei mipa kampau kidawm a, thu theitel mipa dai hit-hiat hi."
+        },
+        {
+          "number": 28,
+          "text": "Mihaipa nangawn dai takin om leh a pil kisa a, a kam a cip mipa thu theitelin kingaihsun hi."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Lamkhial mipa in hoihtaka thukhenna khempeuh a tokbuai dingin paulap zong hi."
+        },
+        {
+          "number": 2,
+          "text": "Mihaite in theihtelna nuamsa lo a, ama ngaihsutna bek genkhia leh nuamsa hi."
+        },
+        {
+          "number": 3,
+          "text": "Gitlohna a tun ciangin simmawhna zong tung a, mindaina leh kosiatna tonkhawm hi."
+        },
+        {
+          "number": 4,
+          "text": "Mihing’ kam pana thute pen tui thukpite tawh kibang a, pilna tuikhuk pen luitui luang sialsial tawh kibang hi."
+        },
+        {
+          "number": 5,
+          "text": "Migilote deihsak tuamna hoih lo a, a thumaan a thutangte hepkhiatna zong hoih lo hi."
+        },
+        {
+          "number": 6,
+          "text": "Mihaipa’ muk in kitotna tun hi; tua ahih ciangin a muk in a kisat nadingin a samsam ahi hi."
+        },
+        {
+          "number": 7,
+          "text": "Mihaipa’ kam pen ama kisiatna hi a, ama muk in nuntak tawntung ngah nading a hun hoih teng a suhkhiatsak hi."
+        },
+        {
+          "number": 8,
+          "text": "Gensiatna kammalte pen pumpi sungtawng dongah a tumsuk liamnate tawh kibang hi."
+        },
+        {
+          "number": 9,
+          "text": "Nasepna ah a thadah mipa pen na a susiagawp mipa sanggam ahi hi."
+        },
+        {
+          "number": 10,
+          "text": "Yahweh’ Min pen tausang muanhuai hi a, thumaan mite in beelin muanhuai takin a om uh hi."
+        },
+        {
+          "number": 11,
+          "text": "Mihaupa’ hauhna pen ama khuapi muanhuai hi a, a kisusia zolo kulhpi bangin a ngaihsun hi."
+        },
+        {
+          "number": 12,
+          "text": "Suksiatna a tun ma-in mihing’ lungsim kiphasak a, pahtawina ngah ma-in kiniamkhiatna masa hi."
+        },
+        {
+          "number": 13,
+          "text": "Thu a zakkhit ma-in a dawng mipa, ama haina leh a maizumna ahi hi."
+        },
+        {
+          "number": 14,
+          "text": "Mihing’ lungsim in a cinatna thuak zosak ding a, ahih hangin lungsim cinatna, kua in thuakzo ding ahi hiam?"
+        },
+        {
+          "number": 15,
+          "text": "Miciimte’ lungsim in thutheihna hahkatin ngah uh a, mipilte’ bil in thutheihna a zong hi."
+        },
+        {
+          "number": 16,
+          "text": "Letsong in a piapa aa ding lampi honsak a, miliante mai-ah a tun hi."
+        },
+        {
+          "number": 17,
+          "text": "Thuneihna ah thusung masapa a man tawh kibang a, ahih hangin a kiang-a pa pai-in a dong hi."
+        },
+        {
+          "number": 18,
+          "text": "Ailotna in kinialnate vengsak ding a, kilangneih luatnate beisak ding hi."
+        },
+        {
+          "number": 19,
+          "text": "Khuapi muanhuai khat lak ding sangin sanggampa’ langpanna zawh ding haksazaw a, kitotna pen kulhsang kongpi zawlte tawh kibang hi. (La 119:165)"
+        },
+        {
+          "number": 20,
+          "text": "Mihing’ gilpi pen ama kampauna gah tawh gilvah ding hi; tua ahih ciangin a mukin a genna tawh a tai ding hi."
+        },
+        {
+          "number": 21,
+          "text": "Sihna leh nuntakna pen leii tungah ki-nga a, mihing in a leii’ teelna bangin a gah a ne ding hi."
+        },
+        {
+          "number": 22,
+          "text": "Zi hoih mupa in lungnopna a mu hi a, Yahweh kiang panin pahtawina a ngah ahi hi."
+        },
+        {
+          "number": 23,
+          "text": "Mizawngte a pau ciangin thuumna kam zang a, mihaute in khauh takin dawng hi."
+        },
+        {
+          "number": 24,
+          "text": "A lawm tampite pen ama kisiatna hi thei hi; ahih hangin lawm hoih taktak pen sanggam sangin kipzaw hi."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "A muk tawh thukawi bawl mihai khat sangin a gamtatna ah kawkbaang lo mizawng khat hoihzaw hi."
+        },
+        {
+          "number": 2,
+          "text": "Theihna nei lopi-in lawpluatna hoih lo a, nawhtatna tawh mawhna bawl khak ding zong hoih tuan lo hi."
+        },
+        {
+          "number": 3,
+          "text": "Mihing haina in ama lampi lumlet a, a lungsim in Yahweh ngawhin a heh lai hi."
+        },
+        {
+          "number": 4,
+          "text": "Hauhna in lawm tampi ngahsak a, ahih hangin mizawngte ahih leh a lawm khat neihsun in taisan hi."
+        },
+        {
+          "number": 5,
+          "text": "A man lo tecipangpa dan kipia loin om lo ding a, zuau gen mipa suakta lo ding hi."
+        },
+        {
+          "number": 6,
+          "text": "Mi tampi in muhna tangzai a nei mipa kiang panin pahtawina ngen ding uh a, letsong a piazo mipa aa dingin mi khempeuh a lawm ahi hi."
+        },
+        {
+          "number": 7,
+          "text": "Mizawngpa a sanggamte khempeuh in peel hi; tua ahih manin a lawmte in bangzah takin pelhzaw tham ding ahi hiam? Amah in amaute hopih nuamin a zuih ciangin, amaute a muzo kei hi."
+        },
+        {
+          "number": 8,
+          "text": "Pilna a ngah mipa in a pumpi it a, thu theitel mipa in gualzawhna mu ding hi."
+        },
+        {
+          "number": 9,
+          "text": "A man lo tecipangpa dan kipia loin om lo ding hi; bang hang hiam cihleh zuau a gen mipa kisia ding hi."
+        },
+        {
+          "number": 10,
+          "text": "Mihaipa aa dingin nuam taka om hit-hiatna kilawm lo a, sila khat in uliante a uk ding nakpi-in kilawm lozaw tham lai hi."
+        },
+        {
+          "number": 11,
+          "text": "Mi khat a thu ngaihsut theihna in lungduaisak a, khialhna a maisak zawh ciangin ama minthanna ahi hi."
+        },
+        {
+          "number": 12,
+          "text": "Kumpipa’ hehna pen humpinelkai hawk bang hi a, ahih hangin ama pahtawina pen lopa tungah a kia daitui tawh kibang hi."
+        },
+        {
+          "number": 13,
+          "text": "Tapa hai pen a pa’ kisiatna hi a, a phunhat zi pen a zuzu guah tawh kibang hi."
+        },
+        {
+          "number": 14,
+          "text": "Inn leh hauhna pen nu leh pate’ kiang pana kiluah hi a, ahih hangin a pil zi pen Yahweh kiang pan ahi hi."
+        },
+        {
+          "number": 15,
+          "text": "Thadahna in ihmumusak a, a mawk omomte a gilkial ding hi."
+        },
+        {
+          "number": 16,
+          "text": "Yahweh’ Thukhamte a zui mipa in ama nuntakna a hu hi a, ahih hangin Yahweh’ ngeinate a simmawh mipa si ding hi."
+        },
+        {
+          "number": 17,
+          "text": "Mizawngte a hehpih mipa, Yahweh tungah a cingh hi a, ama piaksa tawh kizui-in Amah in thukkik ding hi."
+        },
+        {
+          "number": 18,
+          "text": "Lametna a om lai-in na tapa puahpha-in taii in; ama siatna ding a tun ma-in ama kahna hangin dopbawl tuan kei in."
+        },
+        {
+          "number": 19,
+          "text": "A ngoltol mipa in dantatna thuak ding a, ama tangin va leptuahsak lecin, tua bangin na va leptuahsak kikkik kul ding hi."
+        },
+        {
+          "number": 20,
+          "text": "Ngaihsut piakna ngai inla, thuhilhna mang in; hun tawpna lamah na pil ding hi."
+        },
+        {
+          "number": 21,
+          "text": "Mihing’ lungsim sungah geelna tampi om a, ahi zongin Yahweh’ ngimna a taksuak ding hi."
+        },
+        {
+          "number": 22,
+          "text": "Mihing sungah a kilunggulh pen hehpihna mah hi a, zuaukhem khat sangin mizawng khat hih ding hoihzaw hi."
+        },
+        {
+          "number": 23,
+          "text": "Yahweh zahtakna in nuntakna tun hi; tua ahih ciangin siatna in nawngkaisak loin lungkim takin tawlnga thei ding hi."
+        },
+        {
+          "number": 24,
+          "text": "Mithadah in a khut a sunglam ah seelin, ama kam nangawn an pia dingin a khut a liik kei zuzen ding hi."
+        },
+        {
+          "number": 25,
+          "text": "Mi simmawh khat sat lecin, mimawl khat aa dingin kihilhna khat a sin suak ding hi. Thu theitel khat thuhilh lecin, a thu theihna a behlap a suak ding hi."
+        },
+        {
+          "number": 26,
+          "text": "A pa’ neihsa sutin, a nu a hawlkhia mi pen maizumna leh mindaina a piangsak tapa ahi hi."
+        },
+        {
+          "number": 27,
+          "text": "Ka tapa aw, thuhilhna na ngai loin na om leh, thu theihna kammalte panin a sawt loin na pialkhia ding hi."
+        },
+        {
+          "number": 28,
+          "text": "Teci gina lo in thutang zahpih a, migilote’ kam in gamtatsiatna a nawmvalh hi."
+        },
+        {
+          "number": 29,
+          "text": "Thukhennate pen mi simmawhte aa dingin a kibawlkhol hi a, mihaite’ nungzang sat nading ahi hi."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Leenggahzu pen mi zahpihsakpa hi a, zukhauh pen mi kinialsakpa ahi hi; tua ahih ciangin tuate’ khemsa mi peuhmah pen a pil lo ahi hi."
+        },
+        {
+          "number": 2,
+          "text": "Kumpipa’ hehna pen humpinelkai hawk bang hi a, amah a hehsak mi peuhmah in ama nuntakna tung mah ah a mawh ahi hi."
+        },
+        {
+          "number": 3,
+          "text": "Mihai peuhmah in kitotna pan pahpah ahih nungsangin kinialna a pelh mipa pen a pahtawihuai ahi hi."
+        },
+        {
+          "number": 4,
+          "text": "Thadahpa in khuadam lua e, ci-in lo kho lo ding a, tua ahih ciangin anlak hun ciangin amah khuadakin bangmah a mu kei ding hi."
+        },
+        {
+          "number": 5,
+          "text": "Mihing’ lungsim sunga ngaihsutna pen tui thukpi tawh kibang a, thu theitel mipa in tuate a kaikhia hi."
+        },
+        {
+          "number": 6,
+          "text": "Mi tampite in itna kip nei-in kigen ciat uh a, ahih hangin kua in mi muanhuai mu zo ding ahi hiam?"
+        },
+        {
+          "number": 7,
+          "text": "Thutang mipa kawkbaang loin gamta a, ama nunga a tate in thupha a ngah uh hi."
+        },
+        {
+          "number": 8,
+          "text": "Thukhenna kumpi-tokhom tunga a tu kumpipa in thusia khempeuh a mit tawh a khahkhia thei hi."
+        },
+        {
+          "number": 9,
+          "text": "Kua in, “Ka lungsim ka siangsak khin a, keimah siangin mawhna ka nei kei hi,” ci thei ding ahi hiam?"
+        },
+        {
+          "number": 10,
+          "text": "Tawitehna kikim lo leh pitehna kikim lo, a nih tuakin Yahweh in kih hi."
+        },
+        {
+          "number": 11,
+          "text": "Naupang khat nangawn a omzia a sianna leh a hoihna pen a gamtat luheek panin kithei hi."
+        },
+        {
+          "number": 12,
+          "text": "A za thei bil leh a mu thei mi a nih tuakin Yahweh bawlsa ahi hi."
+        },
+        {
+          "number": 13,
+          "text": "Ihmumu kei in, tua bang hi keileh zawnna ah na tung ding hi. Na mitte hak gige in; tua ciangin an a valin na nei ding hi."
+        },
+        {
+          "number": 14,
+          "text": "Van a leite in, “Kitaan kei, kitaan kei,” ci a, ahih hangin amah a paikhiat ciangin a vandeekna thu a kisial hi."
+        },
+        {
+          "number": 15,
+          "text": "Hua lai-ah kham om a, tua lai-ah suangmanpha-san honpi khat om hi; ahih hangin thuthei mite’ muk pen a manh seh theih loh suangmanpha ahi hi."
+        },
+        {
+          "number": 16,
+          "text": "Khualmi khat aa dingin lohkik dinga a kamciamna-in a puansilh la inla, khualmi numei khat ahih leh ciamna-van la in."
+        },
+        {
+          "number": 17,
+          "text": "Khemna anlum pen mihing aa dingin khum thei kha ding hi; ahih hangin a nung ciangin a kam ah suang dim ding hi."
+        },
+        {
+          "number": 18,
+          "text": "Geelna peuhmah kikuppihna tawh kikipsak a, ahih hangin ngaihsut piakna hoih bek tawh gal do in."
+        },
+        {
+          "number": 19,
+          "text": "Mi gensia khat bangin a vakvai mipa in muanna beisak hi; tua ahih ciangin a kamtam luate tawh kikhawl kei in."
+        },
+        {
+          "number": 20,
+          "text": "A pa ahi a, a nu ahi zongin a samsia peuhmah, ama meivak zan khuamial sungah kipaihkhiatsak ding hi."
+        },
+        {
+          "number": 21,
+          "text": "A kipatna ah nawh takin gamh ngah pakna pen a tawpna ah thupha hi lo ding hi."
+        },
+        {
+          "number": 22,
+          "text": "“Hih siatna hangin nang kong thuk ding hi,” ci kei in. Yahweh ngak in; Amah in hong hu ding hi."
+        },
+        {
+          "number": 23,
+          "text": "A kikim lo tawitehnate Yahweh in kih a, tawikhaina man lote hoihsa lo hi."
+        },
+        {
+          "number": 24,
+          "text": "Yahweh in mihing’ kalsuan nading lak hi; tua ahih ciangin bangci bangin mihing in ama lampi theitel thei ding ahi hiam?"
+        },
+        {
+          "number": 25,
+          "text": "Na khatpeuh a siangtho-in ap pakna pen mihing aa dingin thangzak hi a, a nung ciangin a kiciamna kinungsik hi."
+        },
+        {
+          "number": 26,
+          "text": "A pil kumpipa in migilote tengkhia a, ancilna leengpei amau tungah a hualsak hi."
+        },
+        {
+          "number": 27,
+          "text": "Mihing’ lungsim pen Yahweh’ meivak hi a, a sungtawngpen dong a entel hi."
+        },
+        {
+          "number": 28,
+          "text": "Hehpihna leh thuman in kumpipa dal a, thumaanna tawh amah in a kumpi-tokhom lenkip hi."
+        },
+        {
+          "number": 29,
+          "text": "Tangvalte’ vang pen a thahatna uh hi a, khanghamte’ hoihna pen a samkang uh ahi hi."
+        },
+        {
+          "number": 30,
+          "text": "Nakpi taka satna leh liamnate in siatna siangsak a, satna in a sungtawng dong khuahsiang hi."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kumpipa’ lungsim pen Yahweh khut sungah om a, guntuite bangin Amah in a deihna peuh ah a hei hi."
+        },
+        {
+          "number": 2,
+          "text": "Mihing in a gamtatna amah le amah man kisa a, ahih hangin Yahweh in a lungsim sittel hi."
+        },
+        {
+          "number": 3,
+          "text": "Biakpiakna sangin thumaan thutang-a gamtat ding pen Yahweh aa dingin sanhuaizaw hi."
+        },
+        {
+          "number": 4,
+          "text": "Kiliatsakna, kiphatsakna lungsim leh gitloh gamtatna pen mawhna ahi hi."
+        },
+        {
+          "number": 5,
+          "text": "Limtaka ngaihsutna in lawhcinna lam bekah hong tun a, ahih hangin nawhsa-in lopthop ngaihsutna in zawnna lam bek hong tun hi."
+        },
+        {
+          "number": 6,
+          "text": "Zuau genna tawh hauhna a zong mipa in a leengmangpak husan khat a suak ding hauhna mu ding a, sihna tawh a ngah khawm ding hi."
+        },
+        {
+          "number": 7,
+          "text": "Migilote’ ngongtatna in amau mah kaikhia ding hi; bang hang hiam cihleh amaute thutangin gamta nuam lo uh hi."
+        },
+        {
+          "number": 8,
+          "text": "Mihing gamtatna pen kawi-in sia a, ahih hangin a mi siangte’ nasepna pen hoih hi."
+        },
+        {
+          "number": 9,
+          "text": "A phunphun numei khat tawh inn tanzau sungah om sangin innkhum-zang kiu khat ah om ding hoihzaw hi."
+        },
+        {
+          "number": 10,
+          "text": "Migilopa in buaina bawl ding lunggulh a, a vengpa in ama kiang panin hehpihna ngah lo hi."
+        },
+        {
+          "number": 11,
+          "text": "Mi simmawhte a kidantat ciangin mimawl khat in kihilhna khat a sin suak ding a, ahih hangin mipil khat a kihilh ciangin amaute in theihna a ngah uh hi."
+        },
+        {
+          "number": 12,
+          "text": "Yahweh in migilote a gitlohna uh hangin lumlet ahih manin thumaan mite in pilvang takin migilote’ inn ciamteh hi."
+        },
+        {
+          "number": 13,
+          "text": "Mizawngte’ kahna a bil a humsan mi peuhmah amau zong kap ding uh a, kuamah in za lo ding hi."
+        },
+        {
+          "number": 14,
+          "text": "A simthama letsong piakna in hehna kiamsak a, kilemna biakna in nakpi-a hehna damsak hi."
+        },
+        {
+          "number": 15,
+          "text": "Thutang mite in thutang-a gamtat nuamsa uh a, ahih hangin khialhna gamtata mite tungah suksiatna tung ding hi."
+        },
+        {
+          "number": 16,
+          "text": "Thu theihtelna lampi panin a pialkhia mipa pen sihna pawl sungah a teng ding hi."
+        },
+        {
+          "number": 17,
+          "text": "A noptat nuam mipa mizawng suak ding a, leenggahzu leh sathau a deihpa hau lo ding hi."
+        },
+        {
+          "number": 18,
+          "text": "Thumaan mite aa dingin migilote a kitatna uh hi ding a, a citak lo mite pen thutang mite’ kitatna hi ding hi."
+        },
+        {
+          "number": 19,
+          "text": "A phunhat a hehbaih numei tawh omkhop sangin gamlak ah khat kia bek ten ding hoihzaw hi."
+        },
+        {
+          "number": 20,
+          "text": "Mi pilpa’ inn sungah an limci leh sathau hoihte a kholna om a, ahih hangin mihaipa in a neih teng a netum hi."
+        },
+        {
+          "number": 21,
+          "text": "Thumaanna leh migitna a deih mipa in nuntakna, dikna leh pahtawina mu ding hi."
+        },
+        {
+          "number": 22,
+          "text": "Mipil khat in mi thahatte’ khuapi la zo a, amau muan a kulhpi uh a susiatsak hi."
+        },
+        {
+          "number": 23,
+          "text": "A kam leh a leii a ukzo mi peuhmah in amahmah buaina panin a kikem ahi hi."
+        },
+        {
+          "number": 24,
+          "text": "Kiphatsakna, Kiliatsakna leh Mi simmawhna cihte pen kihisakin a ngongtat mipa’ minte ahi hi."
+        },
+        {
+          "number": 25,
+          "text": "Thadah mipa’ khut in na sem nuam lo ahih manin ama lunggulhna pen ama sihna hi ding hi."
+        },
+        {
+          "number": 26,
+          "text": "Sun thapai-in amah in deih thuahthuah a, ahih hangin thumaan mipa in siit nei loin piakhia hi."
+        },
+        {
+          "number": 27,
+          "text": "Migilote’ biakpiakna pen kihhuai hi; ngimna hoih lo tawh biakpiakna a paipih ciangin bangzah taka kihhuai zaw tham ding ahi hiam?"
+        },
+        {
+          "number": 28,
+          "text": "A man lo teci mangthang ding a, ahih hangin a thumang mipa’ kammalte kip ding hi."
+        },
+        {
+          "number": 29,
+          "text": "Migilote han-hah gemgam ding uh a, ahih hangin thutang mipa in a gamtat nading ngaihsun hi."
+        },
+        {
+          "number": 30,
+          "text": "Yahweh a langpan zo ding pilna, thutheihna leh siamna bangmah a om kei hi."
+        },
+        {
+          "number": 31,
+          "text": "Galsim ni cianga dingin sakol a baihsa-in kikoih a, ahih hangin gualzawhna pen Yahweh kiang pan ahi hi."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Hoih nadinga Mipilte Thuhilhna te",
+          "before_verse": 17
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hauhna lianpite sangin min pha teelzawk ding hi a, ngun leh kham sangin mite pi-muhna teelzawk ding ahi hi."
+        },
+        {
+          "number": 2,
+          "text": "A zawng leh a hau in a neihkhop thu khat om hi—amaute khempeuh a Bawlpa Yahweh ahi hi."
+        },
+        {
+          "number": 3,
+          "text": "Thu ngaihsun theite in a hong tung ding buaina mu-in kibu uh a, ahih hangin mimawlte ahih leh paisuakin, a piang bangin a gumthuak uh hi."
+        },
+        {
+          "number": 4,
+          "text": "Kiniamkhiatna leh Yahweh zahtakna tungtawnin hauhna, pahtawina leh nuntakna hong pai hi."
+        },
+        {
+          "number": 5,
+          "text": "Lungsim kawi a uk-hak mite’ lampi ah ling leh thangzak om a, ama nuntakna a keem mipa in tuate panin a gamla ah om ding hi."
+        },
+        {
+          "number": 6,
+          "text": "Naupang khat a zuih dinga kilawm lampi ah pantah lecin, a tek dongin lampial nawn lo ding hi."
+        },
+        {
+          "number": 7,
+          "text": "Mihaute in mizawngte uk a, leitawi a late pen a piate’ sila ahi hi."
+        },
+        {
+          "number": 8,
+          "text": "Gitlohna a vawh mipa in lungkhamna at ding a, a hehna ciangduai in amah susia ding hi."
+        },
+        {
+          "number": 9,
+          "text": "A cingh mite in mizawngte a an hawm ahih manin amah thupha a kipiakna za ding hi."
+        },
+        {
+          "number": 10,
+          "text": "Mi simmawhte hawlkhia lecin, kinialna amah tawh paikhia khawm ding hi; hi hi, kitotna leh kikogawpna bei ding hi."
+        },
+        {
+          "number": 11,
+          "text": "Lungsim sianthona deih-in a muk tungah migitna a nei mipa pen kumpite’ lawm suak ding hi."
+        },
+        {
+          "number": 12,
+          "text": "Yahweh’ mit in thutheihna hu a, ahih hangin thupalsatte’ kammal a lumlet hi."
+        },
+        {
+          "number": 13,
+          "text": "Thadah mite in, “A pualam ah humpinelkei om a, kongzing lakah kei hong kisi kha ding hi,” ci-in paulap a zong hi."
+        },
+        {
+          "number": 14,
+          "text": "Khual numei’ kam pen dum thukpi hi a, Yahweh in a kih mipa tua sungah kia ding hi."
+        },
+        {
+          "number": 15,
+          "text": "Haina in naupangte’ lungsim hencip a, ahih hangin puahphatna ciangduai in ama kiang panin gamlapi ah notkhia ding hi."
+        },
+        {
+          "number": 16,
+          "text": "A hauhna a khan nadingin mizawngte a nengniam mipa leh mihaute tungah letsong a pia mipa—a nih tuakun zawng taktak ding uh hi."
+        },
+        {
+          "number": 17,
+          "text": "Na bil ngat unla, mipilte’ kammalte ngai un; tua ciangin ka thutheihna na lungsim tawh zang un."
+        },
+        {
+          "number": 18,
+          "text": "Bang hang hiam cihleh na lungsim sungah tuate na vom leh na lungnuam mahmah ding a, na muk tungah tuate khempeuh kigingsa-in om ding hi."
+        },
+        {
+          "number": 19,
+          "text": "Tua hileh Yahweh sungah muanna na nei thei ding a, tuni-in nang mahmah kong hilh ding hi!"
+        },
+        {
+          "number": 20,
+          "text": "Kuppihna leh thutheihna thu a kigen thuhilhna sawmthumte note aa dingin gelhkhin hilo ka hi hiam?"
+        },
+        {
+          "number": 21,
+          "text": "Nang kiangah hong kisawl mite tungah a man kammalte tawh na dawn theih nadingin a man kammal muanhauite nang kong hilh nading ahi hi.Thuhilhna"
+        },
+        {
+          "number": 22,
+          "text": "Zawng tah ci-in mizawngte’ neihsa sut kei inla, thukhen zum ah mi gentheite nopneh kei in."
+        },
+        {
+          "number": 23,
+          "text": "Bang hang hiam cihleh Yahweh in amau thu panpih ding a, amau na a sutte sut ding hi.Thuhilhna"
+        },
+        {
+          "number": 24,
+          "text": "A hehbaih mite tawh kilawmta kei inla, a lungtom mite tawh kikhawl kei in,"
+        },
+        {
+          "number": 25,
+          "text": "tua bang hi keileh amau ziate na zui kha ding a, nangmah in zong na awklawh kha ding hi.Thuhilhna"
+        },
+        {
+          "number": 26,
+          "text": "Van-pawngna ah thukimpih-in bansah a piate lakah kihel kei inla, leitawi lakna ah mawhpuakla-in a pang mite lakah kihel kei in;"
+        },
+        {
+          "number": 27,
+          "text": "Na piak ding bangmah om kei leh, bang hangin na nuai-a om na lupna hong kidokkhiatsak ahi hiam?Thuhilhna"
+        },
+        {
+          "number": 28,
+          "text": "Na pu na pate phuhsa tanglai gisuang khin kei in.Thuhilhna"
+        },
+        {
+          "number": 29,
+          "text": "A nasepna ah a siam mahmah mi na mu hiam? Kumpite mai-ah amah ding ding a, mi mawkmawkte mai-ah ding lo ding hi.Thuhilhna"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Gam-ukpa tawh an kuang umkhawm dingin na tut ciangin, na mai-a om bang hiam cih limtakin ngaihsun inla,"
+        },
+        {
+          "number": 2,
+          "text": "an ngak lah thei mi na hih leh na gawl temta tawh ngim in."
+        },
+        {
+          "number": 3,
+          "text": "Tuate khemna an ahih manin ama anlimte lunggulh kei in.Thuhilhna"
+        },
+        {
+          "number": 4,
+          "text": "Hauh nop manin zawh loh pi-in sem gawp kei inla, nangma pilna suang kei in."
+        },
+        {
+          "number": 5,
+          "text": "Bangmah ahi lo nate mitsuan ding na hi hiam? Hauhna cihte in a khangcingsa kha nei takpi uh a, van-a muvanlai bangin lengmang ding hi.Thuhilhna"
+        },
+        {
+          "number": 6,
+          "text": "A cil tentan mite’ an neksak kei inla, ama an limcite zong duhgawh kei in;"
+        },
+        {
+          "number": 7,
+          "text": "Bang hang hiam cihleh a lungsim-a a ngaihsut mah bangin amah ahi pah hi. Amah in nang kiangah, “Ne in, dawn in!” hong ci ding a, ahih hangin a lungsim nang tawh om lo hi."
+        },
+        {
+          "number": 8,
+          "text": "Na neksa tawmno teng zong na luakhia ding a, na kamsiam piak teng maimang ding hi.Thuhilhna"
+        },
+        {
+          "number": 9,
+          "text": "Mihaite pil hopih kei in; bang hang hiam cihleh amah in na pil thugen teng hong zahpih lel ding hi.Thuhilhna"
+        },
+        {
+          "number": 10,
+          "text": "Tanglai-a gisuangte khin kei inla, pa nei lote’ leitang zong kek kei in;"
+        },
+        {
+          "number": 11,
+          "text": "Bang hang hiam cihleh amaute a Tankhiapa vanglian a, note langah amau thu a panpihpa Amah hong hi ding hi."
+        },
+        {
+          "number": 12,
+          "text": "Thuhilhna bangin na lungsim uh zang unla, thutheihna kammalte na bil-un ngai un.Thuhilhna"
+        },
+        {
+          "number": 13,
+          "text": "Naupang khat puahpha-in tai ding lung-uai-uai kei in; ciangduai tawh na sat hangin si lo ding hi."
+        },
+        {
+          "number": 14,
+          "text": "Ciangduai tawh thuhilh in; tua ciangin Sheol panin ama nuntakna na honkhia zo ding hi.Thuhilhna"
+        },
+        {
+          "number": 15,
+          "text": "Ka ta aw, na lungsim a pil leh, kei nangawn ka lungsim a nuam ding hi!"
+        },
+        {
+          "number": 16,
+          "text": "Hi hi, na mukte in thu hoihte a gen ciangin ka lungsimtawng a lungdamsak na hi ding hi.Thuhilhna"
+        },
+        {
+          "number": 17,
+          "text": "Na lungsim in mimawhte a eng ding phal kei in; ahih hangin Yahweh zahtakna pen a tawntungin iplah ngitnget in."
+        },
+        {
+          "number": 18,
+          "text": "Tua ciangin na mailam hun ding hong om taktak ding a, na lametna a kisattan kei ding hi.Thuhilhna"
+        },
+        {
+          "number": 19,
+          "text": "Ka ta aw, za inla, pil in; lampi man ah na lungsim khosak in."
+        },
+        {
+          "number": 20,
+          "text": "Leenggahzu a hai mite lakah om kei inla, sa nam khempeuh a ne anhaite lakah zong om kei in."
+        },
+        {
+          "number": 21,
+          "text": "Bang hang hiam cihleh zu dawnte leh anhaite zawng ding uh a, ihmut-haite in puansiapi silh ding uh hi.Thuhilhna"
+        },
+        {
+          "number": 22,
+          "text": "Na pianna na pa thu ngai inla, na nu a teek ciangin simmawh kei in;"
+        },
+        {
+          "number": 23,
+          "text": "Thuman ngah ding hanciam inla, paaikhia kei in; pilna, thuhilhna leh thu theihtelna zong ngah ding hanciam in.Thuhilhna"
+        },
+        {
+          "number": 24,
+          "text": "Thumaan mipa a pa nakpi-in lungdam ding a, tapil a nei mipa a tapa hangin lungdam kipaak ding hi."
+        },
+        {
+          "number": 25,
+          "text": "Tua ahih ciangin na nu leh na pa kipaak henla, na pianna nu lungdam tahen!Thuhilhna"
+        },
+        {
+          "number": 26,
+          "text": "Ka ta aw, na lungsim hong pia inla, na mitte in ka lampite mitsuan tahen;"
+        },
+        {
+          "number": 27,
+          "text": "Bang hang hiam cihleh numei kizuaknu pen gum thukpi hi a, khual numei pen dum kawcik ahi hi."
+        },
+        {
+          "number": 28,
+          "text": "Amah in mi buksim khikhe a, mite lakah thupalsat mi a pungsak hi.Thuhilhna"
+        },
+        {
+          "number": 29,
+          "text": "Kua in gim thuak a, kua dah ahi hiam? Kua in kitotpih nei a, kua in kiseelpih nei ahi hiam? A kul lopi-in kua liam a, kua mitsan gega ahi hiam?"
+        },
+        {
+          "number": 30,
+          "text": "Leenggahzu phual ah a tutkhote leh, leenggahzu helna phual a zuan kawikawite ahi hi."
+        },
+        {
+          "number": 31,
+          "text": "Hai sunga a phuan seuhseuh leenggahzu san en ngeungau kei in. A tumsuk ciangin khum a,"
+        },
+        {
+          "number": 32,
+          "text": "ahih hangin a tawpna ah tua in gulpi bangin tu-in, mualtan gul bangin a gupha hi."
+        },
+        {
+          "number": 33,
+          "text": "Na mit in khual numeite en ding a, na lungsim in thusia ngaihsun ding hi."
+        },
+        {
+          "number": 34,
+          "text": "4 Hi hi, nang pen tuipi laizang ah a lum tawh na kibang ding a, ahih keileh tembaw mungpi dawna lum tawh na kibang ding hi."
+        },
+        {
+          "number": 35,
+          "text": "Nangmah in, “Amaute in hong vuak hangun na lo a, hong sat uh hangin zong ka phawkse kei hi. Ka dawnkik theih nadingin cik ciangin tei ding ka hi hiam?” na ci ding hi.Thuhilhna"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Mipilte’ Genbehlai Thuhilhna te",
+          "before_verse": 23
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mi tatsiate engkha kei inla, amau lakah zong ut kei in;"
+        },
+        {
+          "number": 2,
+          "text": "Bang hang hiam cihleh amau lingsim in siatna bek sin uh a, amau mukte in buaisak nading bek gen uh hi.Thuhilhna"
+        },
+        {
+          "number": 3,
+          "text": "Pilna tawh Yahweh’ Inn kilam a, thu theihtelna tawh kikipsak hi;"
+        },
+        {
+          "number": 4,
+          "text": "theihna tungtawnin a inndeite pen manpha-in a deihhuai hauhna khempeuh tawh kidim hi.Thuhilhna"
+        },
+        {
+          "number": 5,
+          "text": "Mipil in vang nei hi; hi hi, thuthei mipa a thahatna khang semsem hi."
+        },
+        {
+          "number": 6,
+          "text": "Bang hang hiam cihleh kuppihna hoih tawh na galdona na zo ding a, mi pil tampi’ thukuppihna tawh gualzawhna na mu ding hi.Thuhilhna"
+        },
+        {
+          "number": 7,
+          "text": "Mihai khat aa dingin pilna pen sanglua hi; tua ahih ciangin amah in ngaihsutna tawh a kam ka loin; ngaihsun loin pau hi.Thuhilhna"
+        },
+        {
+          "number": 8,
+          "text": "Siatna bawl ding a vaihawmhawm mipa pen thusia geelpa, mi buaisakpa kici ding hi."
+        },
+        {
+          "number": 9,
+          "text": "Mihaite vaihawmna pen mawhna hi a, mi simmawhpa, mite in kih hi.Thuhilhna"
+        },
+        {
+          "number": 10,
+          "text": "Haksatna na tuah ni-in na lung a neu leh a thahat het lo na hi hi.Thuhilhna"
+        },
+        {
+          "number": 11,
+          "text": "Sihna sungah a kipaipih mite: thahna a thuak ding mite hotkhiat ding na teel keileh,"
+        },
+        {
+          "number": 12,
+          "text": "note in, “En un, hih thu bangmah i thei kha kei hi!” ci na hih uh leh, mihing lungsim a sittel Amah in hih thu phawkkha lo ding ahi hiam? Na nuntakna hong cing Amah in hih thu thei lo ding ahi hiam? Mi khempeuh amau sepna tawh kituakin Amah in thuk ding hilo ahi hiam?Thuhilhna"
+        },
+        {
+          "number": 13,
+          "text": "Ka ta aw, khuaizu in phattuamna nei ahih manin ne in; bang hang hiam cihleh khuaikai-zu in khum hi;"
+        },
+        {
+          "number": 14,
+          "text": "Tua mah bangin pilna neihna zong phattuamna nei-in na nuntakna aa dingin khum hi. Pilna na ngah leh, a mangthang lo ding lametna ahi thaman khat na ngah ding a,Thuhilhna"
+        },
+        {
+          "number": 15,
+          "text": "Migilote bangin thumaan mipa’ tenna embut dingin buksim kei inla, ama tawlngakna mun sutkhia kei in;"
+        },
+        {
+          "number": 16,
+          "text": "Bang hang hiam cihleh thutang mipa sagihvei puk kha ding a, ahih hangin dingto kik veve ding hi; ahih hangin migilote khatvei bek pukin kisiasuak ding hi.Thuhilhna"
+        },
+        {
+          "number": 17,
+          "text": "Na galpa a puk ciangin lungdam kei inla, amah a kituuk ciangin na lungsim kipaak kei in;"
+        },
+        {
+          "number": 18,
+          "text": "Tua bang hi keileh Yahweh in hong mu-in a lungkim lo ding a, ama kiang panin a hehna heikhia ding hi.Thuhilhna"
+        },
+        {
+          "number": 19,
+          "text": "Mi tatsiate hangin kilungkham tawmsak kei inla, migilote zong engkha kei in."
+        },
+        {
+          "number": 20,
+          "text": "Bang hang hiam cihleh migilote aa dingin thamah hoih om lo ding a, migilote’ meivak kisukmitsak ding hi.Thuhilhna"
+        },
+        {
+          "number": 21,
+          "text": "Ka ta aw, Yahweh leh kumpipa zahtak inla, a langdo mite tawh kipawl kei in;"
+        },
+        {
+          "number": 22,
+          "text": "Bang hang hiam cihleh amau tenih kiang panin thakhatin haksatna piangvat thei hi; tua hi a, amau tunsak theih suksiatna kua in thei khol ahi hiam?"
+        },
+        {
+          "number": 23,
+          "text": "Hihte zong mipilte’ thugente ahi hi: Thukhenna ah guptuam neihna pen a man lo ahi hi."
+        },
+        {
+          "number": 24,
+          "text": "Migilote kiangah, ‘Nang na thumaan hi,’ a ci mipa, mite in amah samsia ding a, minamte in amah kih ding hi."
+        },
+        {
+          "number": 25,
+          "text": "Ahih hangin migilote a taii mipa a lungdam ding a, ama tungah thupha hoih kipia ding hi."
+        },
+        {
+          "number": 26,
+          "text": "A kilawm a kituaka dawnna pen muk-a kinap tawh a kibang hi."
+        },
+        {
+          "number": 27,
+          "text": "A pualam-a na nasepna zo phot inla, na lote kigingsa-in omsak phot in; tua khit ciangin na inn ding lam in."
+        },
+        {
+          "number": 28,
+          "text": "Thu omlo pi-in na sanggampa langah teci pang kei in. Na mukte tawh zuau gen kei inla,"
+        },
+        {
+          "number": 29,
+          "text": "“Kei tunga hong bawl bang tektekin ama tungah bawl ning! Ama hihna hangin keimah ngiat in phu ka la ding hi!” ci kei in."
+        },
+        {
+          "number": 30,
+          "text": "Mi thadahte’ lo leh thu theihtelna a nei lo mipa’ leenggui huan nawkin ka pai hi;"
+        },
+        {
+          "number": 31,
+          "text": "tua lai-ah lingkungte khankhin a, kiak in tuamcip-in, suang-kulhte a kisia hi."
+        },
+        {
+          "number": 32,
+          "text": "Ka khuadak ciangin, hih thu limtakin ka ngaihsun hi. Hihte khempeuh ka en a, hih panin theihna na ngah hi;"
+        },
+        {
+          "number": 33,
+          "text": "Tawmvei sung ihmut behna, tawmvei sung mengmet behna, tawmvei sung khutzepa tawlngak behna hangin,"
+        },
+        {
+          "number": 34,
+          "text": "a vakvai khat bangin nang kiangah zawnna hong tung ding a, galvan tawh a kithawisa mipa khat bangin suksiatna hong tung ding hi."
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Kumpi Hezekyah’ Ukna Nuai-a Mite’ Teisawn Solomon’ Paunakte",
+          "before_verse": 1
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hihte pen Yahdah kumpi Hezekyah mite’ teisawn Solomon’ paunak dangte ahi hi."
+        },
+        {
+          "number": 2,
+          "text": "Yahweh’ minthanna pen Ama ipsim a thu sungah om a hi; ahih hangin kumpite’ minthanna pen a thu muhkhiatna hang ahi hi."
+        },
+        {
+          "number": 3,
+          "text": "Vantungte sangin leitung a thuk mah bangin kumpite’ lungsim muhkhiat zawh ding ahi kei hi."
+        },
+        {
+          "number": 4,
+          "text": "Ngun tung panin a ek lakhia lehang, ngunsekpa aa dingin vanzat suak a,"
+        },
+        {
+          "number": 5,
+          "text": "Kumpipa kiang panin migilote hemkhia lehang, ama kumpi-tokhom pen thumaanna tawh kip ding hi."
+        },
+        {
+          "number": 6,
+          "text": "Kumpipa mai-ah kiliansakin om kei inla, miliante lakah zong munla kei in."
+        },
+        {
+          "number": 7,
+          "text": "Bang hang hiam cihleh uliante mai-ah hong kiniamkhiat sangin ‘Hiah hong paito in,’ hong cih ding hoihzaw hi."
+        },
+        {
+          "number": 8,
+          "text": "Na mit tawh na muh peuhpeuh thukhenzum tun pahpah kei in; bang hang hiam cihleh na vengpa in hong maizumsak leh a tawpna ah bang lawh ding na hi hiam?"
+        },
+        {
+          "number": 9,
+          "text": "Na sanggampa tawh thuneihna ah na kinial leh, midang khat’ sungthu genkhia kei in;"
+        },
+        {
+          "number": 10,
+          "text": "tua bang hi keileh tua thu a zapa in nang hong maizumsak ding a, na min hoihna teng kisia ding hi."
+        },
+        {
+          "number": 11,
+          "text": "A kilawm kammal zatna pen ngun peek zepna tunga kham apple-te tawh kibang hi."
+        },
+        {
+          "number": 12,
+          "text": "Mipilpa’ paulapna pen a ngaipa’ bil ah kham bilbah leh kham hoihpen kizepna tawh kibang hi."
+        },
+        {
+          "number": 13,
+          "text": "Kamtai muanhuai pen a sawlte aa dingin anlak huna khualum ah a vot hiauhiau vuk tawh kibang hi; amah in a pute a tawldamsak hi."
+        },
+        {
+          "number": 14,
+          "text": "Ama piaksa ahi lo letsongte a kisialhpihpa pen guah a paii lo meii leh huih tawh kibang hi."
+        },
+        {
+          "number": 15,
+          "text": "Lungduai mahmahna tawh ulianpa kizol zo ding a, awzol in guh a kitansak zo ding hi."
+        },
+        {
+          "number": 16,
+          "text": "Khuaizu na mu ngei hiam? Na kisap zah bek ne in; bang hang hiam cihleh tamlua na nek leh na lua ding hi."
+        },
+        {
+          "number": 17,
+          "text": "Na sanggampa’ inn ah a hawhhawhpa hi kei in; tua bang hi keileh amah in nang hong cimtak ding a, nang hong enthei nawn lo kha ding hi."
+        },
+        {
+          "number": 18,
+          "text": "A sanggampa langpanin a man lo teci a pang mipa pen khetbuk, namsau ahih keileh thaltang-hiam tawh kibang hi."
+        },
+        {
+          "number": 19,
+          "text": "Lungkham hun ciangin mi citak lopa a muang mi pen ha-tok leh khebai tawh kibang hi."
+        },
+        {
+          "number": 20,
+          "text": "A lunggim mahmahte kianga lasakna pen, khua dam laitaka puan suah khiat tawh kibang a, meima ci-al nuh tawh kibang hi."
+        },
+        {
+          "number": 21,
+          "text": "Na galpa a gil kial leh, a nek ding an pia in; a dang a taak leh, dawn ding tui pia in."
+        },
+        {
+          "number": 22,
+          "text": "Hih bangin na hihna tawh a lu tungah mei-am sa a vumsak na hi ding a, Yahweh in thaman hong pia ding hi."
+        },
+        {
+          "number": 23,
+          "text": "Leilu-lam huih in guah a mutkhiat mah bangin heh-mai in gensiatna leii a notkhia hi."
+        },
+        {
+          "number": 24,
+          "text": "Inn tanzau ah a phunhat numei tawh omkhop sangin innkhum-zang kiu ah om ding hoihzaw hi."
+        },
+        {
+          "number": 25,
+          "text": "A gamla gam pana a lungdam huai thu pen a gim a tawl mipa in tuivot lim a sak tawh kibang hi."
+        },
+        {
+          "number": 26,
+          "text": "Migilopa mai-a a puk thuman mipa pen a buangawp tuinak leh a uihgawp tuikhuk tawh kibang hi."
+        },
+        {
+          "number": 27,
+          "text": "Khuaizu tam lua nek gawp ding a hoih loh mah bangin nangma minphat nading zon tawm zong min phatna hi lo hi."
+        },
+        {
+          "number": 28,
+          "text": "A lungsim a uk lo mi pen kulh neih lohna hanga kisia khuapi tawh kibang hi."
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tuklai taka vuk kia leh anlak laitaka guahzu pen mihaite pahtawi nadingin kilawm hi."
+        },
+        {
+          "number": 2,
+          "text": "A kha a zap kawlgit ahih keileh a lengleng phialphiah kumsuk ding bangin thu om lopi-a samsiatna pen tangtung lo ding hi."
+        },
+        {
+          "number": 3,
+          "text": "Sakol sat nading khau, laa aa ding kamkaih leh, mihaite’ nungzang-a dingin ciangduai."
+        },
+        {
+          "number": 4,
+          "text": "Mihaite, haina mah tawh dawng kei in; tua bang hi keileh nang zong amau mah na bang ding hi."
+        },
+        {
+          "number": 5,
+          "text": "Mihaite, haina mah tawh dawng kei in; tua bang hi keileh amah le amah a pil kisa ding hi."
+        },
+        {
+          "number": 6,
+          "text": "Mihai khat kamtai-a a sawlpa in ama khe mah a sattan hi a, ama kisiatna mah tui bangin a dawn ahi hi."
+        },
+        {
+          "number": 7,
+          "text": "Mihaipa’ kam sung pana paunak pen a kai niangnuang a bai khete tawh kibang hi."
+        },
+        {
+          "number": 8,
+          "text": "Saili kuangah sailungtang a khihcip mipa pen mihai tungah pahtawina a pia mipa mah tawh kibang hi."
+        },
+        {
+          "number": 9,
+          "text": "Mihaipa’ kam sung pana puakna pen zukhampa’ khut sunga ling lomtang om tawh kibang hi."
+        },
+        {
+          "number": 10,
+          "text": "Na khempeuh a bawl a lian Pa Yahweh in, mihaite aa ding leh thupalsatte aa dingin zong thamah a bawl hi."
+        },
+        {
+          "number": 11,
+          "text": "Mihaipa a hai gamtat ngei bangin a tatkikna pen ui in a luak a zuatkik tawh kibang hi."
+        },
+        {
+          "number": 12,
+          "text": "Amah le amah pil a kisa mipa na mu ngei hiam? Amah sangin mihai khat aa dingin lametna omzaw lai hi."
+        },
+        {
+          "number": 13,
+          "text": "Mi thadahpa in, “Lampi ah humpinelkai om a, kongzing lakah humpinelkai gilo om hi!” ci hi."
+        },
+        {
+          "number": 14,
+          "text": "Kawmhek tungah kongkhak a kihei bangin mi thadahpa ama lupna tungah kiheihei hi."
+        },
+        {
+          "number": 15,
+          "text": "Mi thadahpa in ankuang sungah a khut phum ding a, ahih hangin a kam ah a tahtoh ding gim kisa lua hi."
+        },
+        {
+          "number": 16,
+          "text": "Limtaka a dawng thei mi sagih sangin mi thadahpa amah le amah pil kisa zaw hi."
+        },
+        {
+          "number": 17,
+          "text": "Amah tawh a kisai lo kitawtna sungah a kiphum mipa pen ui om muang khat a bil-a kaihsak tawh kibang hi."
+        },
+        {
+          "number": 18,
+          "text": "A sanggampa a khem khit ciangin, “Kong ciamnuih na mawk hi e!” a cipa pen,"
+        },
+        {
+          "number": 19,
+          "text": "Singkhuah-amlai, thaltang leh sih theihna khatpeuh a lawngawp mi pilvang lo pa tawh kibang hi."
+        },
+        {
+          "number": 20,
+          "text": "Sing om lohna mun ah meikuang veng a, gensiatna om lohna mun ah kinialna bei hi."
+        },
+        {
+          "number": 21,
+          "text": "Mei-am a amsak ding meihol leh mei a kuangsak ding sing mah bangin kitotna a piansak dingin a kinialhat mi ahi hi."
+        },
+        {
+          "number": 22,
+          "text": "Gensiatna kammalte pen liamna tawh kibang a, pumpi sungtawngnung dongah tumsuk hi."
+        },
+        {
+          "number": 23,
+          "text": "Lungsim gilo napi kam zol daldalte pen cimbeng kizut leibeel tawh kibang hi."
+        },
+        {
+          "number": 24,
+          "text": "Mi mudahte in a kam uh tawh kineih-khem-in thu gen a, a sunglam ah nang hong lehhek sawm uh hi;"
+        },
+        {
+          "number": 25,
+          "text": "Amah in hoihtakin hong hopih ciangin um kei in; bang hang hiam cihleh a lungsim sungah a kihhuai sagih a om hi."
+        },
+        {
+          "number": 26,
+          "text": "Ama mi muhdahna pen khemna tawh a seel hangin, ama gitlohna pen mihon buppi mai-ah kilangkhia ding hi."
+        },
+        {
+          "number": 27,
+          "text": "Mi siahna-in dum a to mi peuhmah, amahmah tua sungah kia ding a, mi a kha ding suangtum a khukte, ama tunga kikhuk kik a tuak ding hi."
+        },
+        {
+          "number": 28,
+          "text": "Leii zuau in a liamsak mite mudah a, a pumphat mawk kam in siatna tunpih hi."
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Zingciang-a na sep ding thu kima-sialh kei in; bang hang hiam cihleh ni khat thu-in a piang thei thu na thei kei hi."
+        },
+        {
+          "number": 2,
+          "text": "Mi dang khatpeuh in nang hong phat henla, ahih hangin nang le nang kiphat kei in; nang’ muk hi loin mi dang khatpeuh muk hizaw hen."
+        },
+        {
+          "number": 3,
+          "text": "Suangtum gik a, sehnel vangik ahi hi; ahih hangin tua tenih sangin mihaite’ hehna gikzaw hi."
+        },
+        {
+          "number": 4,
+          "text": "Hehna pen gam a, lungsona in hong khuhnelh hi; ahih hangin hazatna pen kua in thuakzo ding ahi hiam?"
+        },
+        {
+          "number": 5,
+          "text": "Itna i seelbawl sangin a langtang-a kitaiina hoihzaw hi."
+        },
+        {
+          "number": 6,
+          "text": "Lawm khat in hong liamsakna pen thumaan hi a, ahih hangin gal khat in hong napna pen khemnapi ahi hi."
+        },
+        {
+          "number": 7,
+          "text": "A gilvah mi in khuaizu duh nawn lo a, ahih hangin a gilkial mipa in an kha nangawn khum a sa hi."
+        },
+        {
+          "number": 8,
+          "text": "A inn panin a vakvak mipa pen a bu haih vasa tawh kibang hi."
+        },
+        {
+          "number": 9,
+          "text": "Sathau namtui leh paknamtui in lung nuamsak a, lawm hoih khat in limtaka hong kuppihna zong tua bang mah ahi hi."
+        },
+        {
+          "number": 10,
+          "text": "Na lawmte ahi a, na pa’ lawmte ahi zongin nusia kei in; na lungkham hunin na sanggampa’ inn ah hawh kei in. A gamla-a om sanggam khat sangin a nai-a om vengpa hoihzaw hi."
+        },
+        {
+          "number": 11,
+          "text": "Ka ta aw, pil inla, na lungsim kipaaksak in; tua ciangin zakdah nadingin kei hong kote ka dawng thei ding hi."
+        },
+        {
+          "number": 12,
+          "text": "Thu ngaihsun theite in a hong tung ding buaina mu-in kibu uh a, ahih hangin mimawlte in phusuakin a thuak uh hi."
+        },
+        {
+          "number": 13,
+          "text": "Khualmi khat in a leitawi lakna ah mawhpuakla-in a pang mipa a puan la inla, khual numei aa dingin a thukimpih ahih leh, a van-pawngna sung panin la in."
+        },
+        {
+          "number": 14,
+          "text": "Mi khat in zingsang tungin aw ngaih beba tawh a lawmpa thupha pia-in, amah a phawng leh, a lawmpa in samsiatna-in a sang ding hi."
+        },
+        {
+          "number": 15,
+          "text": "Theu hun nei loin a zuzu guah pen a phunhat numeite’ dan ahi hi."
+        },
+        {
+          "number": 16,
+          "text": "Tuanu kham ding hanciamna pen huih a nun loh nadingin khamna tawh kibang a, ahih keileh khut sungah sathau mekcip tawh a kibang hi."
+        },
+        {
+          "number": 17,
+          "text": "Sik in sik mah hiamsak hi; tua ahih ciangin mi khat in a lawmpa’ thu theihna hiamsak hi."
+        },
+        {
+          "number": 18,
+          "text": "Theikung a donpa in a gah ne ding a, a ukpa a ngak mi kipahtawi ding hi."
+        },
+        {
+          "number": 19,
+          "text": "Tui sungah maitang a kilat mah bangin mihing’ lungsim in mihing mah kilangsak hi."
+        },
+        {
+          "number": 20,
+          "text": "Sheol leh Abaddon in cikmahin phazosak hun nei lo a, mihing’ mit zong tua bang mah ahi hi."
+        },
+        {
+          "number": 21,
+          "text": "Ngun siansak nadingin sik huantuina beel leh kham aa dingin meikhuk a om mah bangin mihing pen ama ngah phatna tungtawnin kize-et ding hi."
+        },
+        {
+          "number": 22,
+          "text": "An suk bangin sum sungah a sukna tawh mihai khat na suk hangin ama haina na beisak zo kei ding hi."
+        },
+        {
+          "number": 23,
+          "text": "Na tuuhonte omzia hoih takin thei inla, na bawnghonte limtakin kem in;"
+        },
+        {
+          "number": 24,
+          "text": "bang hang hiam cihleh hauhna in kipden lo a, kumpi-lukhu zong khang tawntungin lungmuang takin a om thei kei hi—"
+        },
+        {
+          "number": 25,
+          "text": "Lopa keu pen ki-atkhia-in hong selkhia a, mualtunga ankungte a kikaihkhop ciangin,"
+        },
+        {
+          "number": 26,
+          "text": "tuunote in na silh ding uh puan hong sikin, keelte in na lo manh uh pia ding a,"
+        },
+        {
+          "number": 27,
+          "text": "na an ding, na innkuante an ding leh na nasem numeite’ tha om nadingin keelnawi a cingin na nei ding uh hi."
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Migilote kuama delh lohpi-in taikek uh a, ahih hangin thumaan mite humpinelkai bangin hang hi."
+        },
+        {
+          "number": 2,
+          "text": "Gam sungah thupalsatna hangin tua gam in tawmvei sungin a uk ulian tampi nei a, ahih hangin theihtelna leh theihna a nei mi khat tungtawnin tua gam sawtpi ding ding hi."
+        },
+        {
+          "number": 3,
+          "text": "Mizawngte a nengniam mizawngpa pen an khat zong a siit lo guahpi tawh kibang hi."
+        },
+        {
+          "number": 4,
+          "text": "Thukham a nusiate in migilote phat uh a, ahih hangin Thukham a zuite ahih leh amaute tawh kilemlo uh hi."
+        },
+        {
+          "number": 5,
+          "text": "Mi tatsiate in thukhenna tel lo uh a, ahih hangin Yahweh a zong mite in na khempeuh a tel uh hi."
+        },
+        {
+          "number": 6,
+          "text": "A lungsim kawi mihau khat sangin thutang takin a gamta mizawngpa hoihzaw hi."
+        },
+        {
+          "number": 7,
+          "text": "Thukham a zui mipa pen ta pil hi a, ahih hangin anhaite tawh a kithuahpa in a pa a maizumsak hi."
+        },
+        {
+          "number": 8,
+          "text": "A man lo ngahna leh summet a pung lakna tawh a hau semsem mipa in mizawngte a hehpih mipa aa dingin a kholsak ahi hi."
+        },
+        {
+          "number": 9,
+          "text": "Thukham a ngai nuam lo mipa, ama thungetnate nangawn a kihhuai ahi hi."
+        },
+        {
+          "number": 10,
+          "text": "Thutang mi khat siatna lam a tawnsak mipa pen ama dum sung mah ah kia ding a, ahih hangin thutang mite in gamh hoih a nei ding hi."
+        },
+        {
+          "number": 11,
+          "text": "Mihaupa amah le amah pil kisa a, ahih hangin theihtelna a nei mizawngpa in amah a teltheih hi."
+        },
+        {
+          "number": 12,
+          "text": "Thumaan mite in vangliatna a ngah ciangin lungdamna lianpi om a, migilote a liat ciangin mite kibu uh hi."
+        },
+        {
+          "number": 13,
+          "text": "A mawhna a imcip mipa thupha kipia lo ding a, ahih hangin tuate pulakin a nusia mipa in hehpihna a ngah ding hi."
+        },
+        {
+          "number": 14,
+          "text": "Yahweh tungah zaktakna a nei tawntung mipa pen thupha ngah hi a, ahih hangin Ama langah a lungsim a khauhsak mipa pen buaina sungah kia ding hi."
+        },
+        {
+          "number": 15,
+          "text": "A zawng mite tungah a gilo ukpa pen humpinelkai hawk leh vompi hangsan tawh kibang hi."
+        },
+        {
+          "number": 16,
+          "text": "Thu theihtelna a nei lo ulianpa zong mi bawlsia lianpi khat hi a, ahih hangin huaihamna a mudah mipa a khansau ding hi."
+        },
+        {
+          "number": 17,
+          "text": "Sisan suah mipa dum sungah tai ding hi; kuamah in amah kham kei hen."
+        },
+        {
+          "number": 18,
+          "text": "Thutang takin a gamta peuhpeuh kihonkhia ding hi; ahih hangin a lampi panin a pialkhia mipa thakhatin puk ding hi."
+        },
+        {
+          "number": 19,
+          "text": "Ama leitang a kho mipa in an tampi nei ding a, ahih hangin sunmang a sansan mipa in zawnna tampi nei ding hi."
+        },
+        {
+          "number": 20,
+          "text": "A citak mipa in thupha tampi ngah ding a, ahih hangin a hau baih gawp nuam mipa pen mawhbang loin om peuhmah lo ding hi."
+        },
+        {
+          "number": 21,
+          "text": "Guptuam neihna pen a hoih hilo hi; bang hang hiam cihleh anlum themneng khat nangawn hangin mihing in thupalsat kha thei hi."
+        },
+        {
+          "number": 22,
+          "text": "A huaiham mipa in a huah nadingin huai mengmeng a, ama tungah zawnna a tun ding lam ngaihsun kha lo hi."
+        },
+        {
+          "number": 23,
+          "text": "A leii tawh a phatphat mipa sangin thuhilh-in a taii mipa in a nungsang ah pahtawina muzaw ding hi."
+        },
+        {
+          "number": 24,
+          "text": "A nu, a pa’ neihsa laksakin, “Mawhna hi lo hi!” a ci mi peuhmah pen a susiapa’ kithuahpih ahi hi."
+        },
+        {
+          "number": 25,
+          "text": "Lungsim kihisak mi in kitotna piangsak a, ahih hangin Yahweh sungah muanna a nei mipa a daupai ding hi."
+        },
+        {
+          "number": 26,
+          "text": "Ama theihna a suang mipa pen mihai hi a, ahih hangin a pil gamtat mi peuhmah kihonkhia ding hi."
+        },
+        {
+          "number": 27,
+          "text": "Mizawngte tungah a pia mipa in kisapna cih bang thuakkha lo ding a, ahih hangin a kimuhmawh bawl mipa in samsiatna tampi a ngah ding hi."
+        },
+        {
+          "number": 28,
+          "text": "Migilote a vangliat ciangin, mite kibu uh a, amaute a manthan ciangin thumaan mite khang hi."
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kihilhhilh napi-in a lungkhuah veve mipa pen bawlphatkik zawh nawn loh-in kisusia pak ding hi."
+        },
+        {
+          "number": 2,
+          "text": "Thumaan mite in thu a neih ciangin mipite lungdam kipaak a, migilote in gam a uk ciangin mipite thuum uh hi."
+        },
+        {
+          "number": 3,
+          "text": "Pilna a deih mipa in a pa a lungdamsak hi a, ahih hangin numei kizuakte kikholhpih pa in a hauhna beitumsak hi."
+        },
+        {
+          "number": 4,
+          "text": "Kumpipa in thutang tawh a gam kipsak a, ahih hangin golhguk a sang mipa in a siasak hi."
+        },
+        {
+          "number": 5,
+          "text": "A vengpa a pumphat mipa in a khe thang a siah ahi hi."
+        },
+        {
+          "number": 6,
+          "text": "Thupalsatna in mi tatsiate thangzak bangin man a, ahih hangin thumaan mite in la sa-in nuam a sa uh hi."
+        },
+        {
+          "number": 7,
+          "text": "Thumaan mite in mizawngte tungah thu khual a, ahih hangin migilote in tua bang thutheihna kin lo uh hi."
+        },
+        {
+          "number": 8,
+          "text": "Mi simmawhte in khuapi sosak a, ahih hangin mipilte in hehna a vengsak hi."
+        },
+        {
+          "number": 9,
+          "text": "Mipil khat in mihai khat tawh zum ah thu nei leh, amah hehin kogawp a, kilemna om lo hi."
+        },
+        {
+          "number": 10,
+          "text": "Sisan suah nuam mite in thutang mite mudah a, ahih hangin thutang mite in ama phattuam nading zong uh hi."
+        },
+        {
+          "number": 11,
+          "text": "Mihaipa in a lungsim sunga om khempeuh genkhia a, ahih hangin mipil ahih leh kidawm takin om hi."
+        },
+        {
+          "number": 12,
+          "text": "Gam-uk khat in zuauthu a ngaih leh, a ulian khempeuh migilo suak uh hi."
+        },
+        {
+          "number": 13,
+          "text": "Mizawngte leh mi nengniamte a kibatna uh hih ahi hi: Yahweh in a nih tuakun muh theih nading mittang guan hi."
+        },
+        {
+          "number": 14,
+          "text": "Mizawngte tungah dik takin thu a khen kumpipa, a tokhom a kikipsak tawntung ding hi."
+        },
+        {
+          "number": 15,
+          "text": "Ciangduai leh thuhilhna in pilna guan a, ahih hangin a kikhahkhong ta in a nu maizumsak hi."
+        },
+        {
+          "number": 16,
+          "text": "Migilote a tam ciangin thupalsatna tam semsem a, ahih hangin thumaan mite in amau pukna mu ding uh hi."
+        },
+        {
+          "number": 17,
+          "text": "Na tapa puahpha in; amah in lungnopna hong pia ding hi. Hi hi, amah in hong kipaaksak ding hi."
+        },
+        {
+          "number": 18,
+          "text": "Kamsangte’ mangmuhna om lohna mun ah, mipite kisia a, ahih hangin Thukham a zui mi in thupha ngah ahi hi."
+        },
+        {
+          "number": 19,
+          "text": "Kama gen bek tawh nasem khat kipuahpha thei lo ding a, amah in a theih hangin mang tuan lo ding hi."
+        },
+        {
+          "number": 20,
+          "text": "Thu a dawn ciangin a pheng dawndawn mi na mu ngei uh hiam? Ama aa ding sangin mihai khat aa dingin lametna om zaw hi."
+        },
+        {
+          "number": 21,
+          "text": "A neu tung panin nasem khat limtakin a khoipa in a tawpna ah ta bangin nei ding hi."
+        },
+        {
+          "number": 22,
+          "text": "A hehbaih mi in kitotna piangsak a, hehluatna in tatkhialhna piangsak hi."
+        },
+        {
+          "number": 23,
+          "text": "Mihing pen a kiphatsakna in amah niamkoih ding a, ahih hangin a lungsim kiniamkhiat mi kilamto ding hi."
+        },
+        {
+          "number": 24,
+          "text": "Guta khat a pawlpihpa in ama nuntakna mah a mudah hi a, amah in a kipulak Thukham sunga samsiatna za napi-in a mawhna a pulak kei hi."
+        },
+        {
+          "number": 25,
+          "text": "Mihing’ kihtakna in thangzak bek tun a, ahih hangin Yahweh sungah muanna a nei mipa muanhuai takin a om ding hi."
+        },
+        {
+          "number": 26,
+          "text": "Mi tampi in gam-ukpa’ maipha zong uh a, ahih hangin mite aa dingin thutanna pen Yahweh kiang bek panin hong pai ahi hi."
+        },
+        {
+          "number": 27,
+          "text": "Thutang mite aa dingin a thutang lo mipa pen a kihhuai hi a, a gamtatna ah a citak mipa pen migilote aa dingin a kihhuai ahi hi."
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Agur Thugen",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Midang Thu ah Kiphatmawhna",
+          "before_verse": 10
+        },
+        {
+          "level": 1,
+          "text": "Khang Mite’ Mawhna Li",
+          "before_verse": 11
+        },
+        {
+          "level": 1,
+          "text": "Vot’ Thuumna leh ‘Pha ta’ a Ci Ngei Lo Na Lite",
+          "before_verse": 15
+        },
+        {
+          "level": 1,
+          "text": "A Thumaan Lo Tapa",
+          "before_verse": 17
+        },
+        {
+          "level": 1,
+          "text": "A Lamdanglua Thu Li",
+          "before_verse": 18
+        },
+        {
+          "level": 1,
+          "text": "Paktatna",
+          "before_verse": 20
+        },
+        {
+          "level": 1,
+          "text": "Mite’ Thuakzawh Loh Lite",
+          "before_verse": 21
+        },
+        {
+          "level": 1,
+          "text": "A Neu Mahmah Ganhing Pil Lite",
+          "before_verse": 24
+        },
+        {
+          "level": 1,
+          "text": "A Kihihsak Gamtat Lite",
+          "before_verse": 29
+        },
+        {
+          "level": 1,
+          "text": "Haina Panin Kidawm Un!",
+          "before_verse": 32
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Massa-a Yakeh’ tapa Agur kammalte ahi hi. Hih mipa in Ithiel—Ithiel tung leh Ucal tungah a gen ahi hi:"
+        },
+        {
+          "number": 2,
+          "text": "Mihingte’ ngaihsut siamna nei lo ka hih manin mi khatpeuh sangin bangmah ka thei keizaw hi."
+        },
+        {
+          "number": 3,
+          "text": "Pilna ka sin ngei kei a, Siangtho Pa’ thutheihna zong ka nei kei hi."
+        },
+        {
+          "number": 4,
+          "text": "Vantung ah kua kahto a, tuaksuk ahi hiam? Kua in a khut sungah huihte lomcip ahi hiam? Kua in a puantual tawh tuite tuncip ahi hiam? Kua in leitung mongte khempeuh kipsak ahi hiam? Ama Min bang hi a, a tapa min bang ahi hiam? Na theih leh hong gen in!"
+        },
+        {
+          "number": 5,
+          "text": "Yahweh’ kammal peuhmah a siangtho hi. Amah a muang mite aa dingin kidalna lum ahi hi."
+        },
+        {
+          "number": 6,
+          "text": "Ama kammalte behlap kei un; tua bang hi keileh Amah in note hong thuhilh ding a, na zuau lam hong kimu ding hi."
+        },
+        {
+          "number": 7,
+          "text": "Keimah in Nang kiangah thu nih kong ngen hi (Ka sihma-in hong nial kei in):"
+        },
+        {
+          "number": 8,
+          "text": "Keima kiang panin kiphatsakna leh zuauna hong hepkhiatsak inla, zawnna ahi a, hauhna ahi zongin hong pia kei in; ahih hangin ka khamkhop zah ding an tawh hong vak in;"
+        },
+        {
+          "number": 9,
+          "text": "Tua bang hi keileh keimah hau-in Nang hong nialin, ‘Yahweh kua hiam?’ ka ci kha ding hi. Ahih keileh keimah zawng leng guta-in ka Pa Yahweh’ Min kong daisak kha ding hi."
+        },
+        {
+          "number": 10,
+          "text": "A pu kiangah a nasempa gensia kei in; tua bang hi keileh amah in nang hong samsia kha ding a, na mawhna na thuak ding hi."
+        },
+        {
+          "number": 11,
+          "text": "A pa uh samsia-in a nu a phat lo khanggui khat om hi."
+        },
+        {
+          "number": 12,
+          "text": "Amau leh amau siang kisa-in, ahih hangin amau nitna panin a kisilkhia lo khanggui khat om hi."
+        },
+        {
+          "number": 13,
+          "text": "Kiliansak mahmahin a kiphasak khanggui khat om hi."
+        },
+        {
+          "number": 14,
+          "text": "Leitung panin mizawngte leh mite lak panin micimawhte a nek tum nadingin a ha-te namsau tawh a kibang, a khaguhte temta tawh a kibang khanggui khat om hi."
+        },
+        {
+          "number": 15,
+          "text": "‘Hong pia in! Hong pia in!’ ci-in a kiko vot in tanu nih nei hi. Kham hun a nei lo na thum om a, ‘Pha ta,’ a ci ngei lo li om hi."
+        },
+        {
+          "number": 16,
+          "text": "Hankhuk, a ciing naubu, tui a deih tawntung leitang leh ‘Pha ta,’ a ci ngei lo meikuang!"
+        },
+        {
+          "number": 17,
+          "text": "A pa simmawh-in a nu’ thu a mang nuam lo mite’ mittang va-ak in khelkhiasakin, musanete in a ne ding uh hi."
+        },
+        {
+          "number": 18,
+          "text": "Lamdang ka sak luat thu thum om hi; hi hi, ka tel loh li om hi:"
+        },
+        {
+          "number": 19,
+          "text": "Huih lakah muvanlai a lentoh theihna zia; suangtum tungah gul a pai theihna zia; tuipi laizangah tembaw a laam theihna zia; leh nungak leh tangval kingaihna zia."
+        },
+        {
+          "number": 20,
+          "text": "Hih in numei paktatnu zia ahi hi: Amah in ne-in, a kam a nul khit ciangin amah in, “A hoih lo bangmah ka gamta kei hi!” a ci hi."
+        },
+        {
+          "number": 21,
+          "text": "Leitung a liingsak na thum om a, a kithuak zo lo li ahi hi:"
+        },
+        {
+          "number": 22,
+          "text": "Sila khat in a uk ciang; mihai khat in a duh bangbang a nek zawh ciang;"
+        },
+        {
+          "number": 23,
+          "text": "a muhdahhuai numei in pasal a neih ciang; sila numei in a nasepna-pi a luahkhiat ciang."
+        },
+        {
+          "number": 24,
+          "text": "Leitung ah a neu mahmah ganhing li om a, ahih hangin tuate nakpi takin pil hi:"
+        },
+        {
+          "number": 25,
+          "text": "Miksite pen nam neu mahmah khat ahi uh hi, tua hi napi-in amaute in khuakhal nisat hunin a an ding uh khol zo uh hi."
+        },
+        {
+          "number": 26,
+          "text": "Suangheng-a teng zupite pen a thahat lo ganhing hon hi a, tua hi napi-in amaute in suang sungah a inn ding a bawl uh hi."
+        },
+        {
+          "number": 27,
+          "text": "Kauphete in kumpi nei lo uh hi; tua hi napi-in a kituak diamdiamin a honhonin gamta uh hi;"
+        },
+        {
+          "number": 28,
+          "text": "Maimom a khutin bawmin kumpi-inn sungah kimu hi."
+        },
+        {
+          "number": 29,
+          "text": "Hihte pen a pai uh ciangin a thupitsuah thumte ahi hi, hi hi, a kalsuan dan tawh a kilawm li om hi:"
+        },
+        {
+          "number": 30,
+          "text": "gamsate lakah a thahat, bangmah a kihta lo humpinelkai;"
+        },
+        {
+          "number": 31,
+          "text": "A kihihsak pai aklui; a khangham keeltal; kuamah in a langdo ngam loh kumpipa."
+        },
+        {
+          "number": 32,
+          "text": "Nangmah hai gamtat kha-in, na kiliatsak leh, ahih keileh siatna na hilh khit leh, na khut tawh na kam hum in."
+        },
+        {
+          "number": 33,
+          "text": "Bawngnawi dat toktok lehang a thaukhal suaksak a, nak nuai-na in sisan suaksak hi; tua mah bangin hehluatna in kitotna piangsak hi."
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Kumpi Lemuyl tunga Kigen Thute",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Zi Hoih",
+          "before_verse": 10
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kumpipa Lemuyl tungah a nu in a hilh kamsanna thute:"
+        },
+        {
+          "number": 2,
+          "text": "Ka tapa bang ahi hiam? Ka gil sung pana ka tapa bang ahi hiam? Ka kiciamna’ tapa bang ahi hiam?"
+        },
+        {
+          "number": 3,
+          "text": "Na thahatna numei tungah zang kei inla, kumpite a susia nuampa tungah na thatang pia kei in."
+        },
+        {
+          "number": 4,
+          "text": "Leenggahzu dawn ding pen kumpite aa ding kilawm lo hi; Lemuyl aw, kumpite dawn ding hi lo hi; gam-ukte in zukhuah dawn huai lo hi;"
+        },
+        {
+          "number": 5,
+          "text": "Tua bang hi keileh amaute in dawn-in, Thukham mangngilh kha ding uh a, mi genthei khatpeuh’ thukhenna a lumlet kha ding hi."
+        },
+        {
+          "number": 6,
+          "text": "A si dekdek mite tungah kham theihzu pia inla, lungkham mahmah mite tungah leenggahzu pia in."
+        },
+        {
+          "number": 7,
+          "text": "Siatna a gamta mipa in Thukham nusia a, amah in mizawngte leh mi gentheite phawk nawn lo hi."
+        },
+        {
+          "number": 8,
+          "text": "Sihna a thuak dingin a kiseh mite’ thu neihna ah, a gen thei lo mite aa dingin gensak in."
+        },
+        {
+          "number": 9,
+          "text": "Na kam kaak inla, thumaan takin thukhen in; mizawngte leh micimawhte’ thu panpih in."
+        },
+        {
+          "number": 10,
+          "text": "Kua in zi hoih mu zo ding ahi hiam? Amah pen suangmanpha sante sangin manphazaw tham hi."
+        },
+        {
+          "number": 11,
+          "text": "A pasal’ lungsim in amah muang mahmah a, a muanna zahin a lungkimna a ngah hi."
+        },
+        {
+          "number": 12,
+          "text": "Amah in a pasal limbawl ding a, a nuntak sung tawntungin siatna a tun kei ding hi."
+        },
+        {
+          "number": 13,
+          "text": "Amah in samul leh anthul khau zongin, lawp takin na a sem hi."
+        },
+        {
+          "number": 14,
+          "text": "Amah pen sumbawl tembawte tawh kibang a, a gamla panin nek leh dawn hong pua hi."
+        },
+        {
+          "number": 15,
+          "text": "Amah khuamial laipi mahin tho a, a innkuanpihte tungah an pia-in, a nasem numeite’ sep ding a vaihawmsak hi."
+        },
+        {
+          "number": 16,
+          "text": "Amah in lo hoih zongin lei a, a thalawhsa sum tawh leenggui lo khat a bawl hi."
+        },
+        {
+          "number": 17,
+          "text": "Amah le amah kithapia-in, a khutte a khauhsak hi."
+        },
+        {
+          "number": 18,
+          "text": "Amah in a sumbawlna pen a hoihpente lakah a kihel lam mu a, a khuaimei zanin a mit kei hi."
+        },
+        {
+          "number": 19,
+          "text": "Amah in khau kheekin, puan a gan hi."
+        },
+        {
+          "number": 20,
+          "text": "Amah in mizawngte huai-in micimawhte a zam hi."
+        },
+        {
+          "number": 21,
+          "text": "A innkuan khempeuh puansan guanzo ahih manin vuk a kiat hangin a innkuanpihte aa dingin a lunghimawh kei hi."
+        },
+        {
+          "number": 22,
+          "text": "Amah in a delhphah-tuam dingin puan hoih bawl a, a paun pen naikhau-puan a dupsan ahi hi."
+        },
+        {
+          "number": 23,
+          "text": "A pasal kitheikim a, gam sung upate lakah thukhen dingin a tut ciangin kongpi ah a pasal kizahtak hi."
+        },
+        {
+          "number": 24,
+          "text": "Amah in saihadial puan hoihte bawlin a zuak hi; sumbukte ah a meetin kawnggakte a puak hi."
+        },
+        {
+          "number": 25,
+          "text": "A puansilh pen hatna leh pahtawina hi a, hong tung ding hun ah amah lungdam-kipaak ding hi."
+        },
+        {
+          "number": 26,
+          "text": "Amah in pilna tawh thu gen a, a leii tungah hehpihna Thukham a om hi."
+        },
+        {
+          "number": 27,
+          "text": "Amah in a innkuanpihte’ vai vaan a, omkhongna an a ne kei hi."
+        },
+        {
+          "number": 28,
+          "text": "A tate tho-in, thupha ngahnu a ci uh hi; a pasal zong tho-in, amah a phat hi."
+        },
+        {
+          "number": 29,
+          "text": "Tanu tampite in hoih takin sem a, ahih hangin nang in amaute khempeuh sangin a hoihzaw-in na sem hi."
+        },
+        {
+          "number": 30,
+          "text": "Hehpihna pen zuau hi thei a, meelhoihna pen a mawknapi hi thei hi; ahih hangin Yahweh a zahtak numei kiphat ding hi."
+        },
+        {
+          "number": 31,
+          "text": "1 Ama thalawhsa thaman pia unla, ama nasepte mahmah in kongpi ah phat uh hen."
+        }
+      ]
+    }
+  ]
+}

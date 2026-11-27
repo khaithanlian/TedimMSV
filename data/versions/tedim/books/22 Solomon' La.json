@@ -1,0 +1,719 @@
+{
+  "schema_version": "1.1",
+  "book": "22 Solomon' La",
+  "chapters": [
+    {
+      "number": 1,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Solomon’ la",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Shir Ha-Shirim",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Shir Ha-Shirim Asher Li-Shelomo",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Solomon’ Late laka La",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Nungak:",
+          "before_verse": 2
+        },
+        {
+          "level": 1,
+          "text": "Sengualte:",
+          "before_verse": 8
+        },
+        {
+          "level": 1,
+          "text": "Tangval:",
+          "before_verse": 9
+        },
+        {
+          "level": 1,
+          "text": "Nungak:",
+          "before_verse": 12
+        },
+        {
+          "level": 1,
+          "text": "Tangval:",
+          "before_verse": 15
+        },
+        {
+          "level": 1,
+          "text": "Nungak:",
+          "before_verse": 16
+        },
+        {
+          "level": 1,
+          "text": "Tangval:",
+          "before_verse": 17
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Solomon’ late laka la khat ahi hi."
+        },
+        {
+          "number": 2,
+          "text": "A kam panin kei hong nam hen; bang hang hiam cihleh nangma nong itna leenggahzu khum sangin hoihzaw hi."
+        },
+        {
+          "number": 3,
+          "text": "Na paknamtui gimnam lungkim huai mahmah a, na min in a kisungkhia nilh namtui tawh kibang hi; hih hangin nungakte in nang hong ngai uh hi."
+        },
+        {
+          "number": 4,
+          "text": "Nang tawh hong paipih khawm in, manlang ni. Kumpipa in ama inndei sungah hong paipih hi. Nang tawh kote in nuamsa-in ka lungkim ding uh hi. Leenggahzu sangin na itna namtui zaw hi. Thutang mite in nang hong it uh hi."
+        },
+        {
+          "number": 5,
+          "text": "Yerusalem’ tanute aw, Kedar’ puanbukte leh Solomon’ kong puante bangin keimah vomin ka ngaihbang hi."
+        },
+        {
+          "number": 6,
+          "text": "Ka vom manin hong en ngeungau kei in. Nisa ka thuakna hang ahi hi. Ka nu’ tate kei tungah heh uh a, amaute in leenggui huante hong cingsak uh a, keima leenggui huan nangawn ka don man kei hi."
+        },
+        {
+          "number": 7,
+          "text": "Kong it aw, hong gen in; na tuuhonte koih ah cing na hi hiam? Sun-in na tuute koi-ah tawlngasak na hi hiam? Bang hangin na lawmte tuuhon gei-ah lu khuh numei khat bangin om ding ka hi hiam?"
+        },
+        {
+          "number": 8,
+          "text": "Numeite lakah a ngaihbang pennu aw, thei lo na hih leh, tuute’ khekhap hong zui inla, tuucingte’ puanbuk gei-ah na keelnote na cing in."
+        },
+        {
+          "number": 9,
+          "text": "Ngaihno aw, Pharaoh’ sakolleengte laka sakolpi tawh nang kong tehkak hi."
+        },
+        {
+          "number": 10,
+          "text": "Na biangte zong suangmanpha kigualte tawh etlawm a, kham khainiang tawh na ngawng etlawm si e."
+        },
+        {
+          "number": 11,
+          "text": "Nangma aa dingin ngun tawh kizem kham kizepna kong bawlsak ding uh hi."
+        },
+        {
+          "number": 12,
+          "text": "Kumpipa a sabuai phung ah a tut laitakin ka paknamtui hong kizel hi."
+        },
+        {
+          "number": 13,
+          "text": "Ka ngaihno in kei aa dingin myrrh paknamtui lompi hi a, zan tawntungin ka ang sungah hong lum hi."
+        },
+        {
+          "number": 14,
+          "text": "Ka ngaihno in kei aa dingin En Gedi gam leenggui lote-a a palh lihleh henna pak hoihte tawh kibang hi."
+        },
+        {
+          "number": 15,
+          "text": "En in, na meel hoih hi, ka ngaih no aw, na meel hoih hi; vakhu mit bangin na mit ngaihbaang hi."
+        },
+        {
+          "number": 16,
+          "text": "En in, ka ngaihno aw, na meel hoih hi; hi hi, lungnop huai hi! I lupna in singtehte tawh nim dildial hi."
+        },
+        {
+          "number": 17,
+          "text": "I inn khuamte tamtak kungte hi a, i innsunte taksing ahi hi."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Nungak:",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Tangval:",
+          "before_verse": 2
+        },
+        {
+          "level": 1,
+          "text": "Nungak:",
+          "before_verse": 3
+        },
+        {
+          "level": 1,
+          "text": "Tangval:",
+          "before_verse": 14
+        },
+        {
+          "level": 1,
+          "text": "Nungak:",
+          "before_verse": 16
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Keimah in Sharon gama lingpaak leh kuam sunga om unok pak ka hi hi."
+        },
+        {
+          "number": 2,
+          "text": "Linglaka om unok pak khat bangin tanute’ lakah ka ngaihno a om hi."
+        },
+        {
+          "number": 3,
+          "text": "Gamlak singkung laka om apple kung khat bangin tapate lakah ka ngaihno om hi. Keimah ka lungnuam-in, ama liim nuai-ah ka tu a, a gahte khum ka sa hi."
+        },
+        {
+          "number": 4,
+          "text": "Amah in leenggahzu omna inn ah kei hong paipih a, keima tunga ama lankhai in itna ahi hi."
+        },
+        {
+          "number": 5,
+          "text": "Ngaihna khakham vei ka hih manin amah in leenggah-keu tawh kei hong hatsak a, apple tawh thadimsak hi."
+        },
+        {
+          "number": 6,
+          "text": "A veilam baan hong khamsakin a taklam khutin kei hong kawi hi."
+        },
+        {
+          "number": 7,
+          "text": "Yerusalem’ tanute aw, gamlak sakhi ahih keileh sazuk ngenin thu kong pia hi: Itna in nop a sak laiteng, ko’ kingaihna hong toknawi kei unla, hong phawng kei un."
+        },
+        {
+          "number": 8,
+          "text": "Ka ngaihno awging! En un, mual liante tungah diangin, mual neute kantanin hong pai hi."
+        },
+        {
+          "number": 9,
+          "text": "Ka ngaihno in zasuk ahih keileh sazuktal khanglai tawh kibang hi. En un, i kulhpi nungah amah ding a, tawlet panin hong dakkhia-in, kawmvang panin hong en giau hi."
+        },
+        {
+          "number": 10,
+          "text": "Ka ngaihno pau-in kei kiangah, “Ka ngaihno aw, dingto in; it luat aw, hong pai in."
+        },
+        {
+          "number": 11,
+          "text": "Bang hang hiam cihleh en in, phalbi veng ta a, guahzu nawn lo hi."
+        },
+        {
+          "number": 12,
+          "text": "Leitung ah paakte palh a, lasak hun tung ta a, i gam sungah vakhu ham kiza ta hi."
+        },
+        {
+          "number": 13,
+          "text": "3 Theikungte in a gahte piangsaksak ta a, leenggah pak gim namtui zong kizel ta hi. Ka ngaihno aw, dingto in; ka meel hoih nu aw, hong pai in!"
+        },
+        {
+          "number": 14,
+          "text": "Suangheng kawm, suangkeen kawm mun simtham-a ka vakhuno aw e, na aw khum-in na meel ngaihbaang ahih manin na mai hong en sakin, na aw hong zasak aw."
+        },
+        {
+          "number": 15,
+          "text": "I leengguite in gah hoih nei ta ahih manin leenggui a susia ngiate leh niga-note hong mat aw."
+        },
+        {
+          "number": 16,
+          "text": "Ka ngaihno kei aa hi a, kei ama aa ka hi hi. Amah in unok paakte lakah an pia a,"
+        },
+        {
+          "number": 17,
+          "text": "nitak hun vot mateng, niliim a taimang mateng tuu a cing hi. Ka ngaihno aw, kihei inla, Bether mual tungah sazuk leh sazuktal khanglai khat bangin hong om in."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Zanin ka lupna lungah ka itpa ka lungngaingai a, amah ka zon hangin ka mu kei hi."
+        },
+        {
+          "number": 2,
+          "text": "Keimah in, “Tho ning la, khuapi sung, kongzing lak leh tual-awng tengah pai kawikawi-in ka itpa ka zong ding hi,” ka ci hi. Amah ka zong a, ahih hangin ka mu kei hi."
+        },
+        {
+          "number": 3,
+          "text": "Khua sunga pai kawikawi khua-cingte ka mu hi. Amaute kiangah, “Ka ngaihno na mu uh hiam?” ci-in ka dong hi."
+        },
+        {
+          "number": 4,
+          "text": "Khua-cingte tawh ka kikhen khit pehtin, ka ngaihno tawh ka kimu hi. Amah ka len a, ka nu’ inn sung, kei hong paii-na inndei sungah amah ka paipih khit mateng amah ka paisak kei hi."
+        },
+        {
+          "number": 5,
+          "text": "Yerusalem’ tanute aw, gamlak sakhi ahih keileh sazuk ngenin thu kong pia hi: Itna in nop a sak laiteng, ko’ kingaihna hong toknawi kei unla, hong phawng kei un."
+        },
+        {
+          "number": 6,
+          "text": "Sumbuk-a paknamtui nam khempeuh tawh kibawl, myrrh leh paknamtui tawh a kinamtui sak meikhu khuampite bangin gamlak panin hong paikhia kua ahi hiam?"
+        },
+        {
+          "number": 7,
+          "text": "En un, Solomon’ lupna, a kiimkot ah galhang sawmguk tawh hi a, Israyl’ galhangte lak pana mite ahi hi."
+        },
+        {
+          "number": 8,
+          "text": "Amaute khempeuh in namsau tawi uh a, galdo ngei vive ahi uh hi. Zan hun-a lauhuaina hangin amaute khat ciat in a phei tung ciat ah namsau a koih uh hi."
+        },
+        {
+          "number": 9,
+          "text": "Kumpi Solomon in ama aa dingin Lebanon-a sing tawh taalbuk bawl a,"
+        },
+        {
+          "number": 10,
+          "text": "amah in a zawlte ngun tawh bawlin, kham tawh a lukham bawl a, a tutna dingin a dupsan bawl a, a sunglam ahih leh Yerusalem’ tanute in itna a phah uh hi."
+        },
+        {
+          "number": 11,
+          "text": "Zion’ tanute aw, hong pai unla, a mopawi ni-in, a lungdam ni-in, a nu in a khuksak kumpi lukhu, tua kumpi-lukhu a khu Solomon Kumpipa hong en dih un."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Tangval:",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Nungak:",
+          "before_verse": 16
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "En in, ka ngaihno aw, nang na hoih hi; na meel a hoih hi. Na lu khuhna hem panin na mitte vakhu mit a bang hi. Na sam in Gilead Mual panin a diang leklek keel hon tawh kibang hi."
+        },
+        {
+          "number": 2,
+          "text": "Na hate in a mul kimet siangsa, a kisawp siang tuuhon tawh kibang hi; a vekin a kopin peengin, amaute lakah taciing om lo hi."
+        },
+        {
+          "number": 3,
+          "text": "Na mukte in a dupsan khauzang tawh kibang a, na kampauna ngaihngaih nop huai hi. Na lu khuhna hem-a na kho in mang kawlsing gah phal bangin a san lihleh hi."
+        },
+        {
+          "number": 4,
+          "text": "Na ngawng in mi thahatte’ lum khempeuh, lum tulkhat bang a kikhaina, galhiam koih nadingin David in a lam tausang tawh kibang hi."
+        },
+        {
+          "number": 5,
+          "text": "Na nawi tenih in unok paakte laka ta khawm hialhial sazukno nih tawh kibang hi."
+        },
+        {
+          "number": 6,
+          "text": "Nitak hun vot mateng, niliim a taimang mateng, myrrh’ mual lian lam, paknamtui mual tung lam ah ka pai ding hi."
+        },
+        {
+          "number": 7,
+          "text": "Ka ngaihno aw, na khempeuh sangin na meel hoihzaw hi; nang sungah paubaanna bangmah a om kei hi."
+        },
+        {
+          "number": 8,
+          "text": "Ka lawm ngaih aw, Lebanon panin kei hong zui inla, Labanon panin kei tawh hong pai in. Amana dawn pan, Shenir leh Hermon dawn pan, humpinelkaite’ kuate pan, kamkeite’ omna mualte panin khuadak in."
+        },
+        {
+          "number": 9,
+          "text": "Ka sanggam, ka itluat aw, na mit hah in ka lung kuai a, na khi awh in ka lungsim hong zo hi."
+        },
+        {
+          "number": 10,
+          "text": "Ka sanggam, ka itluat aw, na itna in hoih taktak hi! Leenggahzu khum sangin na itna nakpi-in hoihzaw a, gimnamtui khatpeuh sangin na kinilh gimnamtui namtui zaw tham hi!"
+        },
+        {
+          "number": 11,
+          "text": "Ka itluat aw, na mukte panin khuaizu khum bangin takkhia a, khauizu leh bawngnawi na leii nuai ah a om hi; na puante a namtui dan in Lebanon-a paknamtuite tawh a kibang hi."
+        },
+        {
+          "number": 12,
+          "text": "A ki-umcip huan in ka sanggamnu, ka lawm ngaihno hi a—a kihucip tuinak, a kisincip tuikhuk ahi hi."
+        },
+        {
+          "number": 13,
+          "text": "Na singkungte lah mang kawlsing huan-a gah hoihpente: henna namtui leh spikenard sing namtui tawh a om khawm hi."
+        },
+        {
+          "number": 14,
+          "text": "Spikenard sing leh saffron sing, calamus kung leh cinnamon kung, paknamtui singkung khempeuh tawh zong hi a, myrrh leh aloe kungte, lo-namtui hoihpen khempeuh tawh om hi—"
+        },
+        {
+          "number": 15,
+          "text": "Huaite-a tuinak, a tui siang tuikhuk khat, Lebanon pana luitui om hi."
+        },
+        {
+          "number": 16,
+          "text": "Leilu lam huih aw, khanglo in! Leitaw lam-a aw, hong pai in! Ka huan muut inla, a gimnamtuite kizeelsak in. Ka ngaihno ama huan ah pai henla, a gah limcite ne hen."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Tangval:",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Sengualte:",
+          "before_verse": 2
+        },
+        {
+          "level": 1,
+          "text": "Nungak:",
+          "before_verse": 2
+        },
+        {
+          "level": 1,
+          "text": "Tangval:",
+          "before_verse": 3
+        },
+        {
+          "level": 1,
+          "text": "Nungak:",
+          "before_verse": 3
+        },
+        {
+          "level": 1,
+          "text": "Sengualte:",
+          "before_verse": 9
+        },
+        {
+          "level": 1,
+          "text": "Nungak:",
+          "before_verse": 10
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ka sanggam, ka lawm ngaihno aw, ka huan ah ka paikhin hi. Ka paknamtui leh ka myrrh ka khawm khin a, ka khuaizu leh ka khuailu-zu ka ne khin hi. Ka bawngnawi leh ka leenggahzu ka ne khin hi."
+        },
+        {
+          "number": 2,
+          "text": "Ka lup hangin ka lungsim ihmu lo hi. En in, ka ngaihno aw aive leh! Amah in kong hong kiu a,"
+        },
+        {
+          "number": 3,
+          "text": "Ka puantualpi ka suahkhia khin hi; bang hangin silhkik ding ka hi hiam? Ka khe ka sil khin hi; bang hangin ninsak-kik ding ka hi hiam?"
+        },
+        {
+          "number": 4,
+          "text": "Ka ngaihno in kongkhak kilhna heng ah a khut khum a, ama hangin ka sungah ka lungtang a lawp hi."
+        },
+        {
+          "number": 5,
+          "text": "Ka ngaihno kong a hon dingin ka tho a, ka khutte myrrh paknamtui tawh zunin, ka khutmete myrrh paknamtui tui ka nuh a, kong hong dingin a honna ka len hi."
+        },
+        {
+          "number": 6,
+          "text": "Ka ngaihno aa dingin kong ka hong a, ahih hangin ka ngaihno na kihei-in na taikhia khin ta hi. Amah in thu a gen lai-in ka lungsim in limtakin ngai hi. Amah ka zon hangin amah ka mu kei hi. Amah ka sam a, ahih hangin a hong dawng kei hi."
+        },
+        {
+          "number": 7,
+          "text": "Khuapi sunga kileh kawikawi khua-cingte in kei hong tuak uh a, amaute in hong satin hong liamsak uh hi. Kulh cingte in ka lu khuhna dial hong lakkhiatsak uh hi."
+        },
+        {
+          "number": 8,
+          "text": "Yerusalem’ tanute aw, ka ngaihno na muh uh leh, keimah in zawlgau ka veina thu na gen nadingun kong thuum hi."
+        },
+        {
+          "number": 9,
+          "text": "Nang numei laka hoih pen aw, na ngaihno in adang ngaihnote sangin a tungnunzawkna bang hiam aw? Kote hih zaha nong thuum liang nadingin na ngaihno in ngaihno dangte sangin bangci zaw diak hiam aw?"
+        },
+        {
+          "number": 10,
+          "text": "Ka ngaihno in ngo-in san siuhseuh a, mi tulsawm lakah kilangdiak hi."
+        },
+        {
+          "number": 11,
+          "text": "A lutang in kham hoihpen tawh kibang a, a samte bawk thiuthiau-in va-ak bangin vom dikdek hi."
+        },
+        {
+          "number": 12,
+          "text": "Ama mitte in gun tuite kianga vakhute tawh kibang a, bawngnawi tawh kisil, suangmanpha a kithuah tawh kibang hi."
+        },
+        {
+          "number": 13,
+          "text": "A biangte pen paknamtui omna, gimnamtui thunna tawh kibang hi. A mukte in unok paakte hi a, myrrh paknamtui tui a taak keuhkeuh hi."
+        },
+        {
+          "number": 14,
+          "text": "A khutte in beryl suangmanpha tawh kizem kham ciangkhut tawh kibang a, a pumpi in sapphire suangmanpha tawh kisem saiha-pak tawh kibang hi."
+        },
+        {
+          "number": 15,
+          "text": "A khete in kham citak bullen tunga kiphut suangkang khuampite tawh kibang hi. A maitang in Lebanon-a tamtak sing hoihpente tawh kibang hi."
+        },
+        {
+          "number": 16,
+          "text": "Ama kam pau in khum zungzung hi. Hi hi, amah ngaihbaang taktak hi. Yerusalem nungakte aw, hih in ka ngaihno hi a, hih in ka lawm ahi hi."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Sengualte:",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Nungak:",
+          "before_verse": 2
+        },
+        {
+          "level": 1,
+          "text": "Tangval:",
+          "before_verse": 4
+        },
+        {
+          "level": 1,
+          "text": "Sengualte:",
+          "before_verse": 10
+        },
+        {
+          "level": 1,
+          "text": "Tangval:",
+          "before_verse": 11
+        },
+        {
+          "level": 1,
+          "text": "Sengualte:",
+          "before_verse": 13
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Numeite laka hoihpen nu aw, na ngaihno koi-ah pai ahi hiam? Amah, koi lampi ah pai ahi hiam? Kong zonpih ding uh hi."
+        },
+        {
+          "number": 2,
+          "text": "Ka ngaihno ama huan, paknamtuite omna ah, huante sungah tuu cing ding leh unok pakte kaikhawm dingin paikhin hi."
+        },
+        {
+          "number": 3,
+          "text": "Keimah in ka ngaihno aa ka hi a, ka ngaihno in kei aa ahi hi. Amah in unok pakte lakah tuute gamtasak hi."
+        },
+        {
+          "number": 4,
+          "text": "Ka ngaihno aw, Yerusalem khuapi bangin nang ngaihbaangin, Tirzah khuapi bangin na hoih a, lan tawh a pai lenlen gamkapte bangin na thupi hi."
+        },
+        {
+          "number": 5,
+          "text": "Kei kiang panin na mit heikhia in; tuate in ka duang hong zen lua hi. Na sam in Gilead panin a diangsuk leklek keel hon tawh kibang hi."
+        },
+        {
+          "number": 6,
+          "text": "Na hate in a kisil khin phet tuu hon khat tawh kibang a, a vekin a kopin peengin, amaute lakah taciing om lo hi."
+        },
+        {
+          "number": 7,
+          "text": "Na lu khuhna hem-a na kho in mang kawlsing gah phal bangin a san lihleh hi."
+        },
+        {
+          "number": 8,
+          "text": "Kumpinu sawmguk, zineu sawmgiat leh nungak sim zawh loin om hi."
+        },
+        {
+          "number": 9,
+          "text": "Ka vakhuno, keima aa a kawkbaang lo nu in khat bek hi a, a nu’ tanu neihsun, amah a suakkhiasaknu’ itpen ahi hi. Tanute in amah mu a, thupha a pia uh hi. Kumpinute leh zineute in amah mu uh a, amaute in amah a phat uh hi."
+        },
+        {
+          "number": 10,
+          "text": "Zingsang khuavak bang, khapi bangin a ngo, ni bangin a tangpha, lan tawh a pai lenlen galkapte bangin a zahtak huai meel a nei kua ahi hiam?"
+        },
+        {
+          "number": 11,
+          "text": "Kuam sunga singgahte a en ding leh leengguite a ngum hiam, mang kawlsingte a pak nai hiam cih a vil dingin singno huan ah ka paisuk hi."
+        },
+        {
+          "number": 12,
+          "text": "Ka kiphawkkhak ma-in, ka lungsim in Ammi Nadab’ sakol leengte bangin kei hong sing theuhtheuh hi."
+        },
+        {
+          "number": 13,
+          "text": "Shulam numei aw, hong ciahkik in, hong ciahkik in! Nang kong muh theih nadingun hong ciahkik in, hong ciahkik in. Mahanaim-a lamna et bangin bang hangin Shulam numei mu nuam na hi hiam?"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Nungak:",
+          "before_verse": 10
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ulian’ tanu aw, na khedap leh na khe kilawm zen mah si! Na pheite kilamzia in khutsiamte khut-a zun suangmanphate tawh kibang hi."
+        },
+        {
+          "number": 2,
+          "text": "Na lai in leenggahzu kipawi tawh a kilawi ngei lo hai bangin uk kiukeu hi. Na gil in unok pak tawh a ki-um buhlom hen tawh kibang hi."
+        },
+        {
+          "number": 3,
+          "text": "Na nawi tenih in a ta khawm hialhial sazuk no nih tawh kibang hi."
+        },
+        {
+          "number": 4,
+          "text": "Na ngawng in saha tausang tawh kibang hi. Na mitte in Bath Rabbim kongpi gei-a om Heshbon bualtuite tawh kibang hi. Na nak in Damascus lam a nga Lebanon tausang tawh kibang hi."
+        },
+        {
+          "number": 5,
+          "text": "Na lutang in Carmel Mual bangin etlawmna hong khusak a, na sam in kumpi-puan puangsan tawh kibang a, na samphek in kumpipa’ mit la vangvang hi."
+        },
+        {
+          "number": 6,
+          "text": "Ka ngaihno, lungnopna’ tanu aw, hoih zen si teh, lungkim haui zen si teh!"
+        },
+        {
+          "number": 7,
+          "text": "Na duang in nisuh kung tawh kibang a, na nawite in a gah-bawkte tawh kibang hi."
+        },
+        {
+          "number": 8,
+          "text": "Keimah in, “Nisuh kung tung ka kah ding a, a hiangte ka khiak ding hi,” ka ci hi. Na nawite in leenggah-bawkte hong bang henla, na husan in apple namtui bangin namtui hen."
+        },
+        {
+          "number": 9,
+          "text": "Na kam tung in ka ngaihno aa dingin leenggahzu hoihpen bang hi a, tua in khum takin luangsuk a, a ihmute’ muk ah damtakin luang hi."
+        },
+        {
+          "number": 10,
+          "text": "Kei in ka ngaihno aa ka hi a, ama lunggulhna in keimah ka hi hi."
+        },
+        {
+          "number": 11,
+          "text": "Ka ngaihno aw hong pai in, gamlak ah paikhia ni. Khuaneute ah va giak ni."
+        },
+        {
+          "number": 12,
+          "text": "Leengguite a ngum khin hiam, a pakte a palh khin hiam, mang kawlsingte a pak hiam cih i muh nadingin leenggui lo ah va paibaih ni—tua lai-ah ka itna kong pia ding hi."
+        },
+        {
+          "number": 13,
+          "text": "Ngaihno aw, zawl-ai kung namtui gim na za ding a, nang aa dingin ka luisa singgah lim namcin a lui, a thak ka kong gei ah om hi."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Sengualte:",
+          "before_verse": 5
+        },
+        {
+          "level": 1,
+          "text": "Nungak:",
+          "before_verse": 6
+        },
+        {
+          "level": 1,
+          "text": "Sengualte:",
+          "before_verse": 8
+        },
+        {
+          "level": 1,
+          "text": "Nungak:",
+          "before_verse": 10
+        },
+        {
+          "level": 1,
+          "text": "Tangval:",
+          "before_verse": 13
+        },
+        {
+          "level": 1,
+          "text": "Nungak:",
+          "before_verse": 14
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ka nu’ nawizu tawh a khangkhia, ka sanggam hi hoh lecin ut mahmah ing! Tua hi leh, lam kal ah hong tuak taleng zong, kong nam ding a, kuamah in kei hong ko lo ding uh hi."
+        },
+        {
+          "number": 2,
+          "text": "Keimah in nang hong makaih-in, kei thu hong hilh ka nu’ inn sungah kong paipih ding hi. Keimah in na dawn dingin leenggahzu namtui, mang kawlsing tui kong pia ding hi."
+        },
+        {
+          "number": 3,
+          "text": "A veilam baan hong khamsakin a taklam khutin kei hong kawi hi."
+        },
+        {
+          "number": 4,
+          "text": "Yerusalem’ tanute aw, Itna in nop a sak laiteng, ko’ kingaihna nong toknawi loh nading uh leh na phawng loh nadingun kong thuum hi."
+        },
+        {
+          "number": 5,
+          "text": "A ngaihno tunga a kingam, gamlak pana hong suakkhia kua ahi hiam?"
+        },
+        {
+          "number": 6,
+          "text": "Na lungsim ah seal-tup bangin, na khut tunga seal-tup bangin kei hong koih in; bang hang hiam cihleh itna in sihna zah manin thahat a, hazatna in hankhuk zah mahin gilo hi. Tua in meikuangpi khat bangin, Yahweh’ meikuang bangin kuang hi."
+        },
+        {
+          "number": 7,
+          "text": "Tui tampi in itna sumit zolo ding a, tuikhangte in zong mitsak zo lo ding hi. itna ngah nadingin a inn-a huahna khempeuh a piak hangin zong, kizuihsan lel ding hi."
+        },
+        {
+          "number": 8,
+          "text": "Eite in sanggam numeino khat i nei a, amah in nawi nei lo hi. Amah hong kihel ni ciangin i sanggamnu aa dingin bang hihsak ding i hi hiam?"
+        },
+        {
+          "number": 9,
+          "text": "Amah kulh ahih leh, eite in ama kiimkot ah ngun kumpi-inn i lam ding a, amah kongkhak ahih leh, eite in tamtak singpeek tawh amah i dal ding hi."
+        },
+        {
+          "number": 10,
+          "text": "Keimah kulh ka hi a, ka nawite in tausangte tawh kibang hi; tua ciangin ama mit ah kilemna a tun mi khat tawh ka kibang hi."
+        },
+        {
+          "number": 11,
+          "text": "Solomon in Baal Hamon ah leenggui lo khat nei hi; amah in a leenggui lo locingte sapsak hi. Amaute khat ciat in a gah aitang dingin ngun shekel tulkhat ciat a piak ding uh ahi hi."
+        },
+        {
+          "number": 12,
+          "text": "Keima leenggah lo in ka mai-ah om hi. Solomon aw, shekel tulkhat in nang aa hi a, shekel zanih in a gah a cingte aa ding ahi hi."
+        },
+        {
+          "number": 13,
+          "text": "Huan sunga a tengte aw, ka lawmte in ngai dide uh hi—na aw uh hong zasak un!"
+        },
+        {
+          "number": 14,
+          "text": "Ka ngaihno aw, hong manlang in; paknamtui mualte tunga sazuk khanglai khat ahih keileh sakhi khat hong bang in."
+        }
+      ]
+    }
+  ]
+}

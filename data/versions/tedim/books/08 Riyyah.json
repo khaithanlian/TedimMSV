@@ -1,0 +1,409 @@
+{
+  "schema_version": "1.1",
+  "book": "08 Riyyah",
+  "chapters": [
+    {
+      "number": 1,
+      "headings": [
+        {
+          "level": 1,
+          "text": "rIYYAH",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Yahweh’ Lawm",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Riyyah leh Naomi",
+          "before_verse": 1
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Khatvei, thukhente in thu a khen hun lai-in, gam sungah kialpi hong tungin, Yahdah gam Bethlehem panin pasal khat a zi leh a tapa nih tawh Moab gam ah a om pak dingin a pai uh hi."
+        },
+        {
+          "number": 2,
+          "text": "Tua mipa min pen Elimelech hi a, a zi’ min pen Naomi hi a, a tapa’ tegel min pen Mahlon leh Chilyon ahi hi. Amaute pen Yahdah gam Bethlehem pana Ephraim mi ahi uh hi. Moab gam ah amaute pai-in tua lai ah a om uh hi."
+        },
+        {
+          "number": 3,
+          "text": "Tua ciangin Naomi’ pasal Elimelech si a, a tapa nihte bek tawh tuanu a om hi."
+        },
+        {
+          "number": 4,
+          "text": "A tapa nihte in Moab mi numeite zi-in la uh a, a masa min pen Orpah hi-in adang khat min pen Riyyah ahi hi. Tua lai ah amaute kum sawm kiim a teng uh hi."
+        },
+        {
+          "number": 5,
+          "text": "Tua ciangin Mahlon leh Chilyon zong a nihtuakun si uh a, tua numei Naomi pen a tapa tegel leh a pasal in sihsan hi."
+        },
+        {
+          "number": 6,
+          "text": "Tua ciangin amah zong a mo tegel tawh Moab gam nusia dingin kithawi hi, bang hang hiam cihleh Yahweh in Ama mite’ kitangsapna mukhinin amaute an a piakkhitna tuanu in a za hi."
+        },
+        {
+          "number": 7,
+          "text": "Tua ahih manin a omna mun panin amah leh a mo tegel tawh dingkhia uh a, Yahdah gam zuatna lampi a zui uh hi."
+        },
+        {
+          "number": 8,
+          "text": "Tua ciangin Naomi in a mo tegel kiangah, “Pai unla, na nih tuakun na nu’ inn uh ah ciahkik un. A sisate leh kei tungah nong migit bang teekteekun note tungah zong Yahweh hong migi tahen."
+        },
+        {
+          "number": 9,
+          "text": "Yahweh in na pasalkik uh inn tuak ah hong nuamsasak tahen,” a ci hi. Tua khit ciangin amah in amaute namin, a awte uh sangsakin a kap uh hi."
+        },
+        {
+          "number": 10,
+          "text": "Ahih hangin amaute in ama kiangah, “Na mite kiangah nang tawh ka paikhawm taktak ding uh hi,” a ci hi."
+        },
+        {
+          "number": 11,
+          "text": "Ahih hangin Naomi in, “Ciahkik un, ka tanute aw. Bang hangin kei tawh hong pai ding na hi hiam? Note pasal ahi thei dingin tapa nei nawn ding ka hi hiam?"
+        },
+        {
+          "number": 12,
+          "text": "Kilehkik un, ka tanute aw, ciahkik un. Pasal neikik dingin ka teek lua ta hi. Tua lai ah kei aa dingin lametna a om lai hi ci-in ka ngaihsut hang—tu zanin pasal nei-in tapa na nei hi phial leng zong,"
+        },
+        {
+          "number": 13,
+          "text": "amau khankhit dong ngak zo ding na hi uh hiam? Amau ngakin khatpeuh zi suak loin kiteng loin omsuak ding na hi uh hiam? Hilo hi, ka tanute aw. Hih pen note aa ding sangin kei aa dingin khazaw hi. A taktakin Yahweh’ khut in kei hong langpan hi,” a ci hi."
+        },
+        {
+          "number": 14,
+          "text": "Amaute aw ngaih semsemin kap leuleu uh hi; Orpah in a teeknu mangpha khakin nam a, ahih hangin Riyyah in a teeknu pomcip hi."
+        },
+        {
+          "number": 15,
+          "text": "Amah in, “En in, na sanggamnu a mite kiang leh a pasian kiangah ciahkik khin hi. Amah tawh ciahkhawm in,” a ci hi."
+        },
+        {
+          "number": 16,
+          "text": "Ahih hangin Riyyah in, “Nang hong nusia-in nang hong zui nawn loin ka kilehkik nadingin hong sawl tentan kei in. Bang hang hiam cihleh na paina peuhpeuh ah ka pai ding a, na giahna peuhpeuh ah ka giak ding hi. Na mite keima mi hi ding a, na Vanglianpa pen tu-in ka Pa ahi hi."
+        },
+        {
+          "number": 17,
+          "text": "Na sihna mun peuh ah kei zong si-in tua lai ah kei hong kivui ding hi. Sihna lobuang in nang kiang panin kei hong khenkhiat leh Yahweh in a ututin hong bawlin a nasiapenin zong hong bawl hen,” a ci hi."
+        },
+        {
+          "number": 18,
+          "text": "A teeknu in amah tawh a paikhawm dingin a khensat lam a muh ciangin, ama tungah bangmah a gen nawn kei hi."
+        },
+        {
+          "number": 19,
+          "text": "Bethlehem a tun dongin amau tegel a paisuak uh hi. Bethlehem a tun uh ciangin, khua sung mi khempeuh in amaute lamdangsa uh a, numeite in, “Naomi mah hilo na hia?” a ci uh hi."
+        },
+        {
+          "number": 20,
+          "text": "Amah in amaute kiangah, “Naomi; nuam, ci-in hong sam kei un, Mara; kha, hong ci un; bang hang hiam cihleh Vanglianpenpa in kei tungah kha takin hong bawlzo hi,” a ci hi."
+        },
+        {
+          "number": 21,
+          "text": "A dimin ka paikhia a, ahih hangin Yahweh in a hawmpi-in inn hong ciahpih hi. Bang hangin Naomi hong ci ding na hi uh hiam? Bang hang hiam cihleh Yahweh in kei langah teci pangkhin zo a, Vanglianpenpa in siatna tawh kei tungah thu hong khen hi,” a ci hi."
+        },
+        {
+          "number": 22,
+          "text": "Tua bangin Moab panin Naomi a monu Moab numei Riyyah tawh tonin ciahkik uh a, manghum-ham lak kipat laitakin Bethlehem a tung uh hi."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Riyyah leh Boaz Kimuhna",
+          "before_verse": 1
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tu-in Naomi in a pasal lam a sisan kinaipih mi thupi ahi, Elimelech beh sung mi khat nei a, ama min pen Boaz ahi hi."
+        },
+        {
+          "number": 2,
+          "text": "Moab mi Riyyah in Naomi kiangah, “Lo ah hong paisak inla, amau maipha ka muhna mi khatpeuh nunga a nusiat uh ansanghte hong khawmsak in,” a ci hi. Tua ciangin Naomi in ama kiangah, “Pai in, ka tanu aw,” a ci hi."
+        },
+        {
+          "number": 3,
+          "text": "Tua ahih manin amah dingkhia-in pai a, anlate’ nung ah lo sunga ansanghte a khawm hi. A kaihkhopkhop laitakin amah in Elimelech beh sungmi Boaz’ lo sunga a kaikhawmkhawm ahih lam a kiphawkkha hi."
+        },
+        {
+          "number": 4,
+          "text": "Tua ciangin Bethlehem panin Boaz hong pai-in, anlate kiangah, “Yahweh in note hong ompih tahen!” a ci hi. Tua ciangin amaute in, “Yahweh in nang thupha hong pia tahen!” a ci uh hi."
+        },
+        {
+          "number": 5,
+          "text": "Tua ciangin Boaz in anlate a uk nasempa kiangah, “Hua numeino kua aa ahi hiam?” a ci hi."
+        },
+        {
+          "number": 6,
+          "text": "Anlate laka thunei nasempa in, “Amah pen Moab gam panin Naomi tawh hong ciahkik Moab numeino khat ahi hi."
+        },
+        {
+          "number": 7,
+          "text": "Tuanu in, ‘Anlate nung buhlomte lakah ansanghte tawmin ka kaikhawm thei dia?’ ci-in hong dong hi. Lo sungah amah pai-in zingsang panin tu ciang dong buk sungah tawm vei a tawlngak cih lobuang na a sem tansuak hi,” ci-in a dawng hi."
+        },
+        {
+          "number": 8,
+          "text": "Tua ciangin Boaz in Riyyah kiangah, “Ka tanu aw, na ngai in. Lo dang ah ansangh tawm kei inla, hih lo zong nusia kei in. Ka nasem numeinote kiangah neh inla a kiangah om tinten in."
+        },
+        {
+          "number": 9,
+          "text": "Amau anlakna lo sung mitsuan gige inla, amaute’ nung ah pai in. Nang hong bawlsiat loh nadingun tangvalte thu ka piakhin hi. Na dang a tak ciangin tuibeelte ah pai inla, tangvalte tui tawisa dawn in,” a ci hi."
+        },
+        {
+          "number": 10,
+          "text": "Tua ciangin amah a mai-in leilak lamah kunsukin, ama kiangah, “Kei gamdangmi hi napi, kei aa ding a tuam vilvel thu hong bawlsakin nangma mit ah bang hangin maipha mu ka hi hiam,” a ci hi."
+        },
+        {
+          "number": 11,
+          "text": "Tua ciangin Boaz in tuanu dawngin, a gen inah, “Na pasal a sihkhit ciangin na teeknu aa dingin na bawlna khempeuh ahi a, na nu leh na pa, na pianna gam nusia-in nidangin na theih loh mite kiangah nong paina thu ahi zongin kei tungah kimtakin hong kigenkhin hi."
+        },
+        {
+          "number": 12,
+          "text": "Na nasepnate ah Yahweh in na thaman cingtakin hong phal henla, ama khanuai beel dinga nong paina Yahweh, Israyl’ Pa in na thaman hong pia tahen,” a ci hi."
+        },
+        {
+          "number": 13,
+          "text": "Tua ciangin tuanu in, “Ka ukpa aw, na mittang ah maipha hong musak den in; bang hang hiam cihleh nangmah in kei nong tawldamsakin, na nasem numei khat ding nangawnin a kilawm lo keima tungah awdam takin nong hopih hi,” a ci hi."
+        },
+        {
+          "number": 14,
+          "text": "Annek hun ciangin Boaz in ama kiangah, “Hih lai ah hong pai in, anlum ne inla, leenggahzu thuk sungah na an diah in,” a ci hi. Tua ahih manin anlate gei ah tuanu tu a, amah in tuanu kiangah ankan pawlkhat pia-in amah in a kham dongin ne a, pawlkhat a khamval hi."
+        },
+        {
+          "number": 15,
+          "text": "Ansangh khawm dingin a dintoh ciangin, Boaz in a mite kiangah, “Buhphalte lak nangawn ah na khawmsak unla, amah nawngkaisak loin zong kham kei un,” a ci hi."
+        },
+        {
+          "number": 16,
+          "text": "Anlom hensate panin buhkung pawkkhat dokkhia-in, ama top dingin nusiat unla, amah tai kei un,” a ci hi."
+        },
+        {
+          "number": 17,
+          "text": "Tua ciangin Riyyah in nitak dong lo sungah ansangh khawm a, amah khopsa mangbuhhamte a cil khit ciangin, ephah khat kiim a pha hi."
+        },
+        {
+          "number": 18,
+          "text": "Amah in tuate pua-in khuapi sungah ciah a, a khopsa teng a teeknu in a mu hi. Tua khit ciangin amah in a neksa a khamval a om laiteng lakhia-in a teeknu a pia hi."
+        },
+        {
+          "number": 19,
+          "text": "A teeknu in ama kiangah, “Tuni koi lai ah ansangh khawmin, koi mun ah nasem na hia? Nang maipha hong pia mi in thupha ngah tahen,” a ci hi. Tua ciangin amah in a teeknu kiangah, a nasepna mun neipa thu genin, “Tuni-a ka nasepna pa’ min pen Boaz ahi hi,” a ci hi."
+        },
+        {
+          "number": 20,
+          "text": "Tua tak ciangin Naomi in a monu kiangah, “A nungtate leh a sisate tunga a hehpihna a mangngilh ngei lo Yahweh in amah thupha pia tahen!” a ci hi. Tua khit ciangin Naomi in ama kiangah, “Tua mipa i kinaipih mahmah hi a, hong honkhia i behte lak pana khat ahi hi,” a ci hi."
+        },
+        {
+          "number": 21,
+          "text": "Tua khit ciangin Moab mi Riyyah in, “Tuapa in kei kiangah, ‘Ka nasemte in ka an khempeuh a lakkhit matengin amau tawh om in,’ hong ci lai hi,” a ci hi."
+        },
+        {
+          "number": 22,
+          "text": "Tua ciangin Naomi in a monu Riyyah kiangah, “Ka tanu aw, ama numeinote tawh na kithuah ding hoihzaw hi, bang hang hiam cihleh midang khatpeuh lo ah nang hong kibawlsia thei ding hi,” a ci hi."
+        },
+        {
+          "number": 23,
+          "text": "Tua ahih manin mangbuh leh mangbuh-ham a kilakkhit dong ansangh khawm dingin Boaz’ nasem numeinote kiangah naitakin a om hi. Tua khit ciangin a teeknu tawh inn ah a om uh hi."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Ancilna ah Riyyah leh Boaz",
+          "before_verse": 1
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tua ciangin a teeknu Naomi in Riyyah kiangah, “Ka tanu aw, nang tawh a lem theihna dingin nang aa dingin a muanhuai khat kong zonsak ding kilawm hilo ahi hiam?"
+        },
+        {
+          "number": 2,
+          "text": "Tu-in a nasem numeinote tawh na omnapa Boaz pen hong honkhia i behte lak pana khat hilo ahi hiam? Tu nitakin amah ancilna phual ah mangbuh-ham haihin om ding hi."
+        },
+        {
+          "number": 3,
+          "text": "Tua ahih ciangin kisilin sathau kinilh inla, na puan hoihte silhin ancilna ah paisuk in. Amah in a nek a dawn khit matengin ama kiangah na pai lam kitheisak kei in."
+        },
+        {
+          "number": 4,
+          "text": "Amah a lup ciangin a lupna mun na ciamteh ding a, tua khit ciangin pai-in a khe lam puan leemin lumsuk in. Tua ciangin amah in na gamtat dan ding hong gen ding hi,” a ci hi."
+        },
+        {
+          "number": 5,
+          "text": "Tua ciangin amah in, “Na gen khempeuh ka hih ding hi,” a ci hi."
+        },
+        {
+          "number": 6,
+          "text": "Tua ahih ciangin ancilna ah amah paisukin, a teeknu gen bangbangin a gamta hi."
+        },
+        {
+          "number": 7,
+          "text": "Boaz in ne-in dawnin a om khit ciangin a lungtai-in, anphual nawlnungpen mong ah lum dingin a pai hi; tua ciangin Riyyah in zuan khiankhian a, a khe lam puan leemin a lumsuk hi."
+        },
+        {
+          "number": 8,
+          "text": "Zankim pawl ciangin na khat in amah phawngvatin a kihei leh, ama zom ah a lum numei khat a mu hi."
+        },
+        {
+          "number": 9,
+          "text": "Amah in, “Kua na hia?” a ci hi. Tuanu in, “Na nasemnu Riyyah ka hi hi. Nang pen honkhiapa na hih manin na nasemnu tungah na kha hong zal in,” ci-in a dawng hi."
+        },
+        {
+          "number": 10,
+          "text": "Tua ciangin amah in, “Ka tanu aw, Yahweh’ thupha piak na hi hi; Bang hang hiam cihleh a zawng ahi a, a hau ahi zongin a khangnozaw mite lamah pai loin a masa lai-a sangin a tawpna ah na migitzawkna nong lak hi."
+        },
+        {
+          "number": 11,
+          "text": "Tua hi a, tu-in ka tanu aw, lau kei in. Nong nget khempeuh nang aa dingin kong hihsak ding hi; bang hang hiam cihleh ka khua sung mite khempeuh in numei gina na hihna hong thei uh hi."
+        },
+        {
+          "number": 12,
+          "text": "Tu-in hong tankhia beh sung mi khat ka hihna man hi; ahih hangin kei sangin na kinaipihzawk tankhiapa khat om hi."
+        },
+        {
+          "number": 13,
+          "text": "Tu zan leh zingsang ciang hih lai ah om in. Amah in hong tatnop leh, tua pen a hoih hi; amah kitansak in. Ahih hangin tatkhiat nasep sem dingin a ut kei leh, Yahweh nungta ahih mah bangin keimah in nang kong tan ding hi. Zingsang dong hih lai ah lum in,” a ci hi."
+        },
+        {
+          "number": 14,
+          "text": "Tua ahih ciangin zingsang dong tuapa zomah amah lum a, mi mel khatlekhat a kitheih ma-in a tho hi. Tua ciangin mipa in, “Ancilna ah numei a paina kitheisak kei in,” a ci hi."
+        },
+        {
+          "number": 15,
+          "text": "Tua khit ciangin mipa in, “Na gei-a om puanza la inla hong dawh in,” a ci hi. Tua ciangin amah in kiptakin dawh a, mipa in mangbuh-ham tehna guk sungin tuanu tungah a suan hi. Tua khit ciangin khuapi sungah tuanu a pai hi."
+        },
+        {
+          "number": 16,
+          "text": "Amah a teeknu kiangah pai-in, a teeknu in, “Ka tanu aw, bang a ci hiam?” a ci hi. Tua ciangin amah aa dingin mipa in a bawlsakna khempeuh a teeknu a gen hi."
+        },
+        {
+          "number": 17,
+          "text": "Tua ciangin amah in, “Mangbuh-ham tehna gukte ama’n kei hong pia-in, ‘Na teeknu kiangah guak ciah kei in,’ hong ci hi,” a ci hi."
+        },
+        {
+          "number": 18,
+          "text": "Tua ciangin a teeknu in, “Ka tanu aw, bang thu hong piang ding hiam cih na theih matengin ngak khinkhian in. Bang hang hiam cihleh tuni-in amah in hih thu a siansak matengin amah omkhong lo ding hi,” a ci hi."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Boaz in Riyyah Tenpih",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "David Khangsimna",
+          "before_verse": 13
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tu-in kulhkongpi ah Boaz pai-in tua lai ah a tu hi. Tua khit deuh ciangin Boaz in tankhiapa ci-in a genpa hong pai hi. Tua ahih manin Boaz in, “Lawm aw, ka kiangah hong pai inla, hih lai ah tu in,” a ci hi. Tua ahih manin amah pai-in a tu hi."
+        },
+        {
+          "number": 2,
+          "text": "Tua khit ciangin Boaz in khuapi upa sawm samin, “Hih lai ah hong tu un,” ci-in, amaute a tu uh hi."
+        },
+        {
+          "number": 3,
+          "text": "Tu-in amah in tankhiapa kiangah, “Moab panin hong ciahkik Naomi in i sanggam Elimelech’ neihsa leitang neuno khat hong zuak hi."
+        },
+        {
+          "number": 4,
+          "text": "Tua ciangin nang tungah hih thu tut dingin ka ngaihsun a, “Hih lai-a a tute omin leh keima mi upate omin lei in. Tua pen na tatnop leh tan inla; ahi zongin na tatnop kei leh, ka theih nadingin hong gen in; bang hang hiam cihleh nang lo a tan ding a dang omlo a, nang khit ciangin kei ka hi pah hi” a ci hi. Tua ciangin amah in, “Ka tan ding hi,” a ci hi."
+        },
+        {
+          "number": 5,
+          "text": "Tua tak ciangin Boaz in, “Naomi kiang panin lo na lei ni-in, misisapa’ gamh tungah a sisapa’ min a kip nadingin a sisapa’ zi Moab mi Riyyah zong pel loin na lei ding hi,” a ci hi."
+        },
+        {
+          "number": 6,
+          "text": "Tua ciangin a kinaipihpen tankhiapa in, “Kei aa dingin ka tankhia zo kei ding hi, tua bang hi keileh keima gamh mahmah zong ka siasak kha ding hi. Keimah in tan zolo ding ka hih manin keima tattheihna thu nangmah in tang in,” a ci hi."
+        },
+        {
+          "number": 7,
+          "text": "(Nidang laai-in Israyl-te sungah tatna leh kikhekna thu kipsakna ah ngeina hih bang ahi hi: Mipa in a khedap suahkhia-in a khatpa tungah pia hi. Hih pen Israyl sungah gam-thukhun tawh kituakin sepna kipsakna ngeina khat ahi hi.)"
+        },
+        {
+          "number": 8,
+          "text": "Tua ahih manin tatkhiapa in Boaz kiangah, “Nang lei in,” a ci hi. Tua ciangin amah in a khedap a suahkhia hi."
+        },
+        {
+          "number": 9,
+          "text": "Tua ciangin Boaz in upate leh mi khempeuh tungah, “Elimelech aa ahi khempeuh, leh Chilyon leh Mahlon-te aa khempeuh Naomi’ khut panin ka leina thu ah tuni-in note teci na hi uh hi."
+        },
+        {
+          "number": 10,
+          "text": "A sisapa sanggamte lak pan ahi a, ama khuapi kulhkongpi panin a hi zongin a sisapa’ min a kihepkhiat lohna dingin ama gamh tungah a sisapa’ min a kikipsak nadingin Mahlon’ meigong Moab mi Riyyah zong ka zi dingin ka lei hi. Tu ni-in note teci na hi uh hi,” a ci hi."
+        },
+        {
+          "number": 11,
+          "text": "Tua ciangin kulhkongpi-a om mi khempeuh leh upate in, “Kote teci ka hi uh hi! Na inn-a hong pai ding numei, Israyl’ innkuan a lam nihte ahi Rachel leh Leah bangin Yahweh in bawl hen. Ephrathah ah mimuanin om inla, Bethlehem ah minthang ta in."
+        },
+        {
+          "number": 12,
+          "text": "Yahweh in hih a khangno lai numei kiang panin suanlekhak nang hong pia ding ahih manin na innkuan pen Yahdah in Tama tawh a neih Perez’ innkuan bang tahen,” a ci uh hi."
+        },
+        {
+          "number": 13,
+          "text": "Tua bangin Boaz in Riyyah la-in, tuanu pen ama zi suak a, tua ciangin amah in tuanu luppihin Yahweh in tuanu gaisakin tuanu in tapa khat a nei hi."
+        },
+        {
+          "number": 14,
+          "text": "Tua ciangin nupite in Naomi kiangah, “Nang aa dingin a tan ding a beisak lo Yahweh in thupha ngah tahen. Israyl sungah Yahweh kiphat tahen!"
+        },
+        {
+          "number": 15,
+          "text": "Amah pen nang aa dingin na nuntakna a hong piakik, leh na khanghamna ah hong vakpa hi ding hi; bang hang hiam cihleh, tapa sagih sangin a thupizaw, nangmah hong it na monu’ sungsuak amah ahi hi,” a ci uh hi."
+        },
+        {
+          "number": 16,
+          "text": "Tua ciangin Naomi in naupang la-in a ang ah tawi a, amah a cingnu a suak hi."
+        },
+        {
+          "number": 17,
+          "text": "A veng nupite naupang tungah lungdam uh a, “Naomi in tapa khat nei!” a ci uh hi. Tua ciangin amaute in a min Obed a phuak uh hi. Amah pen Yishai’ pa hi a, Yishai pen David’ pa ahi hi."
+        },
+        {
+          "number": 18,
+          "text": "Tu-in hihte pen Perez’ suanlekhakte ahi hi: Perez pen Hezron’ pa ahi hi;"
+        },
+        {
+          "number": 19,
+          "text": "Hezron pen Ram’ pa hi a, Ram pen Amminadab’ pa ahi hi;"
+        },
+        {
+          "number": 20,
+          "text": "Amminadab pen Nahshon’ pa hi a, Nahshon pen Salmon’ pa ahi hi;"
+        },
+        {
+          "number": 21,
+          "text": "Salmon pen Boaz’ pa hi a, Boaz pen Obed’ pa ahi hi;"
+        },
+        {
+          "number": 22,
+          "text": "Obed pen Yishai’ pa hi a, Yishai pen David’ pa a hi hi."
+        }
+      ]
+    }
+  ]
+}

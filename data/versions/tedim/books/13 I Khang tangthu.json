@@ -1,0 +1,4364 @@
+{
+  "schema_version": "1.1",
+  "book": "13 I Khang tangthu",
+  "chapters": [
+    {
+      "number": 1,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Khang tangthu masa",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Dibre hayyamim",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Hun Ciaptehnate",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Adam’ Suanlekhakte",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Noah leh a Tapate’ suanlekhakte",
+          "before_verse": 4
+        },
+        {
+          "level": 1,
+          "text": "Yapheth’ Suante",
+          "before_verse": 5
+        },
+        {
+          "level": 1,
+          "text": "Ham’ Suante",
+          "before_verse": 8
+        },
+        {
+          "level": 1,
+          "text": "Shem’ Suante",
+          "before_verse": 17
+        },
+        {
+          "level": 1,
+          "text": "Abraham’ Innkuan",
+          "before_verse": 28
+        },
+        {
+          "level": 1,
+          "text": "Hagar’ Suante",
+          "before_verse": 29
+        },
+        {
+          "level": 1,
+          "text": "Keturah’ Suante",
+          "before_verse": 32
+        },
+        {
+          "level": 1,
+          "text": "Sarah’ Suante",
+          "before_verse": 34
+        },
+        {
+          "level": 1,
+          "text": "Esau’ Tapate",
+          "before_verse": 35
+        },
+        {
+          "level": 1,
+          "text": "Edom Gam-ukte",
+          "before_verse": 43
+        },
+        {
+          "level": 1,
+          "text": "Edom Ukpite",
+          "before_verse": 51
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Adam, Seth, Enosh,"
+        },
+        {
+          "number": 2,
+          "text": "Qenan, Mahalalyl, Yared,"
+        },
+        {
+          "number": 3,
+          "text": "Enoch, Methuselah, Lamech, Noah."
+        },
+        {
+          "number": 4,
+          "text": "Noah’ tapate Shem, Ham leh Yapheth ahi hi."
+        },
+        {
+          "number": 5,
+          "text": "Yapheth suanlekhakte pen: Gomer, Magog, Madai, Yavan, Tubal, Meshech, leh Tiras ahi hi."
+        },
+        {
+          "number": 6,
+          "text": "Gomer’ suanlekhakte pen: Ashkenaz, Riphath leh Togarmah ahi hi."
+        },
+        {
+          "number": 7,
+          "text": "Yavan’ suanlekhakte pen: Elishah, Tarshish, Kittim, leh Dodanim ahi hi."
+        },
+        {
+          "number": 8,
+          "text": "Ham’ tapate pen: Cush, Mitzraim; Egypt, Put leh Canaan ahi hi."
+        },
+        {
+          "number": 9,
+          "text": "Cush’ suanlekhakte pen: Seba, Havilah, Sabta, Raamah leh Sabtechah ahi hi. Raamah’ suanlekhakte pen Sheba leh Dedan ahi hi."
+        },
+        {
+          "number": 10,
+          "text": "Cush pen nakpi taka Yahweh a langpang dingin a khangkhia Nimrod’ pupi ahi hi."
+        },
+        {
+          "number": 11,
+          "text": "Mitzraim pen Lud mite, Anam mite, Lehab mite, Naphtuh mite,"
+        },
+        {
+          "number": 12,
+          "text": "Pathrus mite, Casluh mite leh Caphtor mite pianna pupi ahi hi (tuate panin Philistia mite piang hi)."
+        },
+        {
+          "number": 13,
+          "text": "Canaan pen a tacil Sidon leh Heth; Hit-te,"
+        },
+        {
+          "number": 14,
+          "text": "Yebus mite, Amor mite leh Girgash mite,"
+        },
+        {
+          "number": 15,
+          "text": "Hiv mite, Ark mite, Sin mite,"
+        },
+        {
+          "number": 16,
+          "text": "Arvad mite, Zemar mite leh Hamath mite’ pa ahi hi."
+        },
+        {
+          "number": 17,
+          "text": "Shem’ tapate pen: Elam, Asshur, Arphaxad, Lud, Aram, Uz, Hul, Gether leh Meshech ahi hi."
+        },
+        {
+          "number": 18,
+          "text": "Arphaxad in ta Shelah nei a, Shelah in ta Eber a nei hi."
+        },
+        {
+          "number": 19,
+          "text": "Eber sung panin tapa nih suak hi: khat’ min pen Peleng ahi hi; bang hang hiam cihleh ama hun sungin leitung gam ciaptehnate kikhen hi; tua ciangin a sanggampa’ min pen Yoktan ahi hi."
+        },
+        {
+          "number": 20,
+          "text": "Yoktan in Almodad, Sheleph, Hazarmaveth, Yerah,"
+        },
+        {
+          "number": 21,
+          "text": "Hadoram, Uzal, Diklah,"
+        },
+        {
+          "number": 22,
+          "text": "Ebal, Abimael, Sheba,"
+        },
+        {
+          "number": 23,
+          "text": "Ophir, Havilah, leh Yobab nei hi—hihte khempeuh pen Yoktan’ tapate ahi hi."
+        },
+        {
+          "number": 24,
+          "text": "Hih in Shem sung pana piangte ahi hi: Arphaxad, Shelah,"
+        },
+        {
+          "number": 25,
+          "text": "Eber, Peleg, Reu,"
+        },
+        {
+          "number": 26,
+          "text": "Serug, Nahor, Terah,"
+        },
+        {
+          "number": 27,
+          "text": "leh Abram ahi hi; amah pen Abraham ahi hi."
+        },
+        {
+          "number": 28,
+          "text": "Abraham’ tapate pen Isaac leh Ishmayl ahi hi."
+        },
+        {
+          "number": 29,
+          "text": "Nebayoth pen Ishmayl’ tacil hi a, tua khit ciangin Ishmayl sung panin Kedar, Adbeel, Mibsam,"
+        },
+        {
+          "number": 30,
+          "text": "Mishma, Dumah, Massa, Hadad, Tema,"
+        },
+        {
+          "number": 31,
+          "text": "Yetur, Naphish, leh Kedemah-te a suak hi. Hihte pen Ishmayl’ tapate ahi hi."
+        },
+        {
+          "number": 32,
+          "text": "Abraham’ zineu Keturah sung pana suak tapate in: Zimran, Yokshan, Medan, Midian, Ishbak, leh Shuah ahi hi. Yokshan’ suanlekhakte pen Sheba leh Dedan ahi hi."
+        },
+        {
+          "number": 33,
+          "text": "Midian’ suanlekhakte pen Ephah, Epher, Henoch, Abida leh Eidaah ahi hi. Hihte khempeuh pen Keturah’ suante ahi hi."
+        },
+        {
+          "number": 34,
+          "text": "Abraham in Sarah tawh Isaac nei hi. Rebekah kiang pana Isaac’ tapate in Esau leh Israyl ahi hi."
+        },
+        {
+          "number": 35,
+          "text": "Esau’ tapate pen Eliphaz, Reuel, Yeush, Yalam leh Korah ahi hi."
+        },
+        {
+          "number": 36,
+          "text": "Eliphaz’ suanlekhakte pen: Teman, Omar, Zephi, Gatam leh Kenaz hi a, tua ciangin Timna tawh Amalek a nei hi."
+        },
+        {
+          "number": 37,
+          "text": "Reuel’ suanlekhakte pen: Nahath, Zerah, Shammah leh Mizzah ahi hi."
+        },
+        {
+          "number": 38,
+          "text": "Seir’ suanlekhakte pen: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer leh Dishan ahi hi."
+        },
+        {
+          "number": 39,
+          "text": "Lotan’ suanlekhakte pen Hori leh Homam ahi hi. Timna pen Lotan’ sanggamnu ahi hi."
+        },
+        {
+          "number": 40,
+          "text": "Shobal’ suanlekhakte pen: Alian, Manahath, Ebal, Shephi leh Onam ahi hi. Zibeon’ suanlekhakte pen Aiah leh Anah ahi hi."
+        },
+        {
+          "number": 41,
+          "text": "Anah’ suanlekhak pen Dishon ahi hi. Dishon’ suanlekhakte pen: Hamran, Eshban, Ithran leh Cheran ahi hi."
+        },
+        {
+          "number": 42,
+          "text": "Ezer’ tapate pen Bilhan, Zaavan leh Yakan ahi hi. Dishan’ suanlekhakte pen Uz leh Aran ahi hi."
+        },
+        {
+          "number": 43,
+          "text": "Hihte khempeuh pen Israyl kumpi khat beek in a uk ma-in Edom gam sung a uk kumpite ahi hi: Beor’ tapa Bela hi a, a khuapi min pen Dinhabah ahi hi."
+        },
+        {
+          "number": 44,
+          "text": "Bela a sih ciangin, Bozrah-a Zerah’ tapa Yobab in a kumpi’ za a luah hi."
+        },
+        {
+          "number": 45,
+          "text": "Yobab a sih ciangin, Teman mite gama Husham in a kumpi’ za a luah hi."
+        },
+        {
+          "number": 46,
+          "text": "Husham a sih ciangin Moab gam ah Midian a zo Bedad’ tapa Hadad in kumpi’ za a luah hi. Ama khuapi min pen Avith ahi hi."
+        },
+        {
+          "number": 47,
+          "text": "Hadad a sih ciangin Masrekah pana Samlah in a kumpi’ za a luah hi."
+        },
+        {
+          "number": 48,
+          "text": "Samlah a sih ciangin Gun nai-a om Rehoboth pana Shaul in a kumpi’ za a luah hi."
+        },
+        {
+          "number": 49,
+          "text": "Shaul a sih ciangin Achbor’ tapa Baal-Hanan in a kumpi’ za a luah hi."
+        },
+        {
+          "number": 50,
+          "text": "Baal-Hanan a sih ciangin Hadad in a kumpi’ za a luah hi. Ama khuapi min pen Pai hi a, a zi’ min pen Mehetabel hi a, Me-Zahab’ tanu Matred’ tanu ahi hi."
+        },
+        {
+          "number": 51,
+          "text": "Kumpi Hadad si hi. Tua ciangin Edom ukpite in uk a, tuate in: Ukpi Timnah, Ukpi Aliah, Ukpi Yetheth,"
+        },
+        {
+          "number": 52,
+          "text": "Ukpi Aholibamah, Ukpi Elah, Ukpi Pinon,"
+        },
+        {
+          "number": 53,
+          "text": "Ukpi Kenaz, Ukpi Teman, Ukpi Mibzar,"
+        },
+        {
+          "number": 54,
+          "text": "Ukpi Magdiel, leh Ukpi Iram ahi hi—hihte pen Edom ukpite ahi uh hi."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Israyl’ Tapate",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Yahdah’ Suante",
+          "before_verse": 3
+        },
+        {
+          "level": 1,
+          "text": "Hezron’ Tapa Ram’ Suante",
+          "before_verse": 10
+        },
+        {
+          "level": 1,
+          "text": "Hezron’ Tapa Caleb’ Suante",
+          "before_verse": 18
+        },
+        {
+          "level": 1,
+          "text": "Hezron’ Tacil Yerahmeel’ Suante",
+          "before_verse": 25
+        },
+        {
+          "level": 1,
+          "text": "Yerahmeel’ Sanggampa Caleb’ Suante",
+          "before_verse": 42
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hihte pen Israyl’ tapate ahi hi: Reuben, Simeon, Levi, Yahdah, Issachar, Zebulun,"
+        },
+        {
+          "number": 2,
+          "text": "Dan, Yahseph, Benyamin, Naphtali, Gad leh Asher ahi hi."
+        },
+        {
+          "number": 3,
+          "text": "Yahdah’ tapate pen: Er, Onan leh Shelah—Canaan mi Shua’ tanu tawh a neih thumte ahi hi. Yahdah’ tacil Er pen Yahweh mit ah a sia-in gamta a, Amah in amah a that hi."
+        },
+        {
+          "number": 4,
+          "text": "Tua ciangin a tapa’ zi Tamar tawh amah in ta nei a, Perez leh Zerah ahi hi. Tua ahih ciangin Yahdah’ tapate a vekpi-in nga ahi hi."
+        },
+        {
+          "number": 5,
+          "text": "Perez’ tapate pen Hezron leh Hamul ahi hi."
+        },
+        {
+          "number": 6,
+          "text": "Zerah’ tapate pen Zimri, Ethan, Heman, Calcol leh Dara hi a—amaute a vekpi-in nga pha hi."
+        },
+        {
+          "number": 7,
+          "text": "Carmi’ suanlekhak pen Achar (Achan) hi a, suksiat kiuhkeuh; cherem, dingin a kisehsa nate khatpeuh lak dingin a kikhamte ah a khial Israyl-te a buaisakpa ahi hi."
+        },
+        {
+          "number": 8,
+          "text": "Ethan’ tapa pen Azatyah ahi hi."
+        },
+        {
+          "number": 9,
+          "text": "Hezron sung pana piang tapate pen Yerahmeel, Ram leh Chelubai ahi hi."
+        },
+        {
+          "number": 10,
+          "text": "Ram in ta Amminadab nei a, Amminadab pen Yahdah mite makai khat ahi Nahshon’ pa ahi hi."
+        },
+        {
+          "number": 11,
+          "text": "Nahshon in ta Salmon nei a, Salmon in ta Boaz nei hi."
+        },
+        {
+          "number": 12,
+          "text": "Boaz in ta Obed nei a, Obed in ta Yishai nei hi."
+        },
+        {
+          "number": 13,
+          "text": "Yishai tapate: a tacil Eliab, a nihna Abinadab leh a thumna Shammah,"
+        },
+        {
+          "number": 14,
+          "text": "a lina Nethanel, a ngana Raddai,"
+        },
+        {
+          "number": 15,
+          "text": "a gukna Ozem, leh a sagihna David ahi hi."
+        },
+        {
+          "number": 16,
+          "text": "A sanggam numeite uh pen: Zeruyah leh Abigail ahi hi. Zeruyah’ tapate pen Abishai, Yahab leh Asahel ahi hi—amau teng thum pen David’ galkap mangte ahi hi."
+        },
+        {
+          "number": 17,
+          "text": "Abigail in tapa Amasa nei a, galkap mangin a kiseh hi a, ahih hangin Yahab in amah that hi. Amasa’ pa pen Ishmayl mi Yether ahi hi."
+        },
+        {
+          "number": 18,
+          "text": "Hezron’ tapa Caleb in a zi Azubah leh Yerioth tawh ta nei hi. Hihte pen tuanu tapate ahi hi:Yesher, Shobab leh Ardon ahi hi."
+        },
+        {
+          "number": 19,
+          "text": "Azubah a sih ciangin Caleb in Ephrathah tenpihin tuanu in amah tawh tapa Hur a nei hi."
+        },
+        {
+          "number": 20,
+          "text": "Hur in ta Uri nei a, Uri in ta Bezaleel nei hi."
+        },
+        {
+          "number": 21,
+          "text": "Tua nung ciangin Hezron in Gilead’ pa Machir’ tanu a tenpih a, amah kum 60 a phak ciangin tuanu in amah tawh Segub a nei hi."
+        },
+        {
+          "number": 22,
+          "text": "Segub pen Gilead gam sungah khuapi sawmnih le thum a nei Yair’ pa ahi hi."
+        },
+        {
+          "number": 23,
+          "text": "(Ahih hangin Geshur leh Aram in Havvoth Yair khuapi, Kenath leh a kiimkota khuaneute—khuaneu 60 matsak hi.) Hihte khempeuh pen Gilead’ pa Machir’ suanlekhakte ahi hi."
+        },
+        {
+          "number": 24,
+          "text": "Caleb Ephrathah ah Hezron a sih khit ciangin Hezron’ zi Abiyah in ama’ tapa Ashur nei a, amah pen Tekoa’ pa ahi hi."
+        },
+        {
+          "number": 25,
+          "text": "Hezron’ tacil Yerahmeel’ suanlekhakte pen: a tacil Ram, tua khit ciangin Bunah, Oren, Ozem leh Ahiyah ahi hi."
+        },
+        {
+          "number": 26,
+          "text": "Yerahmeel in zi dang khat nei a, a min Atarah ahi hi. Tuanu pen Onam’ nu ahi hi."
+        },
+        {
+          "number": 27,
+          "text": "Yerahmeel’ tacil Ram’ tapate pen Maaz, Yamin leh Eker ahi hi."
+        },
+        {
+          "number": 28,
+          "text": "Onam’ tapate pen Shammai leh Yada ahi hi. Shammai’ tapate pen Nadab leh Abishur ahi hi."
+        },
+        {
+          "number": 29,
+          "text": "Amah tawh Ahban leh Molid a neihpih Abishur’ zi min pen Abihail ahi hi."
+        },
+        {
+          "number": 30,
+          "text": "Nadab’ tapate pen Seled leh Appayim hi a, ahih hangin Seled ta nei loin a si hi."
+        },
+        {
+          "number": 31,
+          "text": "Appayim’ tapa pen Ishi ahi hi. Ishi’ tapa pen Sheshan hi a, Sheshan’ tapa pen Ahlai ahi hi."
+        },
+        {
+          "number": 32,
+          "text": "Shammai sanggampa Yada’ tapate pen Yether leh Yahnathan hi a, ahih hangin Yether tapa nei loin a si hi."
+        },
+        {
+          "number": 33,
+          "text": "Yahnathan’ tapate pen Peleth leh Zaza ahi hi—hihte pen Yerahmeel’ suanlekhakte ahi hi."
+        },
+        {
+          "number": 34,
+          "text": "Tu-in Sheshan in tapa nei loin amah in tanu bek a nei hi. Sheshan in Egypt mi nasem khat nei a, a min Yarha ahi hi."
+        },
+        {
+          "number": 35,
+          "text": "Tua ahih ciangin Sheshan in kitenna tawh a nasempa Yarha tungah a tanu pia a, tuanu in amah tawh Attai a nei hi."
+        },
+        {
+          "number": 36,
+          "text": "Attai in ta Nathan nei a, Nathan in ta Zabad nei hi;"
+        },
+        {
+          "number": 37,
+          "text": "Zabad in ta Ephlal nei a, Ephlal in ta Obed nei hi;"
+        },
+        {
+          "number": 38,
+          "text": "Obed in ta Yahu nei a, Yahu in ta Azaryah nei hi;"
+        },
+        {
+          "number": 39,
+          "text": "Azaryah in ta Helez nei a, Helez in ta Eleasah nei hi;"
+        },
+        {
+          "number": 40,
+          "text": "Eleasah in ta Sismai nei a, Sismai in ta Shallum nei hi;"
+        },
+        {
+          "number": 41,
+          "text": "Shallum in ta Yekamyah nei a, Yekamyah in ta Elishama nei hi."
+        },
+        {
+          "number": 42,
+          "text": "Yerahmeel’ sanggampa Caleb’ suanlekhakte pen: a tacil Mesha hi a, amah pen Ziph’ pa ahi hi; a tapa Mareshah pen Hebron’ pa ahi hi."
+        },
+        {
+          "number": 43,
+          "text": "Hebron’ tapate pen: Korah, Tappuah, Rekem, leh Shema ahi hi."
+        },
+        {
+          "number": 44,
+          "text": "Shema ta Raham pen Yorkoam’ pa hi a, Rekem in ta Shammai nei hi;"
+        },
+        {
+          "number": 45,
+          "text": "Shammai in ta Maon nei a, Maon in ta Beth Zur nei hi;"
+        },
+        {
+          "number": 46,
+          "text": "Caleb’ zineu Ephah pen Haran, Moza, leh Gazez-te’ nu ahi hi. Haran in ta Gazez a nei hi."
+        },
+        {
+          "number": 47,
+          "text": "Yachdai’ tapate pen: Regem, Yahtham, Gesham, Pelet, Ephah leh Shaaph ahi hi."
+        },
+        {
+          "number": 48,
+          "text": "Caleb’ zineu Maachah in ta Sheber leh Tirhanah a nei hi."
+        },
+        {
+          "number": 49,
+          "text": "Tuanu in Madmannah’ pa Shaaph, leh Machbeam leh Gibea-te’ pa Sheva zong a nei hi. Caleb’ tanu pen Achsah ahi hi."
+        },
+        {
+          "number": 50,
+          "text": "Hihte pen Caleb’ tapate hi a, Ephrahthah tacil Hur’ tapate pen: Kiryath Yearim’ pa Shobal,"
+        },
+        {
+          "number": 51,
+          "text": "Bethlehem’ pa Salma (Salmon), leh Beth Gader’ pa Hareph ahi uh hi."
+        },
+        {
+          "number": 52,
+          "text": "Kiryath Yearim’ pa Shobal’ suanlekhakte pen: Haroeth, Manaheth mi alang leh,"
+        },
+        {
+          "number": 53,
+          "text": "Kiryath Yearim behte: Ithri mite, Puth mite, Shumath mite leh Mishrai mite ahi hi. Hihte panin Zorath mite leh Eshtaol mite a piang hi."
+        },
+        {
+          "number": 54,
+          "text": "Salmon’ suanlekhakte pen: Bethlehem, Netophath mite, Ataroth Beth Yahab, Manaheth mi alang leh Zor mite ahi hi."
+        },
+        {
+          "number": 55,
+          "text": "Yabez-a teng beh lai-atte; soferim, pen: Tirath mite, Shimeath mite leh Suchath mite ahi uh hi. Hihte pen Rechab’ innkuante’ pa Hemath’ suan Ken mite ahi uh hi."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "headings": [
+        {
+          "level": 1,
+          "text": "David’ Tapate",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Solomon’ Suante",
+          "before_verse": 10
+        },
+        {
+          "level": 1,
+          "text": "Salin a Kikaih Zawha Kumpi Guite",
+          "before_verse": 17
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hihte pen Hebron-a a suak David’ tapate minte ahi hi: Yezreel mi Ahimoam tawh a neih a tacil Amnon ahi hi. A ta nihna pen Carmel mi Abigail tawh a neih Daniyl (Chileab) ahi hi."
+        },
+        {
+          "number": 2,
+          "text": "A ta thumna pen Geshur kumpipa Talmai’ tanu Maachah tawh a neih Absalom ahi hi. A ta lina pen Haggith tawh a neih Adoniyah ahi hi."
+        },
+        {
+          "number": 3,
+          "text": "A ta ngana pen Abital tawh a neih Shephatyah ahi hi. A ta gukna pen a zi Eglah tawh a neih Ithream ahi hi."
+        },
+        {
+          "number": 4,
+          "text": "Hebron ah ama tung pana piang tapa guk ahi hi. Amah in tua lai-ah kum sagih leh kha guk uk a, Yerusalem ah amah in kum sawmthum le kum thum uk hi."
+        },
+        {
+          "number": 5,
+          "text": "Hih tapate pen Yerusalem ah ama tung pana piang ahi hi: Shammua, Shobab, Nathan, leh Solomon—a li-in Ammiel’ (Eliam) tanu Bathshua (Bathsheba) tawh a neih ahi hi."
+        },
+        {
+          "number": 6,
+          "text": "Tua banah Ibhar, Ylishama (Ylishua), Yliphelet,"
+        },
+        {
+          "number": 7,
+          "text": "Nogah, Nepheg, Yaphia,"
+        },
+        {
+          "number": 8,
+          "text": "Ylishama, Ylyada, leh Yliphelet—amaute kua pha uh hi."
+        },
+        {
+          "number": 9,
+          "text": "Hihte pen a zineute’ tapate leh a sanggamnu Tamar banah David’ tapate khempeuh ahi hi."
+        },
+        {
+          "number": 10,
+          "text": "Solomon’ tapa pen Rehoboam; Rechabam, ahi hi. A tapa Abiyah, a tapa Asa, a tapa Yahshaphat,"
+        },
+        {
+          "number": 11,
+          "text": "a tapa Yahram, a tapa Abazyah, a tapa Yahash,"
+        },
+        {
+          "number": 12,
+          "text": "a tapa Amazyah, a tapa Azaryah, a tapa Yahtham,"
+        },
+        {
+          "number": 13,
+          "text": "a tapa Ahaz, a tapa Hezekyah, a tapa Menasheh,"
+        },
+        {
+          "number": 14,
+          "text": "a tapa Amon leh a tapa Yoshiyah ahi uh hi."
+        },
+        {
+          "number": 15,
+          "text": "Yoshiyah’ tapate pen: a tacil Yahchanan (Yahahaz), a nihna Yahyakim, a thumna Zedekyah leh a lina Shallum ahi hi."
+        },
+        {
+          "number": 16,
+          "text": "Yahyakim’ za luahte pen: a tapa Yekonyah (Yahyakin) leh Yahyakim’ sanggampa Zedekyah ahi hi."
+        },
+        {
+          "number": 17,
+          "text": "Yekonyah (Yahyakin) salin a kimat sunga a tapate pen: Assir, a tapa Shealtiel,"
+        },
+        {
+          "number": 18,
+          "text": "Malchiram, Pedayah, Shenazar, Yekamyah, Hoshama, leh Nedabyah ahi hi."
+        },
+        {
+          "number": 19,
+          "text": "Pedayah’ tapate pen Zerubbabel leh Shimei ahi hi. Zerubbabel’ tapate pen Meshullam leh Hananyah ahi hi. Shelomith pen a sanggamnu uh ahi hi."
+        },
+        {
+          "number": 20,
+          "text": "Tua banah Hashubah, Ohel, Berechyah, Hasadyah leh Yushab-Chesed—a vekpi-in nga ahi hi."
+        },
+        {
+          "number": 21,
+          "text": "Hananyah’ tapate pen Pelatyah leh Yeshayah, leh Rephayah’ tapate, Arnan’ tapate, Obadyah’ tapate leh Shechanyah’ tapate ahi hi."
+        },
+        {
+          "number": 22,
+          "text": "Shechanyah’ tapa pen Shemayah ahi hi. Shemayah’ tapate pen: Hattush, Igeal, Bariach, Nearyah leh Shaphat hi a—a vekpi-in guk ahi hi."
+        },
+        {
+          "number": 23,
+          "text": "Nearyah’ tapate pen: Al-Yahenai, Hezekyah, leh Azrikam hi a—a vekpi-in thum ahi hi."
+        },
+        {
+          "number": 24,
+          "text": "Al-Yahnenai’ tapate pen: Hodayah, Eliashib, Pelayah, Akkub, Yahchanan, Delayah leh Anani hi a—a vekpi-in sagih ahi hi."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Yahdah’ Suante",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Simeon’ Suante",
+          "before_verse": 24
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Yahdah’ tapate pen: Perez, Hezron, Carmi, Hur, leh Shobal ahi hi."
+        },
+        {
+          "number": 2,
+          "text": "Shobal in ta Reayah nei a, Reayah’ ta Yachath, Yachath’ ta Ahumai leh Lahad ahi hi. Hihte pen Zorath mite behte ahi hi."
+        },
+        {
+          "number": 3,
+          "text": "Hihte pen Etam’ pa Hareph’ tapate ahi hi: Yezreel, Ishma, leh Idbash ahi hi. A sanggamnu uh pen Ha-Tzelelponi ahi hi."
+        },
+        {
+          "number": 4,
+          "text": "Penuel pen Gedo’ pa hi a, Ezer pen Hushah’ pa ahi hi. Hihte pen Ephrath’ tapa masa, Bethlehem’ pa Hur’ suanlekhakte ahi hi."
+        },
+        {
+          "number": 5,
+          "text": "Tekoa’ pa Ashhur in zi nih nei a—Helah leh Naarah ahi hi."
+        },
+        {
+          "number": 6,
+          "text": "Naarah in amah tawh ta Ahuzam, Hepher, Temeni, leh Haahashtari a nei hi. Hihte pen Naarah’ tapate ahi hi."
+        },
+        {
+          "number": 7,
+          "text": "Helah’ tapate pen: Zereth, Zohar, Ethnan,"
+        },
+        {
+          "number": 8,
+          "text": "leh Koz hi a (amah pen Anub, Ha-Tzobebah leh Rarum’ tapa Aharhel’ behte’ pa ahi hi)."
+        },
+        {
+          "number": 9,
+          "text": "Yabez pen a sanggamte sangin pahtawi huaizaw a, ahih hangin a nu in a min Yabez; Amah in Nasak ding hi, ci-in phuak hi; “bang hang hiam cihleh nasapi-in amah ka hingkhia hi,” a ci hi."
+        },
+        {
+          "number": 10,
+          "text": "Israyl’ Pa tungah Yabez kiko-in, “Aw, Nangmah in kei thupha hong pia taktakin ka gam hong khatsak inla, Na khutte in kei hong ompihin kei hong kinatsak loh nadingin siatna panin kei hong kem in,” a ci hi. Tua ahih ciangin Yahweh in ama ngetna a pia hi."
+        },
+        {
+          "number": 11,
+          "text": "Shuhah’ sanggampa Chelub in ta Mehir nei a, amah pen Eshton’ pa ahi hi."
+        },
+        {
+          "number": 12,
+          "text": "Eshton in ta Beth-Rapha, Paseah, leh Ir-Nahash’ pa Tehinnah a nei hi. Hihte pen Rechah mite ahi uh hi."
+        },
+        {
+          "number": 13,
+          "text": "Kenaz’ tapate pen: Othniel leh Serayah ahi hi. Othniel’ tapate pen: Hathath leh,"
+        },
+        {
+          "number": 14,
+          "text": "Meonothai hi a (amah in ta Ophrah a nei hi). Serayah’ tapa pen Yahab hi a, Ge-Char-ashim’ pa; Khutsiamte Kuam, ahi hi; bang hang hiam cihleh amaute khutsiamte ahih manin tua bangin kiphuak ahi hi."
+        },
+        {
+          "number": 15,
+          "text": "Yephunneh’ tapa Caleb’ tapate pen: Iru, Elah leh Naam ahi hi. Elah’ tapa pen Kenaz ahi hi."
+        },
+        {
+          "number": 16,
+          "text": "Yehallelel’ tapate pen: Ziph, Ziphaha, Titia leh Asareel ahi hi."
+        },
+        {
+          "number": 17,
+          "text": "Ezrahyah’ tapate pen Yether, Mered, Epher leh Yalon ahi hi. Mered’ zi in ta Miriam, Shammai leh Eshtemoa’ pa Ishbah a nei hi."
+        },
+        {
+          "number": 18,
+          "text": "(Yahdah mi ama zi in tapa: Gedor’ pa Yered, Socoh’ pa Heber leh Zanoah’ pa Yekuthiel a nei hi.) Hihte pen Mered in a tenpih Pharaoh’ tanu Bithyah’ tate ahi hi."
+        },
+        {
+          "number": 19,
+          "text": "Naham’ sanggamnu, Hodiyah’ zi tapate pen: Garm mi Keilah’ pa leh Maachath mi Eshtemoa’ pa ahi hi."
+        },
+        {
+          "number": 20,
+          "text": "Shimon’ tapate pen: Amnon, Rinnah, Ben-Hanan leh Tilon ahi hi. Ishi’ tapate pen Zoheth leh Ben-Zoheth ahi hi."
+        },
+        {
+          "number": 21,
+          "text": "Yahdah’ tapa ahi Shelah’ tapate pen: Lecah’ pa Er, Mareshah’ pa Laadah leh Beth Ashbea-a saihadial puan gan mite’ beh teng leh,"
+        },
+        {
+          "number": 22,
+          "text": "Yahkim, Chozeba mite, Yahash leh Moab-te tenpihin Bethlehem-a a ciahkik Saraph ahi hi. (Hih ciaptehnate tanglai peka ahi hi.)"
+        },
+        {
+          "number": 23,
+          "text": "Amaute pen Netaim leh Gederah-a teng beelseekte hi uh a, kumpipa nasepna tua lai-ah a om uh hi."
+        },
+        {
+          "number": 24,
+          "text": "Simeon’ suanlekhakte pen: Nemuel, Yamin, Yarib (Yakin), Zerah leh Shaul ahi hi."
+        },
+        {
+          "number": 25,
+          "text": "Shallum pen Shaul’ tapa ahi hi. Shallum in ta Mibsam nei a, Mibsam in ta Mishma nei hi."
+        },
+        {
+          "number": 26,
+          "text": "Hamuel pen Mishma’ tapa ahi hi. Hamuel in ta Zacchur nei a, Zacchur in ta Shimei a nei hi."
+        },
+        {
+          "number": 27,
+          "text": "Shimei in tapa sawm le guk leh tanu guk nei hi; ahih hangin a sanggam pasalte in ta tampi nei lo uh hi. Tua ahih ciangin Yahdah mite zahin amau beh buppi tampi a pha kei uh hi."
+        },
+        {
+          "number": 28,
+          "text": "Amaute pen Beersheba, Moladah, Hazar Shaul,"
+        },
+        {
+          "number": 29,
+          "text": "Bilhah, Ezem, Tolad,"
+        },
+        {
+          "number": 30,
+          "text": "Bethuel, Hormah, Ziklag,"
+        },
+        {
+          "number": 31,
+          "text": "Beth Marcaboth, Hazar Susim, Beth Birei, leh Shaaraim khuate ah teng uh hi. Hihte pen David’ uk hun dong amaute khuapite ahi hi."
+        },
+        {
+          "number": 32,
+          "text": "A kiimkota khuaneute pen: Etam, Ain, Rimmon, Tochen leh Ashan hi a, khuaneu nga—"
+        },
+        {
+          "number": 33,
+          "text": "leh Baalath Beer ciang dong khuapite kiimkota om khuaneute khempeuh tawh ahi hi. Hih pen amaute tenna mun hi a, amaute in khang ciaptehna a nei uh hi."
+        },
+        {
+          "number": 34,
+          "text": "Meshobab, Yamlech leh Aazyah’ tapa Yoshayah;"
+        },
+        {
+          "number": 35,
+          "text": "Yahyl leh Asiel’ tapa Serayah’ tapa Yoshibyah’ tapa Yahu;"
+        },
+        {
+          "number": 36,
+          "text": "Al-Yahenai, Yaakobah, Yeshochayah, Asayah, Adiel, Yesimiel leh Benayah;"
+        },
+        {
+          "number": 37,
+          "text": "Shemayah’ tapa Shimri’ tapa Yedayah’ tapa Allon’ tapa Shiphi’ tapa Ziza ahi hi."
+        },
+        {
+          "number": 38,
+          "text": "Hih a minin a kigual mite pen a beh zui-a makaite hi a, amau beh ciat nakpi takin khang hi."
+        },
+        {
+          "number": 39,
+          "text": "Tua ahih ciangin amaute in a tuuhonte aa dingin lonona zongin kuam ni suahna lampang Gedor lutna ciang dong a pai uh hi."
+        },
+        {
+          "number": 40,
+          "text": "Amaute in lei hoih, lonona, leh gam zai-in gam dai-in a nopna mun a mu uh hi. Ham’ suanlekhakte ni dangin tua lai-ah teng ngei uh hi."
+        },
+        {
+          "number": 41,
+          "text": "Yahdah kumpi Hezekyah uk hun sungin a minin kigual hih mite pai-in, a puanbukte leh tua lai-a a tennate ah Ham mite simin tuni donga mah bangin amaute a susia kiuhkeuh uh hi. Ham-te tenna mun ah amaute teng uh hi; bang hang hiam cihleh tua lai-ah a tuuhonte aa dingin lonona a om hi."
+        },
+        {
+          "number": 42,
+          "text": "Hih Simeon mi 500 in Seir mualtung gam a sim uh hi. Ishi’ tapate Pelatyah, Nearyah, Rephanyah leh Uzziel-te in amaute a makaih uh hi."
+        },
+        {
+          "number": 43,
+          "text": "Amaute in Amalek mi a suakta a omlai sunte susia-in, tuni dongin tua lai-ah a teng uh hi."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Reuben’ Suante",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Gad’ Suante",
+          "before_verse": 11
+        },
+        {
+          "level": 1,
+          "text": "Menasheh Minam-alangte",
+          "before_verse": 23
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Israyl’ tacil Reuben’ tapate pen: (Amah pen tacil hi a, ahih hangin amah in a pa’ lupna ninsak ahih manin tacil hihna hamphatna pen Israyl’ tapa Yahseph suante tungah kipia hi; tua ahih manin tapa upapen hihna tawh kizui-in khangthu ciaptehna ah amah kigual lo hi."
+        },
+        {
+          "number": 2,
+          "text": "Yahdah pen a sanggam pasalte lakah thahatpen hi a, ama sung panin ukpa khat a pian hangin tacil hamphatna pen Yahseph aa ahi hi)—"
+        },
+        {
+          "number": 3,
+          "text": "Israyl’ tacil Reuben’ tapate pen: Hanoch, Pallu, Hezron leh Carmi ahi hi."
+        },
+        {
+          "number": 4,
+          "text": "Yahyl’ tapate: Shemayah, Shemayah in ta Gog nei a, Gog in ta Shimei nei hi;"
+        },
+        {
+          "number": 5,
+          "text": "Shimei in ta Micahyah nei a, Micahyah in ta Reayah nei a, Reayah in ta Baal nei hi;"
+        },
+        {
+          "number": 6,
+          "text": "Assyria kumpipa Tilgath Pilneser in salin a kaih Beerah pen Baal’ tapa ahi hi. Beerah pen Reuben mite makai khat ahi hi."
+        },
+        {
+          "number": 7,
+          "text": "Amau khanggui ciaptehnate tawh kizui-in a sanggamte uh leh a kinaipihte a behbeh-a kigual ahi hi: Ukpi Yeiel, Zecharyah,"
+        },
+        {
+          "number": 8,
+          "text": "Aroer panin Nebo leh Baal Meon ciang donga teng Yahyl tapa Shema, a tapa Azaz, a tapa Bela ahi uh hi."
+        },
+        {
+          "number": 9,
+          "text": "Euphrates Gun dong a ban sehnel gam ciang dong, ni suahna lamah amaute teng uh hi; bang hang hiam cihleh Gilead gam sungah a gan khawite uh tampi a pha hi."
+        },
+        {
+          "number": 10,
+          "text": "Shaul uk hun sungin amaute in Hagari-te simin amaute khut tawh a zo uh hi. Tua ahih ciangin Gilead ni suahna lam huam buppi ah a puanbukte tawh a teng uh hi."
+        },
+        {
+          "number": 11,
+          "text": "Amaute zom, Salcah ciang dong Bashan gam sungah Gad’ mite teng uh hi:"
+        },
+        {
+          "number": 12,
+          "text": "Ukpi Yahyl hi a, a zom ah Shapham ahi hi; tua khit ciangin Bashan gam sungah Yaanai leh Shaphat ahi hi."
+        },
+        {
+          "number": 13,
+          "text": "A sanggamte leh a kinaipihte a innkuankuanin: Michael, Meshullam, Sheba, Yorai, Yachan, Zia leh Heber hi a—a vekpi-in sagih ahi hi."
+        },
+        {
+          "number": 14,
+          "text": "Hihte pen Buz’ tapa Yachdo’ tapa Yeshishai’ tapa Michael’ tapa Gilead’ tapa Yaroach’ tapa Hurl’ tapa ahi Abihail’ tapate ahi hi."
+        },
+        {
+          "number": 15,
+          "text": "Guni’ tapa Abdiel, a tapa Ahi pen amau beh sungah ukpi ahi hi."
+        },
+        {
+          "number": 16,
+          "text": "Bashan gam Gilead leh a khuaneute leh amau gam sung Sharon-a gam-awng khempeuh ah Gad mite a teng uh hi."
+        },
+        {
+          "number": 17,
+          "text": "Hihte khempeuh pen Yahdah kumpi Yahtham uk hun sung leh Israyl kumpi Yeroboam uk hun sunga khangthu a kiciamtehte ahi hi."
+        },
+        {
+          "number": 18,
+          "text": "Reuben mi, Gad mi leh Menasheh minam alangte in galsimzia a kihilhsa mi thahat, lum leh namsau a tawi thei, thal a kap thei mi 44,760 a nei uh hi."
+        },
+        {
+          "number": 19,
+          "text": "Amaute in Hagari mite, Yetur, Naphish leh Nodab a sim uh hi."
+        },
+        {
+          "number": 20,
+          "text": "A kido hun sungin Yahweh kiangah amaute kiko uh ahih manin kidona ah amaute a kihuh hi. Amah in Hagari-te leh amaute tawh a om khempeuh amau khut sungah a pia hi. Amaute in amau muanna Ama sungah koih uh ahih manin Amah in amaute’ thungetna a dawng hi."
+        },
+        {
+          "number": 21,
+          "text": "Tua ciangin amaute in a galte’ ganhon neihsa khempeuh—kalaoh 50,000, tuu 250,000 leh laa 2,000 la a, mi 100,000 zong a man uh hi;"
+        },
+        {
+          "number": 22,
+          "text": "Ahih hangin adang tampi zong kithatin puk uh hi; bang hang hiam cihleh galdona pen Yahweh aa ahi hi. Tua ahih ciangin sala a kikaih hun dongin tua mun ah a teng uh hi."
+        },
+        {
+          "number": 23,
+          "text": "Menasheh minam alangte Bashan panin Baal Hermon (tua pen Senir leh Hermon Mual ah ahi hi) ciang dong teng uh a, amaute a tam mahmah mite ahi uh hi."
+        },
+        {
+          "number": 24,
+          "text": "Hihte pen a beh lutangte ahi hi: Epher, Ishi, Eliel, Azriel, Yeremyah, Hodayah leh Yachdiel ahi hi. Amaute pen mi hangsante, galhangte, mi minthangte leh beh lutangte hi uh a,"
+        },
+        {
+          "number": 25,
+          "text": "ahih hangin a pate uh Pa tungah amaute citak loin, Yahweh in amaute mai pana a suksiat tua gam minamte’ pasiante tungah amau le amau a kizuak uh hi."
+        },
+        {
+          "number": 26,
+          "text": "Tua ahih ciangin Israyl’ Pa in Assyria kumpipa Pul’ kha (tua pen Assyria kumpi Tilgath-Pilneser ahi hi) a hansuah hi. Amah in Reuben minam, Gad minam leh Menasheh minam alang-te salin a kai hi. Amah in Halah, Habor, Hara leh Gozan-a gun ah amaute puak a, tuni dongin tua lai-ah a om uh hi."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Levi’ Suante",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Yahweh’ Inn-a Tumging Lente",
+          "before_verse": 31
+        },
+        {
+          "level": 1,
+          "text": "Aaron’ Suante",
+          "before_verse": 49
+        },
+        {
+          "level": 1,
+          "text": "Levi Mite’ Khuapite",
+          "before_verse": 54
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Levi’ tapate pen Gershon, Kohath leh Merari ahi hi."
+        },
+        {
+          "number": 2,
+          "text": "Kohath’ tapate pen Amram, Ishar, Hebron leh Uzziel ahi hi."
+        },
+        {
+          "number": 3,
+          "text": "Amram’ tate pen Aaron, Mosheh leh Miriam ahi hi. Aaron’ tapate pen Nadab, Ahihu, Eleazar leh Ithamar ahi hi."
+        },
+        {
+          "number": 4,
+          "text": "Eleazar in ta Phinehas nei a, Phinehas in ta Abishua nei hi;"
+        },
+        {
+          "number": 5,
+          "text": "Abishua in ta Bukki nei a, Bukki in ta Uzzi nei hi;"
+        },
+        {
+          "number": 6,
+          "text": "Uzzi in ta Zerahyah nei a, Zerahyah in ta Merayoth nei hi;"
+        },
+        {
+          "number": 7,
+          "text": "Merayoth in ta Amaryah nei a, Amaryah in ta Ahitub nei hi;"
+        },
+        {
+          "number": 8,
+          "text": "Ahitub in ta Zadok nei a, Zadok in ta Ahimaaz nei hi;"
+        },
+        {
+          "number": 9,
+          "text": "Ahimaaz in ta Azaryah nei a, Azaryah in ta Yahchanan nei hi;"
+        },
+        {
+          "number": 10,
+          "text": "Yahchanan in ta Azaryah nei hi (amah pen Yerusalem-a Yahweh’ Inn sungah siampi-in na a sempa ahi hi);"
+        },
+        {
+          "number": 11,
+          "text": "Azaryah in ta Amaryah nei a, Amaryah in ta Ahitub nei hi;"
+        },
+        {
+          "number": 12,
+          "text": "Ahitub in ta Zadok nei a, Zadok in ta Shallum nei hi;"
+        },
+        {
+          "number": 13,
+          "text": "Shallum in ta Hilkiyah nei a, Hilkiyah in ta Azaryah nei hi;"
+        },
+        {
+          "number": 14,
+          "text": "Azaryah in ta Serayah nei a, Serayah in ta Yahzadak nei hi;"
+        },
+        {
+          "number": 15,
+          "text": "Yahweh in Nebuchadnezzar’ khutin Yahdah leh Yerusalem sala a puak lai-in Yahzadak zong salin a kikai hi."
+        },
+        {
+          "number": 16,
+          "text": "Levi’ tapate pen: Gershon, Kohath leh Merari ahi hi."
+        },
+        {
+          "number": 17,
+          "text": "Hihte pen Gershon’ tapate minte ahi hi: Libni leh Shimei ahi hi."
+        },
+        {
+          "number": 18,
+          "text": "Kohath’ tapate pen Amram, Ishar, Hebron leh Uzziel ahi hi."
+        },
+        {
+          "number": 19,
+          "text": "Merari’ tapate pen Mahli leh Mushi ahi hi. Hihte pen amau pate tawh kizui-in Levi mite’ behte a kigual ahi hi:"
+        },
+        {
+          "number": 20,
+          "text": "Gershon panin a tapa Libni hi a, a tapa Yachath, a tapa Zimmah;"
+        },
+        {
+          "number": 21,
+          "text": "a tapa Yahach, a tapa Iddo, a tapa Zerah, a tapa Yeatherai ahi hi."
+        },
+        {
+          "number": 22,
+          "text": "Kohath panin a tapa Amminadab, a tapa Korah, a tapa Assir;"
+        },
+        {
+          "number": 23,
+          "text": "a tapa Elkanah, a tapa Ebyasaph, a tapa Assir;"
+        },
+        {
+          "number": 24,
+          "text": "a tapa Tahath, a tapa Uriel, a tapa Uzzyah, a tapa Shaul ahi hi."
+        },
+        {
+          "number": 25,
+          "text": "Elkanah’ suanlekhakte pen: Amasai, Ahimoth hi a,"
+        },
+        {
+          "number": 26,
+          "text": "Ahimoth’ tapa Elkanah, a tapa Zophai, a tapa Nahath,"
+        },
+        {
+          "number": 27,
+          "text": "a tapa Eliab, a tapa Yeroham, a tapa Elkanah ahi hi."
+        },
+        {
+          "number": 28,
+          "text": "Yahweh’ kamsang Samuyl tapate: a tacil Yahyl, a tapa nihna Abiyah ahi hi."
+        },
+        {
+          "number": 29,
+          "text": "Merari panin a tapa Mahli, a tapa Libni, a tapa Shimei, a tapa Uzzah;"
+        },
+        {
+          "number": 30,
+          "text": "a tapa Shimea, a tapa Chagyah, a tapa Asayah ahi hi."
+        },
+        {
+          "number": 31,
+          "text": "Hihte pen Yahweh’ Inn ah singkuang a tun khit ciangin David in Yahweh’ Inn ah tumging nasep a len dingin a seh mite ahi hi."
+        },
+        {
+          "number": 32,
+          "text": "Solomon in Yerusalem ah Yahweh’ Inn a lam khit mateng amaute in Kikhopna Puanbuk mai-ah tumging nasep a sem uh hi. Amaute aa dingin a kisehsa hun tawh kizui-in amau zumte ah na sem uh hi."
+        },
+        {
+          "number": 33,
+          "text": "Hihte pen na sem mite leh a tapate ahi hi: Kohath mi panin cantar; lasiam, Heman pen Yahyl’ tapa, Samuyl’ tapa,"
+        },
+        {
+          "number": 34,
+          "text": "Elkanah’ tapa, Yeroham’ tapa, Eliel’ tapa, Toah’ tapa,"
+        },
+        {
+          "number": 35,
+          "text": "Zuph’ tapa, Elkanah’ tapa, Mahath’ tapa, Amasai’ tapa,"
+        },
+        {
+          "number": 36,
+          "text": "Elkanah’ tapa, Yahyl’ tapa, Azaryah’ tapa, Zephanyah’ tapa,"
+        },
+        {
+          "number": 37,
+          "text": "Tahath’ tapa, Assir’ tapa, Ebyasaph’ tapa, Korah’ tapa,"
+        },
+        {
+          "number": 38,
+          "text": "Izhar’ tapa, Kohath’ tapa, Levi’ tapa, Israyl’ tapa ahi uh hi."
+        },
+        {
+          "number": 39,
+          "text": "Ama; Heman, sanggampa pen ama taklam-a ding Asaph ahi hi. Asaph pen Berechyah’ tapa, Shimea’ tapa,"
+        },
+        {
+          "number": 40,
+          "text": "Michael’ tapa, Baaseyah’ tapa, Malchiyah’ tapa,"
+        },
+        {
+          "number": 41,
+          "text": "Ethni’ tapa, Zerah’ tapa, Adayah’ tapa,"
+        },
+        {
+          "number": 42,
+          "text": "Ethan’ tapa, Zimmah’ tapa, Shimei’ tapa,"
+        },
+        {
+          "number": 43,
+          "text": "Yachath’ tapa, Gershon’ tapa, Levi’ tapa ahi hi."
+        },
+        {
+          "number": 44,
+          "text": "Merari’ suante ahi amau veilam-a ding a sanggampa uh pen: Kishi’ tapa Ethan hi a, amah pen Abdi’ tapa, Malluch’ tapa,"
+        },
+        {
+          "number": 45,
+          "text": "Hashabyah’ tapa, Amazyah’ tapa, Hilkiyah’ tapa,"
+        },
+        {
+          "number": 46,
+          "text": "Amzi’ tapa, Bani’ tapa, Shamer’ tapa,"
+        },
+        {
+          "number": 47,
+          "text": "Mahli’ tapa, Mushi’ tapa, Merari’ tapa, Levi’ tapa ahi hi."
+        },
+        {
+          "number": 48,
+          "text": "Amaute sanggam Levi mite pen Yahweh’ Inn biakbuk-a adang vaipuak khempeuh sem dingin a kiseh hi."
+        },
+        {
+          "number": 49,
+          "text": "Ahih hangin Aaron leh ama suanlekhakte pen meihal biaknatau tung leh paknamtui biaknatau tungah biakpiaknate a pia dingte leh Yahweh’ nasempa Mosheh thupiaksa khempeuh tawh kizui-in Israyl-te aa dingin kilemna bawlin Siangthopen Mun-a nasepte khempeuh ah vaipuak a neite ahi uh hi."
+        },
+        {
+          "number": 50,
+          "text": "Hihte pen Aaron’ suante ahi hi: a tapa Eleazar, a tapa Phinehas, a tapa Abishua,"
+        },
+        {
+          "number": 51,
+          "text": "a tapa Bukki, a tapa Uzzi, a tapa Zerahyah,"
+        },
+        {
+          "number": 52,
+          "text": "a tapa Merayoth, a tapa Amaryah, a tapa Ahitub,"
+        },
+        {
+          "number": 53,
+          "text": "a tapa Zadok leh a tapa Ahimaaz ahi hi."
+        },
+        {
+          "number": 54,
+          "text": "Hihte pen amau gamgi-in a kiciamte amau tenna munte ahi hi. Kohath behte(Amaute aa dingin ailotna kia masa hi) kiang panin Aaron’ suante tunga kipia—"
+        },
+        {
+          "number": 55,
+          "text": "Amaute tungah Yahdah gam sunga Hebron leh a kiima neihkhop-gamte kipia hi."
+        },
+        {
+          "number": 56,
+          "text": "Ahih hangin tua khuapi-a lote leh a khuaneute pen amaute in Yephunneh’ tapa Caleb tungah pia uh hi."
+        },
+        {
+          "number": 57,
+          "text": "Aaron’ suante tungah amaute in hih bukna khuapite zong pia uh hi: Hebron, Libnah leh a neihkhop-gamte, Yattir, Eshtemoa leh a neihkhop-gamte,"
+        },
+        {
+          "number": 58,
+          "text": "Hilen leh a neihkhop-gamte, Debir leh a neihkhop-gamte,"
+        },
+        {
+          "number": 59,
+          "text": "Ashan leh a neihkhop-gamte, leh Beth Shemesh leh a neihkhopte tawh ahi hi."
+        },
+        {
+          "number": 60,
+          "text": "Tua banah Benyamin minamte kiang panin amaute tungah Geba leh a neihkhop-gamte, Alemeth leh a neihkhop-gamte, leh Anathoth leh a neihkhop-gamte a kipia hi. Kohath behte lakah a kihawmkhia hih khuapite khempeuh pen a vekpi-in sawm le thum ahi hi."
+        },
+        {
+          "number": 61,
+          "text": "Kohath’ suan a omlaite tungah, Menasheh minam-alang sunga behte kiang panin ailotna tawh amaute in khuapi sawm pia uh hi."
+        },
+        {
+          "number": 62,
+          "text": "Issachar, Asher, Naphtali minamte tung pan leh Bashan-a Menasheh minam-alangte kiang panin khuapi sawm le thum Gershon’ suanlekhakte a behbehin kipia hi."
+        },
+        {
+          "number": 63,
+          "text": "Reuben, Gad leh Zebulun minamte kiang panin khuapi sawm le nih Merari’ suanlekhakte a behbehin kipia hi."
+        },
+        {
+          "number": 64,
+          "text": "Tua bangin Israyl khuapite in Levi mite tungah hih khuapite leh a neihkhop-gamte pia uh hi."
+        },
+        {
+          "number": 65,
+          "text": "Amaute in Yahdah, Simeon leh Benyamin minamte kiang panin ailotna tawh amaute tungah hih a min-a kilo khuapite zong pia uh hi."
+        },
+        {
+          "number": 66,
+          "text": "Ephraim minamte kiang panin khuapite Kohath beh kimkhatte tungah amau gam dingin kipia hi."
+        },
+        {
+          "number": 67,
+          "text": "Ephraim mualtung gam sunga om Shechem leh a neihkhop-gamte bukna khuapi-in amaute tungah kipia a, tua banah Gazer leh a neihkhop-gamte,"
+        },
+        {
+          "number": 68,
+          "text": "Yokmeam leh a neihkhop-gamte, Beth Horon leh a neihkhop-gamte,"
+        },
+        {
+          "number": 69,
+          "text": "Aiyalon leh a neihkhop-gamte, leh Gath Rimmon leh a neihkhop-gamte zong a kipia hi."
+        },
+        {
+          "number": 70,
+          "text": "Menasheh minam-alangte kiang panin Kohath beh a omlaite aa dingin amaute tungah Aner leh a neihkhop-gamte leh Bileam leh a neihkhop-gamte kipia hi."
+        },
+        {
+          "number": 71,
+          "text": "Menasheh minam-alangte beh sung panin Gershon’ suante tungah Bashan gam sunga Golan leh a neihkhop-gamte leh Ashtaroth leh a neihkhop-gamte a kipia hi."
+        },
+        {
+          "number": 72,
+          "text": "Issachar minamte kiang panin Gershon tungah Kedesh leh a neihkhop-gamte, Daberath leh a neihkhop-gamte,"
+        },
+        {
+          "number": 73,
+          "text": "Ramoth leh a neihkhop-gamte, leh Anem leh a neihkhop-gamte kipia hi."
+        },
+        {
+          "number": 74,
+          "text": "Asher minamte kiang panin Gershon tungah Mashal leh a neihkhop-gamte, Abdon leh a neihkhop-gamte,"
+        },
+        {
+          "number": 75,
+          "text": "Hukok leh a neihkhop-gamte, leh Rehob leh a neihkhop-gamte kipia hi."
+        },
+        {
+          "number": 76,
+          "text": "Naphtali minamte kiang panin Gershon tungah Galilee gam sunga Kedesh leh a neihkhop-gamte, leh Kiryathaim leh a neihkhop-gamte a kipia hi."
+        },
+        {
+          "number": 77,
+          "text": "Zebulun minamte kiang panin Merari mi a omlaite tungah Rimmon leh a neihkhop-gamte, leh Tabor leh a neihkhop-gamte a kipia hi."
+        },
+        {
+          "number": 78,
+          "text": "Yardan gal Yericho ni suahna lama Reuben minamte kiang panin amaute tungah sehnel gam sunga Bezer leh a neihkhop-gamte, Yatzah leh a neihkhop-gamte,"
+        },
+        {
+          "number": 79,
+          "text": "Kedemoth leh a neihkhop-gamte, leh Mephaath leh a neihkhop-gamte a kipia hi."
+        },
+        {
+          "number": 80,
+          "text": "Gad minamte kiang panin amaute in Gilead leh a neihkhop-gamte, Mahanaim leh a neihkhop-gamte,"
+        },
+        {
+          "number": 81,
+          "text": "Heshbon leh a neihkhop-gamte, leh Yazer leh a neihkhop-gamte a ngah uh hi."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Issachar’ Suante",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Benyamin’ Suante",
+          "before_verse": 6
+        },
+        {
+          "level": 1,
+          "text": "Naphtali’ Suante",
+          "before_verse": 13
+        },
+        {
+          "level": 1,
+          "text": "Menasheh’ Suante",
+          "before_verse": 14
+        },
+        {
+          "level": 1,
+          "text": "Ephraim’ Suante",
+          "before_verse": 20
+        },
+        {
+          "level": 1,
+          "text": "Asher’ Suante",
+          "before_verse": 30
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hihte pen Issachar’ tapate ahi hi: Tola, Puah, Yashub leh Shimron hi a—a vekpi-in li ahi hi."
+        },
+        {
+          "number": 2,
+          "text": "Tola’ tapate pen: Uzzi, Rephayah, Yeriel, Yachmai, Yibsam, leh Shemuel hi a—a pate uh innkuan lutangte ahi uh hi. Tola’ tapate pen hangsanin amau khangin galhangte ahi uh hi. David uk hun sungin amaute 22,600 pha uh hi."
+        },
+        {
+          "number": 3,
+          "text": "Uzzi’ tapa pen Izrachyah ahi hi. Izrachyah’ tapate pen: Michael, Obadyah, Yahyl leh Ishiyah ahi hi. Amau ngate a vekun ukpite ahi uh hi."
+        },
+        {
+          "number": 4,
+          "text": "Amaute in zi leh ta tampi nei uh ahih manin amau innkuante pana piang galsim thei mi 36,000 pha hi."
+        },
+        {
+          "number": 5,
+          "text": "Amaute sanggamte ahi Issachar behte khempeuh sunga om, khangthu ciaptehna sunga kigual galsim thei mi 87,000 pha hi."
+        },
+        {
+          "number": 6,
+          "text": "Benyamin’ tapate pen Bela, Becher, leh Yediael hi a—a vekpi-in thum ahi hi."
+        },
+        {
+          "number": 7,
+          "text": "Bela’ tapate pen Ezbon, Uzzi, Uzziel, Yerimoth leh Iri hi a—a vekpi-in nga ahi hi. Amau beh sungah amaute ukpi hi uh a, amau khangthu ciaptehna sunga kigual galsim thei mi 22,034 pha hi."
+        },
+        {
+          "number": 8,
+          "text": "Becher’ tapate pen Zemirah, Yahash, Eliezer, Al-Yahenai, Omri, Yerimoth, Abiyah, Anathoth leh Alameth ahi hi. Hihte khempeuh pen Becher’ tapate ahi uh hi."
+        },
+        {
+          "number": 9,
+          "text": "Amau beh sunga ukpite khanggui zui-in khangthu kiciaptehna-a a kigual galsim thei mi 20,200 pha hi."
+        },
+        {
+          "number": 10,
+          "text": "Yediael’ tapa pen Bilhan hi a, Bilhan’ tapate pen: Yeush, Benyamin, Ehud, Chenaanah, Zethan, Tarshish leh Ahishahar ahi hi."
+        },
+        {
+          "number": 11,
+          "text": "Hih Yediael’ tapate khempeuh pen amau beh sungah ukpi ahi uh hi. Gal a sim thei pah ding galsiam mi 17,200 a om hi."
+        },
+        {
+          "number": 12,
+          "text": "Shuppim-te leh Huppim-te pen Iri’ suanlekhakte hi uh a, Hushim-te pen Aher’ suanlekhakte ahi uh hi."
+        },
+        {
+          "number": 13,
+          "text": "Naphtali’ suante ahi a zi Bilhah tawh a tapate pen: Yachziel, Guni, Yezer, leh Shallum ahi uh hi."
+        },
+        {
+          "number": 14,
+          "text": "Menasheh’ suanlekhakte: Aram mi a zineu tawh ta Machir nei a, Ashriel’ pa Gilead’ pa ahi hi."
+        },
+        {
+          "number": 15,
+          "text": "A sanggamnu uh min Maachah hi a, Huppim-te leh Shuppimte lak panin Machir in zi khat la hi. A tapa dangkhat min pen Zelophehad hi a, ahih hangin Zelophehad in tanu bek nei hi."
+        },
+        {
+          "number": 16,
+          "text": "(Machir’ zi Maachah in tapa khat nei a, a min Peresh a phuak hi. Peresh’ sanggampa min pen Sheresh hi a, a tapate pen Ulam leh Rakem ahi hi."
+        },
+        {
+          "number": 17,
+          "text": "Ulam’ tapa pen Bedan ahi hi.) Hihte pen Menasheh’ tapa Machir i a tapa Gilead’ suanlekhakte ahi hi."
+        },
+        {
+          "number": 18,
+          "text": "A sanggamnu Hammoleketh in tapa Ishod, Abiezer leh Mahalah a nei hi."
+        },
+        {
+          "number": 19,
+          "text": "Shemida’ tapate pen: Ahiram, Shechem, Likhi leh Aniam ahi hi."
+        },
+        {
+          "number": 20,
+          "text": "Ephraim’ suante pen: Shuthelah, a tapa Bered, a tapa Tahath, a tapa Eladah, a tapa Tahath,"
+        },
+        {
+          "number": 21,
+          "text": "a tapa Zabad leh a tapa Shuthelah ahi hi. Ezer leh Elead in a ganhonte uh matsak dingin kuansuk uh ahih manin tua gama suak Gath mite in Ephraim’ tapate Ezer leh Elead that uh hi."
+        },
+        {
+          "number": 22,
+          "text": "Tua ciangin a pa uh Ephraim sauveipi sung kap a, tua ciangin amah a hehnem dingin a sanggamte a pai uh hi."
+        },
+        {
+          "number": 23,
+          "text": "Amah in a zi a luppih ciangin tuanu gai-in tapa khat nei hi; ama innkuan tungah tuahsiatna tung ahih manin amah in a min Beriah a phuak hi."
+        },
+        {
+          "number": 24,
+          "text": "A tanu pen Beth Horon khua a Nuainung leh a Tungnung, leh Uzzen Sheerah khua a sat Sheerah ahi hi."
+        },
+        {
+          "number": 25,
+          "text": "A tapa pen Rephah hi a, a tapa Resheph, a tapa Telah, a tapa Tahan,"
+        },
+        {
+          "number": 26,
+          "text": "a tapa Laadan, a tapa Ammihud, a tapa Elishama,"
+        },
+        {
+          "number": 27,
+          "text": "A tapa Nun, leh a tapa Yahshua ahi hi."
+        },
+        {
+          "number": 28,
+          "text": "Amau neihsa gam leh a tennate ah Beth-El leh a kiima khuaneute a kihel hi. Ni suahna lama Naaran, ni tumna lama Gazer leh a kiima khuaneute, Shechem leh a kiima khuaneute, Gaza lam khempeuh leh a kiima khuaneute ahi hi."
+        },
+        {
+          "number": 29,
+          "text": "Menasheh mite’ gamgi dung pen: Beth Shean leh a kiima khuaneute, Taanach leh a kiima khuaneute, Megiddo leh a kiima khuaneute, leh Dor leh a kiima khuaneute ahi hi. Hihte ah Israyl’ tapa Yahseph’ mite a teng uh hi."
+        },
+        {
+          "number": 30,
+          "text": "Asher’ tapate pen: Yimna, Yishwa, Yishwi leh Beriah ahi uh hi. A sanggamnu uh pen Serah ahi hi."
+        },
+        {
+          "number": 31,
+          "text": "Beriah’ tapate pen: Heber leh Birzavith’ pa Malchiel ahi hi."
+        },
+        {
+          "number": 32,
+          "text": "Heber in ta Yaphlet, Shomer, Hotham leh amau sanggamnu Shua nei hi."
+        },
+        {
+          "number": 33,
+          "text": "Yaphlet’ tapate pen: Pasach, Bimhal leh Ashvath ahi hi. Hihte pen Yaphlet’ tate ahi hi."
+        },
+        {
+          "number": 34,
+          "text": "Shomer’ tapate pen: Ahi, Rohgah, Yechubbah leh Aram ahi hi."
+        },
+        {
+          "number": 35,
+          "text": "A sanggampa Helem’ tapate pen: Zophah, Imna, Shelesh leh Amal ahi hi."
+        },
+        {
+          "number": 36,
+          "text": "Zophah’ tapate pen: Suah, Harnepher, Shaul, Beri, Imrah,"
+        },
+        {
+          "number": 37,
+          "text": "Bezer, Hod, Shamma, Shilshah, Yithran, leh Beera ahi hi."
+        },
+        {
+          "number": 38,
+          "text": "Yether’ tapate pen: Yephunneh, Pispah, leh Ara ahi hi."
+        },
+        {
+          "number": 39,
+          "text": "Ulla’ tapate pen: Arah, Haniel leh Ritzya ahi hi."
+        },
+        {
+          "number": 40,
+          "text": "Hihte khempeuh pen: Asher’ tate, beh lutangte, hangsanin a galhang mite leh a madawkdeuh makaite ahi uh hi. Amau khangthu ciaptehna sunga kigual bangin gal a kuan pah thei mi pen 26,000 pha hi."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Benyamin’ Suante",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Shaul’ Khangsimna",
+          "before_verse": 29
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Benyamin in a tacil Bela, a nihna Ashbel, a thumna Aharah,"
+        },
+        {
+          "number": 2,
+          "text": "a lina Nohah, leh a ngana Rapha a nei hi."
+        },
+        {
+          "number": 3,
+          "text": "Bela’ tapate pen: Addar (Ard), Gera, Abihud,"
+        },
+        {
+          "number": 4,
+          "text": "Abishua, Naaman, Achoach,"
+        },
+        {
+          "number": 5,
+          "text": "Gerah, Shephuphan leh Huram ahi hi."
+        },
+        {
+          "number": 6,
+          "text": "Hihte pen Ehud’ tapate ahi hi—amaute aana-in Manahath ah a kituahsak uh ciangin Geba gam sunga a teng amau beh lutangte ahi uh hi:"
+        },
+        {
+          "number": 7,
+          "text": "Naaman, Ahiyah, leh amaute aana tawh a kituahsak Gera; Heglam,pen Uzza leh Ahihud’ pa ahi hi."
+        },
+        {
+          "number": 8,
+          "text": "Shaharaim in a zite Hushim leh Baara a sawlkhiat khit ciangin amah in Moab gam ah tapate a nei hi."
+        },
+        {
+          "number": 9,
+          "text": "A zi Hodesh tawh ama neih a tate pen: Yobab, Zibia, Mesha, Malcham,"
+        },
+        {
+          "number": 10,
+          "text": "Yeutz, Shachia, leh Mirmah ahi hi. Hihte pen ama tapa innkuan lutangte ahi uh hi."
+        },
+        {
+          "number": 11,
+          "text": "Amah in Hushim tawh ta Abitub leh Elpaal nei hi."
+        },
+        {
+          "number": 12,
+          "text": "Elpaal’ tapate pen: Eber, Misham; leh Ono leh Lod leh a kiima khuaneute a satpa Shamed ahi hi."
+        },
+        {
+          "number": 13,
+          "text": "Beriah leh Shema pen Aiyalon gama a teng amau beh lutangte ahi uh hi. Amaute in Gath mi a tengte notkhia uh hi."
+        },
+        {
+          "number": 14,
+          "text": "Ahio, Shashak, Yeremoth,"
+        },
+        {
+          "number": 15,
+          "text": "Zebadyah, Arad, Ader,"
+        },
+        {
+          "number": 16,
+          "text": "Michael, Ispah leh Yahcah-te pen Beriah’ tapate ahi hi."
+        },
+        {
+          "number": 17,
+          "text": "Zebadyah, Meshullam, Heziki, Heber,"
+        },
+        {
+          "number": 18,
+          "text": "Ishmerai, Yezliah leh Yobab pen Elpaal’ tapate ahi hi."
+        },
+        {
+          "number": 19,
+          "text": "Yakim, Zichri, Zabdi,"
+        },
+        {
+          "number": 20,
+          "text": "Al-Yahnai, Zilthai, Eliel,"
+        },
+        {
+          "number": 21,
+          "text": "Adayah, Berayah leh Shimrath-te pen Shimhi’ tapate ahi hi."
+        },
+        {
+          "number": 22,
+          "text": "Ishpan, Heber, Eliel,"
+        },
+        {
+          "number": 23,
+          "text": "Abdon, Zichri, Hanan,"
+        },
+        {
+          "number": 24,
+          "text": "Hananyah, Elam, Antothiyah,"
+        },
+        {
+          "number": 25,
+          "text": "Yiphdeyah leh Penuel-te pen Shashak’ tapate ahi uh hi."
+        },
+        {
+          "number": 26,
+          "text": "Shamsherai, Sheharyah, Athalyah,"
+        },
+        {
+          "number": 27,
+          "text": "Yareshyah, Yliyah leh Zichri-te pen Yeroham’ tapate ahi uh hi."
+        },
+        {
+          "number": 28,
+          "text": "Hihte pen Yerusalem-a teng ukpite, amau khang tawh kizui-in beh lutangte ahi uh hi."
+        },
+        {
+          "number": 29,
+          "text": "Gibeon’ pa pen Gibeon ah teng a, a zi’ min pen Maacah ahi hi."
+        },
+        {
+          "number": 30,
+          "text": "A tapa upenpa Abdon, tua khit ciangin Zur, Kish, Baal, Nadab,"
+        },
+        {
+          "number": 31,
+          "text": "Gedor, Ahio, Zacher,"
+        },
+        {
+          "number": 32,
+          "text": "leh Shimeah’ pa Mikloth ahi hi. Yerusalem ah a kinaipihte leh a sanggamte tawh a teng khawm uh hi."
+        },
+        {
+          "number": 33,
+          "text": "Ner’ ta Kish, Kish’ ta Shaul hi a, Shaul’ ta Yahnathan, Malchishua, Abinadab (Yishui) leh Esh-Baal (Ishbosheth) ahi hi."
+        },
+        {
+          "number": 34,
+          "text": "Yahnathan’ tapa pen Merib-Baal (Mephibosheth) hi a, Merib-Baal (Mephibosheth) in ta Micahyah a nei hi."
+        },
+        {
+          "number": 35,
+          "text": "Micahyah’ tapate pen Pithon, Melech, Tarea leh Ahaz ahi hi."
+        },
+        {
+          "number": 36,
+          "text": "Ahaz in ta Yahadah nei-in Yahadah in ta Alemeth, Azmaveth leh Zimri a nei hi; Zimri in ta Moza nei hi;"
+        },
+        {
+          "number": 37,
+          "text": "Moza in ta Binea nei hi; a tapa Rephayah, a tapa Eleasah, a tapa Azel ahi hi."
+        },
+        {
+          "number": 38,
+          "text": "Azel in tapa guk nei a tuate min pen: Azrikam, Bocheru, Ishmael, Shearyah, Obadyah leh Hanan ahi hi. Hihte khempeuh pen Azel’ tapate ahi hi."
+        },
+        {
+          "number": 39,
+          "text": "A sanggampa Eshek’ tapate pen: a tacil Ulam, a nihna Yeush leh a thumna Eliphelet ahi hi."
+        },
+        {
+          "number": 40,
+          "text": "Ulam’ tapate pen thalkapsiam galhangte ahi uh hi. Amaute in tapa leh tupa tampi nei a—a vekpi-in za le sawmnga pha hi. Hihte pen Benyamin’ suante khempeuh ahi hi."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Babylon panin Hong Ciahkikte",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Shaul’ Khangsimna",
+          "before_verse": 35
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Israyl kumpite laibu sunga khang ciaptehna sungah Israyl khempeuh kigual hi. Ahih hangin amau thupalsatnate hangin Babylon ah Yahdah mite salin kikai hi."
+        },
+        {
+          "number": 2,
+          "text": "Tu-in amau neihsa amau khuapite ngiat ah a tengkik masate pen Israyl-te, Siampite, Levi-te leh Nethinim-te ahi uh hi."
+        },
+        {
+          "number": 3,
+          "text": "Yerusalem ah Yahdah mite, Benyamin mite leh Ephraim leh Menasheh mite teng uh hi. Amaute pen:"
+        },
+        {
+          "number": 4,
+          "text": "Yahdah’ tapa Perez, a suanlekhakte pana Bani, a tapa Imri, a tapa Omri, a tapa Ammihud, a tapa Uthai ahi hi."
+        },
+        {
+          "number": 5,
+          "text": "Shilon mite panin: a tacil Asayah leh a tapate ahi hi."
+        },
+        {
+          "number": 6,
+          "text": "Zerah mite panin: Yeuel. Yahdah mite 690 pha uh hi."
+        },
+        {
+          "number": 7,
+          "text": "Benyamin mite panin: Sallu’ pa Meshullam, Hodayah’ tapa, Hasenuah’ tapa ahi hi;"
+        },
+        {
+          "number": 8,
+          "text": "Yeroham’ tapa Yibneyah, Uzzi’ tapa Elah, Michri’ tapa Uzzi ahi hi; Meshullam’ pa Shephatyah, Reuel’ tapa, Yibniyah’ tapa ahi hi."
+        },
+        {
+          "number": 9,
+          "text": "Benyamin mite panin amau khangthu sunga a kigual mi 956 pha hi. A nuai-a-te mite pen amau beh sunga a pa’ innkuan ukpite ahi uh hi—"
+        },
+        {
+          "number": 10,
+          "text": "Siampite lak panin: Yedayah, Yahyarib, Yachin,"
+        },
+        {
+          "number": 11,
+          "text": "Azaryah’ pa Hilkiyah, amah pen Meshullam’ tapa, Zadok’ tapa, Merayoth’ tapa, Yahweh’ Inn-a thunei ulianpa Ahitub’ tapa ahi hi."
+        },
+        {
+          "number": 12,
+          "text": "Tua banah Adayah’ pa Yeroham, amah pen Pashur’ tapa, Malchiyah’ tapa ahi hi; tua banah Maasai’ pa Adiel hi a, amah pen Yachzerah’ tapa, Meshullam’ tapa, Meshillemith’ tapa, Immer’ tapa ahi hi."
+        },
+        {
+          "number": 13,
+          "text": "Amau beh lutang ahi siampite leh amau sanggamte pen 1,760 pha uh hi. Amaute pen Yahweh’ Inn sunga biaknasepna-a vaipuakneite leh a sem theite ahi uh hi."
+        },
+        {
+          "number": 14,
+          "text": "Levi mite panin: Merari’ suante ahi Hashabyah, a tapa Azrikam, a tapa Hasshub, a tapa Shemayah hi a;"
+        },
+        {
+          "number": 15,
+          "text": "Bakbakkar, Heresh, Galal; tua ciangin Asaph’ tapa Zichri, a tapa Micahyah, a tapa Matanyah ahi hi;"
+        },
+        {
+          "number": 16,
+          "text": "Yeduthun’ tapa Gaial, a tapa Shemayah, a tapa Obadyah zong hi a, tua ciangin Netophath mite khuaneute-a teng Elkanah’ tapa Asa, a tapa Berechyah ahi hi."
+        },
+        {
+          "number": 17,
+          "text": "Kulhkong cingte pen: Shallum, Akkub, Talmon leh Ahiman hi a, tua ciangin amau sanggampa Shallum pen a ukpi ahi hi;"
+        },
+        {
+          "number": 18,
+          "text": "amah pen tu dongin ni suahna lama kumpipa’ khulhkongpi cingpa ahi hi. Hihte pen Levi mite neihsa giahphual kongpi cingte ahi uh hi—"
+        },
+        {
+          "number": 19,
+          "text": "a pu a pate uh pen Yahweh omna mun lutna a cing dingin vaipuak neite hi uh ahih manin Korah’ tapa Ebyasaph, a tapa Kore, a tapa Shallum leh a pa’ innkuan panin Korah mi ama naseppih kongcingte in biakbuk mun buppi-a a sangkilte a cingte ahi uh hi."
+        },
+        {
+          "number": 20,
+          "text": "A beisa hun masa lai-in Eleazar’ tapa Phinehas pen amaute tungah ulianin om a, Yahweh in amah a ompih hi."
+        },
+        {
+          "number": 21,
+          "text": "Meshelemyah’ tapa Zecharyah pen Kikhopna Puanbuk lutna-a kongcing ahi hi."
+        },
+        {
+          "number": 22,
+          "text": "Sangkilte ah kong cing dingin a kiteel khempeuh pen 212 pha hi. Amaute pen a khuaneute-a khangsimna ah kiciamteh hi. David leh thumupa Samuyl in amau panmun tekah amaute a seh hi."
+        },
+        {
+          "number": 23,
+          "text": "Tua hi a, amaute leh a suanlekhakte uh pen puanbuk inn a deidei zui-in Yahweh’ Inn-a kongpite a cingte ahi uh hi."
+        },
+        {
+          "number": 24,
+          "text": "Ni suahna, ni tumna, leilu lam leh leitaw lam, a pang lite ah kongcingte a kiseh hi."
+        },
+        {
+          "number": 25,
+          "text": "Amau khuaneute sunga om a sanggamte uh pen ni sagih sung a om dingin, a hunhunin a paitoh uh kul hi."
+        },
+        {
+          "number": 26,
+          "text": "Hih a kiseh zum ah Levi mi kongcing ukpi li om hi. Amaute in Yahweh’ Inn-a inndeite leh van manpha koihnate ah vaipuak len uh hi."
+        },
+        {
+          "number": 27,
+          "text": "Amaute in a cin loh uh phamawh ahih manin Yahweh’ Inn kiimkot-a a kiseh munah a giak uh hi. Amaute in zingsang sima kong honna tawhtang zong a uk uh hi."
+        },
+        {
+          "number": 28,
+          "text": "Amaute pawlkhat in biakpiakna-a nazatte ah kemcing uh hi. Amaute in tuate a kipusuah ciangin simin a kisungtum ciangin a sim uh hi."
+        },
+        {
+          "number": 29,
+          "text": "Adangte in tutphah sabuaite leh munsiangtho-a adang nazatte khempeuh a don dingin kiseh a, annel, leenggahzu, sathau, paknamtui leh gimnamtuite zong ahi hi."
+        },
+        {
+          "number": 30,
+          "text": "Adang siampite in gimnamtuite helin a bawl uh hi."
+        },
+        {
+          "number": 31,
+          "text": "Korah mi Shallum tacil Levi-te ahi Mattithyah pen sikbeel dai sunga ki-em nate a uk dingin a kiseh hi."
+        },
+        {
+          "number": 32,
+          "text": "Kohath mi lak panin kimkhat pen Shabbat sima sabuai tungah ompihna anlum bawl ding vaipuak neite ahi uh hi."
+        },
+        {
+          "number": 33,
+          "text": "Levi innkuan lutangte ahi tumging tum siamte pen Yahweh’ Inn-a inndeite ah om uh a, nasep dangte panin a peng uh hi; bang hang hiam cihleh amaute in tua nasep pen sun leh zanin sem uh hi."
+        },
+        {
+          "number": 34,
+          "text": "Hihte khempeuh pen amau khangsimna sunga kigual Levi gui innkuan lutangte hi a, Yerusalem a teng uh hi."
+        },
+        {
+          "number": 35,
+          "text": "Gibeon’ pa Yehiel pen Gibeon ah a teng hi. A zi’ min pen Maacah ahi hi."
+        },
+        {
+          "number": 36,
+          "text": "A tapa upapen Abdon hi a, tua khit ciangin Zur, Kish, Baal, Ner, Nadab,"
+        },
+        {
+          "number": 37,
+          "text": "Gedor, Ahio, Zecharyah (Zecher) leh Mikloth ahi hi."
+        },
+        {
+          "number": 38,
+          "text": "Mikloth in ta Shimeam a nei hi. Amaute zong Yerusalem ah a sanggam a kinaipihte uh tawh a teng khawm uh hi."
+        },
+        {
+          "number": 39,
+          "text": "Ner in ta Kish nei a, Kish in ta Shaul nei hi; Shaul in ta Yahnathan, Malchishua, Abinadab leh Esh-Baal (Ishbosheth) nei hi."
+        },
+        {
+          "number": 40,
+          "text": "Yahnathan’ tapa pen Merib-Baal (Mephibosheth) hi a, Merib-Baal (Mephibosheth) in ta Micahyah nei hi."
+        },
+        {
+          "number": 41,
+          "text": "Micahyah’ tapate pen Pithon, Melech, Tarea leh Ahaz ahi hi."
+        },
+        {
+          "number": 42,
+          "text": "Ahaz in ta Yarah (Yahadah) nei a, Yarah (Yahadah) in ta Alemeth, Azmaveth leh Zimri nei hi. Zimri in tapa Moza nei hi."
+        },
+        {
+          "number": 43,
+          "text": "Moza in tapa Binea nei a, Binea in tapa Rephayah (Raphah) nei hi. A tapa Eleasah hi a, a tapa Azel ahi hi."
+        },
+        {
+          "number": 44,
+          "text": "Azel in tapa guk nei a, hihte pen amau minte ahi hi: Azrikam, Bocheru, Ishmael, Shearyah, Obadyah leh Hanan ahi hi. Hihte pen Azel’ tapate ahi hi."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Shaul leh A Tapa Sihna",
+          "before_verse": 1
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tu-in Philistia-te in Israyl sim a, Philistia-te mai panin Israyl mite taimangin Gilboa Mual tungah tampi a kithatlum hi."
+        },
+        {
+          "number": 2,
+          "text": "Philistia-te in Shaul leh a tapate pha uh a, amaute in a tapate ahi: Yahnathan, Abinadab leh Malchishua-te a that uh hi."
+        },
+        {
+          "number": 3,
+          "text": "Shaul kiimkot ah kidona nasia lua hi. thal tawite in kapin amah a liam hi."
+        },
+        {
+          "number": 4,
+          "text": "Tua ciangin Shaul in a galvan puapa thupia-in, “Na namsau dok inla tua tawh hong dawtlet in, tua bang ahih keileh hih vun-at loh mite hong pai-in bawlsia ding uh hi,” a ci hi. Ahih hangin a galvan puapa lau-in a hih ngam kei hi. Tua ahih ciangin Shaul in namsau khat la-in, tua tungah a puksuk hi."
+        },
+        {
+          "number": 5,
+          "text": "A galvan puapa in Shaul sihna a muh ciangin, amah zong ama namsau tungah pukin a si hi."
+        },
+        {
+          "number": 6,
+          "text": "Shaul, a tapa thumte leh a innkuan khempeuh a si khawm uh hi."
+        },
+        {
+          "number": 7,
+          "text": "Kuam sunga om Israyl mi khempeuh in galkapte a taimang lam, Shaul leh a tapate a sih khit lam a theih uh ciangin, amaute in a khuapite uh nusia-in a taimang uh hi. Tua ciangin Philistia-te hong pai-in tua khuapite ah a teng uh hi."
+        },
+        {
+          "number": 8,
+          "text": "A zingciangin misite’ van lasak dingin Philistia-te a pai uh ciangin, Gilboa Mual tungah Shaul leh a tapa thumte a sisa-in a mu uh hi."
+        },
+        {
+          "number": 9,
+          "text": "Amaute in a vante hawkkhia-in a lutang leh a galvan la uh a, tua ciangin a pasiante leh a mite lakah thuthak a tangko dingin Philistia-te gam sung khempeuh ah kamtaite a sawl uh hi."
+        },
+        {
+          "number": 10,
+          "text": "Amau pasiante (elohim) biakinn sungah Shaul’ galvan koihin, Dagon biakinn sungah a lutang a suang uh hi."
+        },
+        {
+          "number": 11,
+          "text": "Ahih hangin Philistia-te in Shaul tunga a bawlna khempeuh uh Yabesh Gilead khempeuh in a zak uh ciangin,"
+        },
+        {
+          "number": 12,
+          "text": "A galhang khempeuh pai a, Shaul leh a tapate’ luanghawmte la-in Yabesh ah a pua uh hi. Tua khit ciangin amaute in Yabesh-a singkung lianpi nuai khat ah a guhte uh vui-in, tua ciangin ni sagih sung an a tang uh hi."
+        },
+        {
+          "number": 13,
+          "text": "Yahweh tungah a gamtat khialhna hangin Shaul si hi; bang hang hiam cihleh amah in Yahweh’ Thukham zui loin lamlak dingin vankah khat thu dong a—"
+        },
+        {
+          "number": 14,
+          "text": "Yahweh’ kiangah thu a dong kei hi. Hih thute hangin Yahweh in amah that a, Yishai’ tapa David tungah kumpi-gam kihei hi."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "headings": [
+        {
+          "level": 1,
+          "text": "David Kumpi Suahna",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "David in Zion La",
+          "before_verse": 4
+        },
+        {
+          "level": 1,
+          "text": "David’ Mi Thahatte",
+          "before_verse": 10
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tua ciangin Hebron-a David kiangah Israyl khempeuh pai-in, “Kote pen na guh leh na satak ahi uh hi."
+        },
+        {
+          "number": 2,
+          "text": "A beisa hunin Shaul kumpi a hih lai-in nang pen Israyl kuankhiatpih ciahkikpihin a makaihpa na hi hi. Yahweh na Pa in nangma tungah, ‘Nangmah in Ka mi Israyl-te tuucin bangin na cing ding a, tua ciangin Ka mi Israyl-te a ukpa na suak ding hi,’ hong ci hi,” a ci uh hi."
+        },
+        {
+          "number": 3,
+          "text": "Tua ahih ciangin Hebron-a kumpipa kiangah Israyl upate khempeuh pai a, tua ciangin David in amaute tawh Yahweh mai Hebron ah thuciamna khat a bawl hi. Tua ciangin Samuyl tungtawna Yahweh’ kammal tawh kizui-in amaute in Israyl tungah kumpi-in David sathau nilh uh hi."
+        },
+        {
+          "number": 4,
+          "text": "Tua ciangin tua gama teng Yebus mite a tenna Yebus zong a kici Yerusalem ah David leh Israyl khempeuh a pai uh hi."
+        },
+        {
+          "number": 5,
+          "text": "Amaute in David kiangah, “Hih lai-ah hong pai kei in,” a ci uh hi. Ahih hangin David in Zion mun muanhuai a la hi(tua pen David Khuapi ahi hi.)."
+        },
+        {
+          "number": 6,
+          "text": "David in, “Yebus-te a sim masa peuhmah galkap mang lianpen hi ding hi,” a ci hi. Tua ahih ciangin Zeruyah’ tapa Yahab kuanto masa a, tua ciangin David’ galkap mangpa a suak hi."
+        },
+        {
+          "number": 7,
+          "text": "Mun muanhuai sungah David teng hi; tua ahih ciangin amaute in tua pen David Khuapi a ci uh hi."
+        },
+        {
+          "number": 8,
+          "text": "Amah in Millo panin kulhpi kiimkot dong tua kiim ah khuapi lam a, khuapi a omlai teng Yahab in a puahkik hi."
+        },
+        {
+          "number": 9,
+          "text": "Vanglianpen Yahweh in amah ompih ahih manin David thahat semsem hi."
+        },
+        {
+          "number": 10,
+          "text": "Tu-in hihte pen David’ mi a thahat ukpite ahi hi. Yahweh ciamsa bang teekteekin Israyl khempeuh tawh kop amaute in gam buppi ama kumpi-gam a zai nadingin khauh takin a huh uh hi."
+        },
+        {
+          "number": 11,
+          "text": "Hih pen David’ mi thahat phazah ahi hi: Hachmon mi khat’ tapa Yashobam pen galkap bute ukpa ahi hi. Amah in mi zathum langah a teipi liikin hun khat sungin amau teng a that hi."
+        },
+        {
+          "number": 12,
+          "text": "Ama khit ciangin Ahoh mi Dodai’ tapa Eleazar hi a, amah pen mi thahat thumte lakah khat ahi hi."
+        },
+        {
+          "number": 13,
+          "text": "Amah pen Pasdammim ah David tawh a om hi. Tua lai-ah Philistia-te galsim dingin kikhawm uh a, mangbuh-ham a dimna lo khat a omna mun, Philistia-te kiang panin Israyl mite a taikek uh hi."
+        },
+        {
+          "number": 14,
+          "text": "Ahih hangin amaute in a lo laizang ah mun la-in nang teitei-in Philistia-te a that uh hi. Yahweh in amaute hotkhiatna lianpi a pia hi."
+        },
+        {
+          "number": 15,
+          "text": "Philistia galkapte in Rephaim-a Khuam sungah giahphual a sat lai-un Adullam kuahawm-a suangpi ah ukpi sawmthum lak panin thum a paisuk uh hi."
+        },
+        {
+          "number": 16,
+          "text": "Mun muanhuai ah David om a, Philistia galvilte in Bethlehem ah mun a la uh hi."
+        },
+        {
+          "number": 17,
+          "text": "David in lunggulhna tawh thugenin, “Aw, Bethlehem kongpi gei-a tuikhuk panin dawn ding tui khatpeuh in hong pia leh ut sing maw!” a ci hi."
+        },
+        {
+          "number": 18,
+          "text": "Tua ahih ciangin thumte in Philistia-te galpanna phuletin Bethlehem kongpi kianga tuikhuk panin tui khai-in, David kiangah a puak uh hi. Ahih hangin David a dawn nuam kei hi. Amah in Yahweh kiangah tua tui sung a,"
+        },
+        {
+          "number": 19,
+          "text": "“Yahweh aw, hih tui ka dawn peuhmah kei ding hi! Amau’ nuntakna khamin a pai mite’ sisan dawn ding ka hi hiam?” a ci hi. Tua ahih ciangin amah in tua tui a dawn nuam kei hi. Tuate pen mi thahat thumte hih ahi hi."
+        },
+        {
+          "number": 20,
+          "text": "Tu-in Yahab’ sanggampa Abishai pen adang Thumte ukpa ahi hi. Amah in mi zathum langah a teipi liikin amaute that a, tua ahih ciangin amah in hih Thumte lakah min a ngah hi."
+        },
+        {
+          "number": 21,
+          "text": "Hih thumte lak panin adang nihte sangin amah kizahtakzaw hi. Tua ahih ciangin amah pen amaute ukpa a suak hi. Ahi zongin amah pen a masa Thumte lakah kihel lo hi."
+        },
+        {
+          "number": 22,
+          "text": "Benayah pen Kabzeel pana galhang mi khat’ tapa Yahyada’ tapa hi a, na lianpi tampi a sem khat ahi hi. Amah in Moab-te’ galsiampen nih that hi. Vuk kiat ni khatin zong amah leihawm khatah kumsukin humpinelkai khat a that hi."
+        },
+        {
+          "number": 23,
+          "text": "Amah in cubit 5; pi sagih le alang kiim, a sang Egypt mi khat that hi. Egypt mipa in siam lawngpi tawh a kibang teipi khat a tawi hi. Ama kiangah Benayah khetbuk khat tawh kuansuk a, Egypt mipa khut panin a teipi bawhkhiatsakin, ama teipi mah tawh a that hi."
+        },
+        {
+          "number": 24,
+          "text": "Tuate pen Yahyada’ tapa Benayah hih na lianpite ahi hi. Amah pen mi thahat thumte zah manin minthang hi."
+        },
+        {
+          "number": 25,
+          "text": "Amah pen Sawmthumte khatpeuh sangin zahtakzaw a, ahih hangin amah pen Thumte lakah kihel lo hi. David in hih mipa pen amah a cingte ukpa dingin a koih hi."
+        },
+        {
+          "number": 26,
+          "text": "A galkap thahatte pen: Yahab’ sanggampa Asahel, Bethlehem panin Dodo’ tapa Elhanan;"
+        },
+        {
+          "number": 27,
+          "text": "Harori mi Shammoth, Pelon mi Helez,"
+        },
+        {
+          "number": 28,
+          "text": "Tekoa panin Ikkesh’ tapa Ira, Anathoth panin Abiezer,"
+        },
+        {
+          "number": 29,
+          "text": "Hushath mi Sibbechai, Ahoh mi Ilai,"
+        },
+        {
+          "number": 30,
+          "text": "Netophath mi Maharai, Netophath mi Baanah’ tapa Heied,"
+        },
+        {
+          "number": 31,
+          "text": "Benyamin gam Gibeah pana Ribai’ tapa Ithai, Pirathon mi Benayah,"
+        },
+        {
+          "number": 32,
+          "text": "Gaash Luite panin Hurai, Arbath mi Abiel,"
+        },
+        {
+          "number": 33,
+          "text": "Bahurum mi Azmaveth, Shaalbon mi Eliahba,"
+        },
+        {
+          "number": 34,
+          "text": "Gizon mi Hashem’ tapate, Harari mi Shageh’ tapa Yahnathan,"
+        },
+        {
+          "number": 35,
+          "text": "Harari mi Sacar’ tapa Ahiham, Ur’ tapa Eliphal,"
+        },
+        {
+          "number": 36,
+          "text": "Mecherath mi Hepher, Pelon mi Ahiyah,"
+        },
+        {
+          "number": 37,
+          "text": "Carmel mi Hezro, Ezbai’ tapa Naarai,"
+        },
+        {
+          "number": 38,
+          "text": "Nathan’ sanggampa Yahyl, Hagri’ tapa Mibhar,"
+        },
+        {
+          "number": 39,
+          "text": "Ammon mi Zelek, Zeruyah’ tapa Yahab’ galvan puapa Beeroth mi Naharai,"
+        },
+        {
+          "number": 40,
+          "text": "Ithri mi Ira, Ithri mi Gareb,"
+        },
+        {
+          "number": 41,
+          "text": "Hit mi Uriyah, Ahlai’ tapa Zabad,"
+        },
+        {
+          "number": 42,
+          "text": "Reuben mi Shiza’ tapa Adina (Reuben mite’ makai khat ahi hi) leh amah tawh a om mi sawmthum,"
+        },
+        {
+          "number": 43,
+          "text": "Maachah’ tapa Hana, Mithni mi Yahshaphat,"
+        },
+        {
+          "number": 44,
+          "text": "Ashterath mi Uzzyah, Aroer mi Hotham tapate ahi Shama leh Yeiel,"
+        },
+        {
+          "number": 45,
+          "text": "Shimri’ tapa Yediael, leh a sanggampa Tiz mi Yahcha,"
+        },
+        {
+          "number": 46,
+          "text": "Mahav mi Eliel, Einaam’ tapate ahi Yeribai leh Yoshayah, Moab mi Ithmah,"
+        },
+        {
+          "number": 47,
+          "text": "Mesoba mi Eliel, Obed leh Yasiel ahi hi."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Ziklag-a David a Huhte",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Hebron-a David’ Galkapte",
+          "before_verse": 23
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hihte pen Kish’ tapa Shaul kiang panin amah galtai-in a om lai sungin Ziklag-a David kiangah hong pai mite ahi uh hi. Amaute pen gal kidona sungah amah a huh galhangte laka a kihelte ahi uh hi."
+        },
+        {
+          "number": 2,
+          "text": "Amaute in thal tawi-in, thaltang kap ahi a, suang lot ahi zongin a vei leh a tak uh zang thei uh hi—amaute pen Benyamin minam pana Shaul kinaipihte ahi uh hi:"
+        },
+        {
+          "number": 3,
+          "text": "Gibeath mi Shemaah’ tapate ahi a masa Ahiezer hi a, tua ciangin Yahash, Azmaveth’ tapate Yeziel leh Pelet, Anathoth mi Berachah leh Yahu,"
+        },
+        {
+          "number": 4,
+          "text": "Sawmthumte laka mi thahat Sawmthumte’ makaipa ahi Gibeon mi Ishmayah; Yeremyah, Yachaziel, Yahchanan leh Gederath mi Yahzabad;"
+        },
+        {
+          "number": 5,
+          "text": "Eluzai, Yerimoth, Melekyah, Shemaryah leh Haruph mi Shephatyah;"
+        },
+        {
+          "number": 6,
+          "text": "Korah mi Elkanah, Yishiyah, Azareel, Yahezer leh Yashobeam;"
+        },
+        {
+          "number": 7,
+          "text": "Gedor-a Yeroham’ tapate ahi Yoelah leh Zebadyah ahi hi."
+        },
+        {
+          "number": 8,
+          "text": "Sehnel gam sung mun muanhuai-a David kiangah Gad mi pawlkhat a pai uh hi. Amaute pen galhang galsiamte, galdoz-a a sinsate, lum leh tei a tawi theite ahi uh hi. Amau maitangte pen humpinelkai’ maitang bang hi a, amaute pen mualtung gama sazukpi bangin a manlang zialzial uh hi."
+        },
+        {
+          "number": 9,
+          "text": "A masa Ezer, a nihna Obadyah, a thumna Eliab,"
+        },
+        {
+          "number": 10,
+          "text": "a lina Mishmannah, a ngana Yeremyah,"
+        },
+        {
+          "number": 11,
+          "text": "a gukna Attai, a sagihna Eliel,"
+        },
+        {
+          "number": 12,
+          "text": "a giatna Yahchanan, a kuana Elzabad,"
+        },
+        {
+          "number": 13,
+          "text": "a sawmna Yeremyah, leh a sawm le khatna Machbanai ahi hi."
+        },
+        {
+          "number": 14,
+          "text": "Hih mite Gad minam pana mite hi a, galkap bute ahi uh hi. Amaute sunga a neupen khat nangawn mi zakhat tawh kikim a, a lianpen ciangin tul khat tawh a kikim hi."
+        },
+        {
+          "number": 15,
+          "text": "Hihte pen Yardan gun a piau dimletin a luan lai-in kuamte sunga a teng mi khempeuh ni suahna lam, ni tumna lam ah a taikeksak, Kha Masa kha sunga Yardan a kantan mite ahi uh hi."
+        },
+        {
+          "number": 16,
+          "text": "Tua ciangin mun muanhuai-a David kiangah Benyamin leh Yahdah mi adangte a pai uh hi."
+        },
+        {
+          "number": 17,
+          "text": "Amaute mai-ah David hong pai-in amaute kiangah, “Kei hong huh dingin thu hoih-a hong pai na hih uh leh, ka lungsim pen no aa tawh khat hi ding hi. Ahih hangin ka khut ah sisan banglo napi-in kei hong lehhekin ka galte tungah a pia dinga hong pai na hih uh leh, Yahweh i pate’ Pa in hih thu mu tahen la, thu hong khen tahen!” a ci hi."
+        },
+        {
+          "number": 18,
+          "text": "Tua ciangin Sawmthumte a ukpa Amasai tungah Kha hong tung a, amah in, “David aw, Kote nang aa ka hi uh hi! Yishai’ tapa aw, kote nang tawh ka hi uh hi! Shalom! Nangma tungah Shalom; nangma tungah nopna om tahen! Yahweh in nang hong huh ahih manin nang hong huhte tungah Shalom!” a ci hi. Tua ahih ciangin David in amaute sang a, ama galsim honte maikai-in a omsak hi."
+        },
+        {
+          "number": 19,
+          "text": "Shaul sim dingin Philistia mite tawh a kuan lai-in Menasheh minam laka mi pawlkhat in David a beel uh hi. (Amaute in hih gal sungah Philistia-te huh lo uh hi; bang hang hiam cihleh Philistia gam-ukte kikumin, tua khit ciangin amah sawl khia uh a, “Amah in a ukpa Shaul lam pawlpihin, i lutangte hong la kha ding hi,” a ci uh hi.)"
+        },
+        {
+          "number": 20,
+          "text": "Ziklag ah David a pai ciangin ama kiangah a pai Menasheh mite hihte ahi hi: Menasheh minam sunga a tultul ukte Adnah, Yahzabad, Yediael, Michael, Yahzabad, Elihu, leh Zillethai ahi hi."
+        },
+        {
+          "number": 21,
+          "text": "Amaute khempeuh pen galhangte leh amau galkap sunga galkap bute hi uh ahih manin mi buluh pawlte kiang panin David a huh uh hi."
+        },
+        {
+          "number": 22,
+          "text": "Yahweh’ galkapte bangin amah in galkap honpi khat a neih dongin ni khat khit ni khat David a beel dingin mi a paipai uh hi."
+        },
+        {
+          "number": 23,
+          "text": "Hihte pen Yahweh’ kammal bangin ama tungah Shaul kumpigam hei dingin Hebron-a David a pawlpih, galdo dingin galvan tawh a kithawi mi phazah ahi hi:"
+        },
+        {
+          "number": 24,
+          "text": "Yahdah’ suante panin lum leh tei a tawi galsim dinga kithawisa mi 6,800 ahi hi."
+        },
+        {
+          "number": 25,
+          "text": "Simeon’ suante panin galsim dingin a kigingsa galhang mi 7,100 pha hi."
+        },
+        {
+          "number": 26,
+          "text": "Levi’ suante panin mi 4,600 pha a,"
+        },
+        {
+          "number": 27,
+          "text": "amaute lakah Aaron innkuan makaipa Yahyada tawh mi 3,700 kihelin,"
+        },
+        {
+          "number": 28,
+          "text": "khangno galhang Zadok leh ama siampi innkuan panin ukpi 22 tawh ahi hi."
+        },
+        {
+          "number": 29,
+          "text": "Benyamin’ suante panin , Shaul kinaipih mi 3,000 pha hi. (Tua hun dongin amaute a tamzaw pen Shaul innkuan aa dingin a citak uh hi.)"
+        },
+        {
+          "number": 30,
+          "text": "Ephraim’ suante panin galhang a pate’ beh sunga a minthang mi 20,800 pha hi."
+        },
+        {
+          "number": 31,
+          "text": "Menasheh minam-alang’ suante panin David kumpi a suaksak ding leh a pai dingin a minin a kilo mi 18,000 pha hi."
+        },
+        {
+          "number": 32,
+          "text": "Isacchar’ suante panin Israyl-te ding a kilawmte thei-in buaina hunte a thei ukpi 200 leh amau khutnuai-a a sanggamte khempeuh tawh ahi hi."
+        },
+        {
+          "number": 33,
+          "text": "Zebulun’ suante panin lungsim kikhatin David a huh dingin galvan nam khempeuh tawh a kigingsa galkap 50,000 ahi hi."
+        },
+        {
+          "number": 34,
+          "text": "4 Naphtali’ suante panin galkap bu 1,000 leh lum leh tei a tawi a mi 37,000 tawh ahi hi."
+        },
+        {
+          "number": 35,
+          "text": "Dan’ suante panin galsim dingin a kigingsa mi 28,600 ahi hi."
+        },
+        {
+          "number": 36,
+          "text": "Asher’ suante panin gal a sim thei pah ding gal a sim ngei galkap 40,000 ahi hi."
+        },
+        {
+          "number": 37,
+          "text": "Reuben, Gad leh Yardan ni suahna lampang gam pana Menasheh minam-alang-te’ suante panin galvan nam khempeuh tawh a kithawisa gal a kuan thei pah ding mi 120,000 pha hi."
+        },
+        {
+          "number": 38,
+          "text": "Hih galkapte khempeuh in amau’ za tawh kituakin a lungsim khempeuh uh tawh na a sem uh hi. Israyl khempeuh tungah David kumpi a suaksak dingin Hebron ah amaute hong pai uh hi. A omlai Israyl khempeuh in zong David kumpi dingin lungsim kikhat uh hi."
+        },
+        {
+          "number": 39,
+          "text": "Amau innkuanpihte in nekledawn sik ahih manin tua lai-ah David tawh ni thum sung an ne tui dawnin om uh hi"
+        },
+        {
+          "number": 40,
+          "text": "Tua banah Issachar, Zebulun leh Naphtali gam pek pana a sanggamte in laate, kalaohte, laa-sakolte leh bawngtalte tungah an pua kawmin a pai uh hi. Annel lam-ante, theimohte, leenggah keu, leenggahzu, sathau, bawngtalte leh tuute tampitak a om hi; tua hi a, Israyl sungah lungnopna a om hi."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Thukham Singkuang",
+          "before_verse": 1
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "David in a uliante khempeuh, a tultul ukte, leh a zaza ukte thu a kuppih hi;"
+        },
+        {
+          "number": 2,
+          "text": "Tua ciangin David in Israyl mihon khempeuh kiangah, “Note in hi nasak uh a, Yahweh i Pa deihna ahih leh, eite tawh amaute hong kituahkhop theih nadingin Israyl gam sung khempeuh-a i sanggamte kiang leh a khuapite leh a neihkhop-gamte-a a teng siampite leh Levi-te kiangah kamtaite sawl ni."
+        },
+        {
+          "number": 3,
+          "text": "Eite kiangah i Pa’ singkuang puakik ni; bang hang hiam cihleh eite in Shaul uk huna kipanin tua tengah thu i dong nai kei hi,” a ci hi."
+        },
+        {
+          "number": 4,
+          "text": "Mi khempeuh in tua thu hoihsa ahih manin mihon khempeuh in sep ding a thukim uh hi."
+        },
+        {
+          "number": 5,
+          "text": "Tua ahih ciangin David in Kiryath Yearim panin Yahweh’ singkuang a puak theih nadingin Egypt-a Shihor panin Hamath lutna ciang donga Israyl mi khempeuh a khawm hi."
+        },
+        {
+          "number": 6,
+          "text": "Ama Min-a kisam singkuang—cherub-te kikala a teng Pa Yahweh’ singkuang a la dingin Yahdah gam Baalah (Kiryath Yearim) ah David leh Israyl khempeuh a paito uh hi."
+        },
+        {
+          "number": 7,
+          "text": "Amaute in Abinadab’ inn panin leeng thak khat tawh Yahweh’ singkuang puakhia a, Uzzah leh Ahio in leeng a hawl uh hi."
+        },
+        {
+          "number": 8,
+          "text": "David leh Israyl mi khempeuh in Yahweh mai-ah lasaknate, harp-te, zither-te, daltuahte leh peengkulte tawh a tha neih zahun gualnopna a bawl uh hi."
+        },
+        {
+          "number": 9,
+          "text": "Chidon (Nachon) ancilna phual ah a tun uh ciangin, a bawngtalte muktu ahih manin singkuang a lenkip dingin Uzzah in a khut tawh a zam hi."
+        },
+        {
+          "number": 10,
+          "text": "Ahih hangin Uzzah tungah Yahweh heh a, amah in singkuang tungah a khut koih ahih manin Amah in satin, tua lai mun Yahweh mai-ah a si hi."
+        },
+        {
+          "number": 11,
+          "text": "Ahih hangin Uzzah tunga Yahweh’ puakkhap vatna hangin David a hehsuak hi. Tua mun pen tuni dongin Peretz Uzzah; Uzzah tunga Puakkhapna, a kici hi."
+        },
+        {
+          "number": 12,
+          "text": "Tua ni-in David in Yahweh kihta a, “Bangci bangin kei kiangah Yahweh’ singkuang paipih thei ding ka hi hiam?” a ci hi."
+        },
+        {
+          "number": 13,
+          "text": "Tua ahih ciangin David in David’ Khuapi sungah amah tawh a paipih kei hi. Amah in Gath mi Obed-Edom inn sungah a va koih hi."
+        },
+        {
+          "number": 14,
+          "text": "Obed-Edom innkuan tawh ama inn sungah Yahweh’ singkuang kha thum a om hi. Tua ciangin Yahweh in Obed-Edom innkuan leh ama neih khempeuh thupha a pia hi."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Hiram in David a Theihna",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Yerusalem-a David’ Tate",
+          "before_verse": 3
+        },
+        {
+          "level": 1,
+          "text": "David in Philistia-te Zo",
+          "before_verse": 8
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tyre kumpipa Hiram in David kiangah ama inn a lamsak dingin kamtaite tawh taamtak luangte, suang seeksate leh khutsiamte a sawl hi."
+        },
+        {
+          "number": 2,
+          "text": "Yahweh in Israyl-te tungah kumpi-in amah a kipsakna leh Ama mi Israyl-te hangin ama kumpigam nakpi takin a lapsangna David in a tel hi."
+        },
+        {
+          "number": 3,
+          "text": "Tua ciangin David in Yerusalem ah zi tampi lak beh a , tua ciangin David tapate tanute a neihbeh hi."
+        },
+        {
+          "number": 4,
+          "text": "Hihte pen Yerusalem-a a suak ama tapate’ minte ahi hi: Shammua, Shobab, Nathan, Solomon;"
+        },
+        {
+          "number": 5,
+          "text": "Ibhar, Ylishua (Ylishama), Ylpelet (Ylipelet),"
+        },
+        {
+          "number": 6,
+          "text": "Nogah, Nepheg, Yaphia,"
+        },
+        {
+          "number": 7,
+          "text": "Ylishama, Ylyada, leh Yliphelet ahi hi."
+        },
+        {
+          "number": 8,
+          "text": "Israyl khempeuh tungah kumpi-in David sathau a kinilhkhitna thu Philistia-te in a zak uh ciangin, David zongin Philistia galkap khempeuh a kuankhia uh hi."
+        },
+        {
+          "number": 9,
+          "text": "Philistia-te hong pai-in Rephaim Kuam a buluh uh hi."
+        },
+        {
+          "number": 10,
+          "text": "Tua ahih ciangin David in Yahweh thu dongin, “Philistia-te a do dingin ka kuanto ding hiam? Keima khut sungah amaute nong pia ding hiam?” ci-in a dong hi. Yahweh dawngin ama kiangah, “Kuan to in; bang hang hiam cihleh nang khut sungah amaute kong pia ding hi,” a ci hi."
+        },
+        {
+          "number": 11,
+          "text": "Tua ahih ciangin Baal Peretzim ah amaute a paito uh hi. David in tua lai-ah amaute zo a, “Tui phutkhap bang teekteekin Yahweh in ka mai panin ka galte a phukham hi,” a ci hi. Hih thu hangin amah in tua mun min pen Baal Peretzim; Topa in Phukham, ci-in a phuak hi."
+        },
+        {
+          "number": 12,
+          "text": "Philistia-te in tua lai-ah a pasiante (elohim) uh taisan a, David in thupia-in amaute in mei-in a hal uh hi."
+        },
+        {
+          "number": 13,
+          "text": "Philistia-te in kuam khatvei a buluh leuleu uh hi."
+        },
+        {
+          "number": 14,
+          "text": "Tua ahih ciangin David in Yahweh thu dongin, tua ciangin Yahweh in ama kiangah, “Tangtakin kuanto kei inla, amaute kiimkotah umin, lungli kungte mai-ah amaute do in,” a ci hi."
+        },
+        {
+          "number": 15,
+          "text": "Lungli kungte dawn ah kalsuanna huging na zak ciangin galsim dingin pai in; bang hang hiam cihleh Philistia-te giahphual a sat dingin note mai-ah Yahweh a kuan khin hi."
+        },
+        {
+          "number": 16,
+          "text": "Tua ahih ciangin Yahweh in amah thu a piaksa bangin David in hih a, tua ciangin amah in Geba panin Gazer ciang dong Philistia-te a lehnot uh hi."
+        },
+        {
+          "number": 17,
+          "text": "Tua ciangin David’ minthanna in gam khempeuh zel a, tua ciangin Yahweh in minam khempeuh kihtakin amah a bawl hi."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Yerusalem ah Singkuang Kipua",
+          "before_verse": 1
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "David in David Khuapi sungah ama aa dingin innte lam a, tua ciangin amah in Yahweh’ singkuang aa dingin mun khat bawlkholin, puanbuk khat a zal hi."
+        },
+        {
+          "number": 2,
+          "text": "Tua ciangin David in, “Levi mi lobuang kuamah in Yahweh’ singkuang pua lo ding hi; bang hang hiam cihleh Yahweh in Yahweh’ singkuang pua ding leh Ama mai-ah a tawntungin biakna sep a sem dingin amaute teelkhin hi,” ci-in thu a pia hi."
+        },
+        {
+          "number": 3,
+          "text": "Tua ahih ciangin David in ama bawlkholhsa mun ah Yahweh’ singkuang a paipih dingin Yarusalem ah Israyl khempeuh kaikhawm hi."
+        },
+        {
+          "number": 4,
+          "text": "David in Levi mi Aaron’ suante leh adang Levi-te khempeuh sam hi:"
+        },
+        {
+          "number": 5,
+          "text": "Kohath’ suante panin a makai Uriel leh a sanggamte 120;"
+        },
+        {
+          "number": 6,
+          "text": "Merari’ suante panin a makai Asayah leh a sanggamte 220;"
+        },
+        {
+          "number": 7,
+          "text": "Gershon’ suante panin a makai Yahyl leh a sanggamte 130;"
+        },
+        {
+          "number": 8,
+          "text": "Elizaphan’ suante panin a makai Shemayah leh a sanggamte 200;"
+        },
+        {
+          "number": 9,
+          "text": "Hebron’ suante panin a makai Eliel leh a sanggamte 80;"
+        },
+        {
+          "number": 10,
+          "text": "Uzziel’ suante panin a makai Amminadab leh a sanggamte 112 ahi hi."
+        },
+        {
+          "number": 11,
+          "text": "Tua khit ciangin David in Aaron gui siampite ahi Zadok leh Abiathar, leh Levi-te aa dingin Uriel, Asayah, Yahyl, Shemayah, Eliel leh Amminadab-te a sam hi."
+        },
+        {
+          "number": 12,
+          "text": "Amah in amaute kiangah, “Note pen Levi innkuan lutangte na hi uh hi. Ka bawlkholhsa mun ah Israyl’ Pa Yahweh’ singkuang na puaktoh theih nadingin no na hi a, na sanggamte khempeuh ahi zongin kisiansuah unla ki-ap un."
+        },
+        {
+          "number": 13,
+          "text": "Bang hang hiam cihleh a masa hun no Levi mite in na puaktoh lohna uh hang leh a ngeina banga puak dingzia Ama i dot lohna hangin Yahweh i Pa in eite tungah hong gimsak hi."
+        },
+        {
+          "number": 14,
+          "text": "Tua ahih ciangin Israyl’ Pa, Yahweh’ singkuang a puaktoh theih nadingun siampite leh Levi-te amau le amau kisiansuahin ki-ap uh hi."
+        },
+        {
+          "number": 15,
+          "text": "Kohath beh sunga Levi suante in Yahweh’ Thukham tawh kizui-in Mosheh hilhsa bang teekteekin a liangko uh tawh a puakna zawlte zangin Yahweh’ singkuang a pua uh hi."
+        },
+        {
+          "number": 16,
+          "text": "Tua ciangin David in Levi makaite hopih a, khausai tumgingte ahi: harp khausaite, zither khausaite; leh daltuahte zangin a lungdam huai phatna awte a sangsak lasate-in a sanggamte a seh nadingin a ngen hi."
+        },
+        {
+          "number": 17,
+          "text": "Tua ahih ciangin Levi-te in seh hi: Yahyl’ tapa Heman, Berechyah’ tapa Asaph, leh Merari panin Kushayah’ tapa Ethan leh amau tapate leh a sanggamte tawh ahi uh hi."
+        },
+        {
+          "number": 18,
+          "text": "Amaute tawh amau zoma a zalian amau sanggamte: Zecharyah, Ben, Yaaziel, Shemiramoth, Yehiel, Unni, Eliab, Benayah, Maaseyah, Mattithyah, Elipheleh, Mikneyah, Obed-Edom, leh Yeiel hi a, kongcingte ahi uh hi."
+        },
+        {
+          "number": 19,
+          "text": "Siampi lasak siam ukte pen: Heman, Asaph leh Ethan hi a, amaute pen sumngo daltuah gingsak dingte ahi uh hi."
+        },
+        {
+          "number": 20,
+          "text": "Zecharyah, Aziel, Shemiramoth, Yehiel, Unni, Eliab, Maaseyah leh Benayah-te in Alamoth siksanin harp khausai a tum dingte ahi uh hi."
+        },
+        {
+          "number": 21,
+          "text": "Mattithyah, Elipheleh, Mikneyah, Obed-Edom, Yeiel leh Azazyah-te in Sheminith siksanin zither khausaite a maikaih ding uh hi."
+        },
+        {
+          "number": 22,
+          "text": "Tumging makaipi Levi mi Chenanyah in lasakna uk ding hi; bang hang hiam cihleh amah pen tumging lam kiva mahmah hi."
+        },
+        {
+          "number": 23,
+          "text": "Berechyah leh Elkanah pen singkuang omna kongkhak cingte hi ding uh hi."
+        },
+        {
+          "number": 24,
+          "text": "Siampite: Shebanyah, Yahshaphat, Nethaneel, Amasai, Zecharyah, Benayah leh Eliezer in Yahweh’ singkuang mai-ah peengkulte muut; chatsotserot, ding uh hi. Obed-Edom leh Yechiyah-te zong singkuang omna kongkhak cingte ahi uh hi."
+        },
+        {
+          "number": 25,
+          "text": "Tua ahih ciangin Levi mi Obed-Edom inn panin Yahweh’ thuciamna singkuang lungdamna tawh a puato dingin David, Israyl upate leh a tultul ukte a pai uh hi."
+        },
+        {
+          "number": 26,
+          "text": "Yahweh’ thuciamna singkuang a pua Levi-te Yahweh in huh hi; tua ahih ciangin amaute in bawngtal sagih leh tuutal sagih biakna-in a pia uh hi."
+        },
+        {
+          "number": 27,
+          "text": "Lasate, lasa ukpipa Chenanyah leh singkuang a pua Levite khempeuh mah bangin saihadial puantualpi hoih khat David kisilhsak hi. David in saihadial siampi puan khat zong a silh hi."
+        },
+        {
+          "number": 28,
+          "text": "Hih bangin Israyl khempeuh in tuutal kite; shofarot, peengkulte; chatsotserot, daltuahte tawh lungdam otnate leh, harp khausaite leh zither khausai’ gingte tawh Yahweh’ thuciamna singkuang paipihto uh hi."
+        },
+        {
+          "number": 29,
+          "text": "David Khuapi ah Yahweh’ thuciamna singkuang a lut laitakin Shaul’ tanu Michal in tawllet khat panin a na en hi. Tuanu in lamin a gualnuama om Kumpi David mu a, tua ciangin amah in a lungsim sungah a neu-et hi."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "headings": [
+        {
+          "level": 1,
+          "text": "David’ Lungdamkohna La",
+          "before_verse": 7
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Amaute in Yahweh’ singkuang pua uh a, David in tua koih nadingin a lamsa biakbuk sungah a koih uh hi. Tua ciangin amaute in Yahweh mai-ah meihal biaknate leh kilemna biaknate a pia uh hi."
+        },
+        {
+          "number": 2,
+          "text": "David in meihal biaknate leh kilemna biaknate a piak khit ciangin, amah in Yahweh’ Min tawh mipite thupha a pia hi."
+        },
+        {
+          "number": 3,
+          "text": "Tua ciangin amah in pasal hitaleh numei hitaleh Israyl khempeuh tungah anlum khat, nisuh moh khat leh leenggah moh khat ciat a pia hi."
+        },
+        {
+          "number": 4,
+          "text": "Amah in Yahweh mai-ah biaknasep a sem ding, Israyl’ Pa Yahweh a phawksak ding, lungdam a ko ding leh a phat dingin Levi-te pawlkhat a seh hi. Amaute kiseh hi:"
+        },
+        {
+          "number": 5,
+          "text": "Asaf a ukpi hi a, tua khit ciangin ama nuai-a-te pen: Zecharyah, Yeiel, Shemiramoth, Yehiel, Mattithyah, Eliab, Benayah leh Obed-Edom hi a—Asaph in daltuah a ginsak ciangin amaute in harp khausaite leh zither khausai a tumte ahi uh hi."
+        },
+        {
+          "number": 6,
+          "text": "Siampite: Benayah leh Yachaziel in Yahweh’ thuciamna singkuang mai-ah a hunhunin peengkulte; chatsoseroth, muut uh hi."
+        },
+        {
+          "number": 7,
+          "text": "Tua ni, Yahweh tungah lungdam lasaknate a kipat hunin David in Asaph leh a sanggamte tungah hih lungdamkohna la a pia hi:"
+        },
+        {
+          "number": 8,
+          "text": "“Yahweh tungah lungdam unla Ama Min lo un! Minamte tungah Ama sepnate theisak un."
+        },
+        {
+          "number": 9,
+          "text": "Ama tungah la sa unla, Ama tungah phatna la sa un! Ama sep na lamdang khempeuh genin nei un!"
+        },
+        {
+          "number": 10,
+          "text": "Ama Min Siangtho hangin nuamin diang unla, Yahweh a zong mi khempeuh lungdam-kipaak uh hen!"
+        },
+        {
+          "number": 11,
+          "text": "Yahweh leh ama hatna kan unla, Ama maipha zong tawntung un!"
+        },
+        {
+          "number": 12,
+          "text": "Ama hong piaksa lim leh thukhennate, ama sepsa na lamdangte phawk un,"
+        },
+        {
+          "number": 13,
+          "text": "no Ama nasem Israyl’ khaici, Yaaqob’ tate, ama teelsa-te aw!"
+        },
+        {
+          "number": 14,
+          "text": "Amah pen Yahweh i Pa ahi hi! Leitung khempeuh ah ama thukhennate om hi."
+        },
+        {
+          "number": 15,
+          "text": "Amah in a thuciamna phawk tawntung hi; khang tul khat aa dingin thu a piak Thukham—"
+        },
+        {
+          "number": 16,
+          "text": "tua in Abraham tawh a bawl, Isaac tungah a ciam kiciamna,"
+        },
+        {
+          "number": 17,
+          "text": "Yaaqob tungah ngeina kip khatin, Israyl tungah tawntung thuciamna-in kipsak a,"
+        },
+        {
+          "number": 18,
+          "text": "‘Nangma tungah na luah dingin sehtanh-in Canaan gam kong pia ding hi,’ ci hi."
+        },
+        {
+          "number": 19,
+          "text": "Note tawmkhat bek na phak uh ciangin tawm takpi-in, tua gam ah khualmi na hi uh hi."
+        },
+        {
+          "number": 20,
+          "text": "Gam khat panin gam khat ah, kumpigam khat panin adang mite kiangah amaute a pai kawikawi uh ciangin,"
+        },
+        {
+          "number": 21,
+          "text": "Amah in amaute a nengniam ding mi kuamah phal lo hi. Hi hi, Yahweh in amaute hangin kumpite tai a,"
+        },
+        {
+          "number": 22,
+          "text": "‘Ka sathau nilhsate khoih kei un! Ka kamsangte na sak kei un!’ a ci hi."
+        },
+        {
+          "number": 23,
+          "text": "Leitung khempeuh aw, Yahweh tungah la sa un! Ni khat khit ni khat ama hong hotkhiatna tangko un!"
+        },
+        {
+          "number": 24,
+          "text": "Minamte lakah ama minthanna genkhia unla, minam khempeuh laka ama nasepnate genkhia un!"
+        },
+        {
+          "number": 25,
+          "text": "Bang hang hiam cihleh Yahweh lian mahmah a, nakpi takin phat ding ahi hi! Amah pen pasiante (elohim) khempeuh khengin zahtak ding ahi hi."
+        },
+        {
+          "number": 26,
+          "text": "Minamte pasiante (elohim) khempeuh pen bangmah-a kimanglo nate hi a, a mawknapi ahi hi! Ahih hangin Yahweh in vantungte bawl hi."
+        },
+        {
+          "number": 27,
+          "text": "Ama omna ah minthanna leh pahtawina om a, Ama mun ah thahatna leh lungnopna om hi."
+        },
+        {
+          "number": 28,
+          "text": "Minam innkuante aw, Yahweh tungah pia unla, minthanna leh thahatna Ama tungah pia un!"
+        },
+        {
+          "number": 29,
+          "text": "Ama Min in a ngah ding kilawm minthanna Yahweh tungah pia un! Biakna paipih-in Ama mai-ah pai un! Ama puan siangthote tawh Yahweh bia un!"
+        },
+        {
+          "number": 30,
+          "text": "Leitung khempeuh aw, Ama mai-ah liing un! Leitung kiptakin kikhosak a, a kikhin thei kei hi."
+        },
+        {
+          "number": 31,
+          "text": "Vantungte nuam uh henla, leitung kipaak tahen! Minamte lakah amaute in, ‘Yahweh pen Kumpi hi,’ ci ta uh hen!"
+        },
+        {
+          "number": 32,
+          "text": "Tuipi leh a sunga om khempeuh hawk henla, gamlak leh a sunga om khempeuh nuam uh hen!"
+        },
+        {
+          "number": 33,
+          "text": "Leitung thu a khen dingin Amah hong pai ding ahih manin gammang tulaka singkungte Yahweh mai-ah nuam mahmah ding uh hi!"
+        },
+        {
+          "number": 34,
+          "text": "Yahweh tungah lungdamna ko un; bang hang hiam cihleh Amah migi-in ama itna kip tawntung hi!"
+        },
+        {
+          "number": 35,
+          "text": "Kiko unla, ‘Kote Honpa Yahweh aw, kote hong hon in; Nangma Min Siangtho tungah lungdam kong koh theih nading uhleh Nangmah phatna ah ka minthan theih nadingun kote hong kaikhawm inla, Gentile mite kiang panin kote hong hon in!"
+        },
+        {
+          "number": 36,
+          "text": "Tawntung panin tawntung dong ah Israyl’ Pa Yahweh kiphat tahen!” a ci hi. Tua ciangin mite khempeuh in, “Tua bang hi tahen! HalleluYahweh!” a ci uh hi."
+        },
+        {
+          "number": 37,
+          "text": "Tua ciangin amah in nisima a kisam bangin singkuang mai-ah tatsat lo-a na a sem dingin Yahweh’ thuciamna singkuang mai tua lai-ah Asaph leh a sanggamte a nusia hi."
+        },
+        {
+          "number": 38,
+          "text": "Amah in amau tawh na a sem dingin Obed-Edom leh a sanggamte sawmguk le giat a nusia hi. Yeduthun’ tapa Obed-Edom leh Hosah zong kongcingte ahi uh hi."
+        },
+        {
+          "number": 39,
+          "text": "-40 Ahih hangin Yahweh in Israyl-te thu a piak Yahweh’ Thukham sunga kigelh khempeuh tawh kizui-in a sem ding leh zingsang leh nitak, meihal biaknatau tungah a hunhuna kipia meihal biaknate, Yahweh tungah a pia dingin Gibeon munsanga Yahweh’ biakbuk mai-ah siampi Zadok leh a sanggam siampite a nusia hi."
+        },
+        {
+          "number": 40,
+          "text": "Amaute tawh Heman, Yeduthun leh, Ama itna kip tawntung ahih manin Yahweh tungah lungdam a ko dingin a kiteel, a minin a kilokhia a cianlaite tawh a om uh hi."
+        },
+        {
+          "number": 41,
+          "text": "Heman leh Yeduthun in peengkulte; chatsoserot, leh daltuahte a gingsak ding, Yahweh’ late aa dingin tumging dangte a tum dingin vaipuak nei uh hi. Yeduthun’ tapate pen kongcingte ahi uh hi."
+        },
+        {
+          "number": 42,
+          "text": "Tua khit ciangin mi khempeuh a inn ciat ah ciah uh hi. Tua ciangin David zong a innkuan thupha pia dingin a ciahkik hi."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "headings": [
+        {
+          "level": 1,
+          "text": "David tunga Yahweh’ Thuciamna",
+          "before_verse": 1
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "David ama kumpi-inn ah a ten khit ciangin, David in kamsang Nathan kiangah, “Taamtak inn sung hih lai-ah kei ka teng a, ahih hangin Yahweh’ singkuang pen puanbuk sunglam ah omlai hi,” a ci hi."
+        },
+        {
+          "number": 2,
+          "text": "Tua ciangin Nathan in David kiangah, “Pai inla, na lungsima om bangbangin sem in; bang hang hiam cihleh Yahweh in nang hong ompih hi,” a ci hi."
+        },
+        {
+          "number": 3,
+          "text": "Ahih hangin tua zanin Nathan tungah Yahweh’ kammal hong tung a,"
+        },
+        {
+          "number": 4,
+          "text": "“Pai inla ka nasempa David kiangah gen in: ‘Yahweh in hih bangin ci hi: A sungah ka ten nading Inn khat na lam kei ding hi."
+        },
+        {
+          "number": 5,
+          "text": "Israyl-te ka paipihtoh huna kipanin tuni mahmah dong inn khatpeuh sungah ka teng ngei kei hi. Biakbuk khat sunga puanbuk khat panin puanbuk khat ah ka pai hi."
+        },
+        {
+          "number": 6,
+          "text": "Israyl khempeuh tawh ka kikhinna peuhpeuh ah ka mite a cing dingin thu ka piak amaute tungah, ‘Bang hangin taamtak sing tawh inn hong lamsak lo na hi uh hiam?’ ci-in Israyl thukhente khatpeuh tungah kammal khat beek ci ngei ka hi hiam?"
+        },
+        {
+          "number": 7,
+          "text": "Tu-in ka nasempa David tunga hih bangin gen in: Vanglianpen Yahweh in hih bangin ci hi: Ka mi Israyl-te tungah ukpa ahi dingin lonona pan leh tuuhon zuihna panin nang kong la hi."
+        },
+        {
+          "number": 8,
+          "text": "Na paina peuhpeuh ah nang kong ompih a, nangma mai panin na galte khempeuh susia-in leitunga mi lianpente bangin min kong ngahsak hi."
+        },
+        {
+          "number": 9,
+          "text": "-10 Ka mite Israyl-te aa dingin mun khat ka pia ding a, amaute ka suan ding hi; tua ahih ciangin amaute in amau inn ding nei-in a tai nawn kei ding uh hi. Keimah in ka mi Israyl-te tungah a thumaan thukhente thu ka piak huna kipan, a kipat cila amau hih bangin gitlohna’ tapate in amaute nengniam nawn lo ding uh a, tua ciangin keimah in na galte khempeuh zong kong zosak ding hi. Tua bek tham loin nang tungah kong gen inah: Yahweh in nang aa ding inn khat hong lamsak ding hi."
+        },
+        {
+          "number": 10,
+          "text": "Na nuntakna a bei ciang, na pate lampi ah na pai ciangin na tapate khat, nang khita na khaici ka kipsak ding a, keimah in ama kumpigam ka kipsak ding hi."
+        },
+        {
+          "number": 11,
+          "text": "Amah in Kei aa dingin Inn khat hong lamsakin, tua ciangin keimah in ama kumpi-tokhom a tawntungin ka kipsak ding hi."
+        },
+        {
+          "number": 12,
+          "text": "Kei pen ama Pa ka hi ding a, amah pen Ka tapa ahi ding hi. Na mai-a pa kiang panin ka itna ka lakkhiat bangin ama kiang panin ka itna ka lakhia kei ding hi."
+        },
+        {
+          "number": 13,
+          "text": "Keimah in Ka Inn leh Ka kumpigam ah a tawntungin amah ka koih ding hi. Tua ciangin ama kumpi-tokhom kip tawntung ding hi,’ ci-in gen in,” a ci hi."
+        },
+        {
+          "number": 14,
+          "text": "Hih thute khempeuh leh hih mangmuhna khempeuh Nathan in David tungah a gen hi."
+        },
+        {
+          "number": 15,
+          "text": "Tua ciangin kumpi David lutin Yahweh mai-ah tu a, amah in, “Pa Yahweh aw, hih ciang dong kei nong tunpih liang nadingin kei kua hi a, ka innkuanpihte bang hilel ahi hiam?"
+        },
+        {
+          "number": 16,
+          "text": "Tua hi a, Pa Yahweh aw, nang muhna ah hihte a kicing lo bang ahih hangin na nasempa innkuan vai mailam aa ding zong nong gen khin zo a, nakpi taka a kilamsang mipa’ za neihna bangin kei nong lamsang hi, Yahweh ka Pa aw!"
+        },
+        {
+          "number": 17,
+          "text": "Na nasempa pahtawi nadingin Nang tungah David in bang hong gen beh nawn ding ka hi hiam?"
+        },
+        {
+          "number": 18,
+          "text": "Yahweh aw, Na nasempa na cihna leh Nangma deihna tawh kizui-in hih na lianpite na semkhin a, hih thuciamna lianpite na kitheikhiasak hi."
+        },
+        {
+          "number": 19,
+          "text": "Yahweh aw, Nang tawh a kibang khat beek om lo a, ka bil-a ka zak uh mah bangin Nang tawh a kibang pasian (el) khat beek a om kei hi."
+        },
+        {
+          "number": 20,
+          "text": "Ama mi-in a tankhia dingin a Pa uh a kuankhia leitunga minam khat ahi Na mi Israyl-te tawh a kibang kua om ahi hiam? Egypt panin na tatkhiat na mite mai panin minamte na hawlkhiat ciangin a lian a lamdang pipite sepna tawh nang aa dingin Min khat na bawl hi."
+        },
+        {
+          "number": 21,
+          "text": "Na mi Israyl-te a tawntungin nang aituam dingin na bawl a, tua ciangin Yahweh aw, nang pen amaute Pa na suak hi."
+        },
+        {
+          "number": 22,
+          "text": "Tu-in Yahweh aw, na nasempa leh ama innkuan tawh kisai-in na ciamsa kammal a tawntungin kip henla, nong ciamsa bangin hong sem ta in."
+        },
+        {
+          "number": 23,
+          "text": "Nangma Min a kiliat tawntungsak theih nadingin hih thu kikipsak tahen! Tua ciangin mite in, “Vanglianpen Yahweh, Israyl-te tunga Pa pen Israyl-te’ Pa ahi hi!” ci ding uh hi. Nangma mai-ah na nasempa David innkuan kikipsak hen;"
+        },
+        {
+          "number": 24,
+          "text": "bang hang hiam cihleh ka Pa aw, ama aa dingin inn khat na lamsak ding thu nangmah in na nasempa kiangah na laak khin hi. Hihte khempeuh hangin na nasempa in nangma tungah hih thungetna nget dingin a lungsim sungah hong suak hi."
+        },
+        {
+          "number": 25,
+          "text": "Tu-in Yahweh aw, Nang pen ka Pa na hi a, Nangmah in na nasempa tungah hih a thumaan kamciamna nong pia khin hi."
+        },
+        {
+          "number": 26,
+          "text": "Nangma mai-ah a tawntungin a kizop paisuak theih nadingin na nasempa innkuan thupha piak ding hong lungkim in. Pa Yahweh aw, nangmah in thupha piakhin a, Na nasempa innkuan a tawntungin thupha kipia tahen,” a ci hi."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "headings": [
+        {
+          "level": 1,
+          "text": "David’ Gualzawhnate",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "David’ Uliante",
+          "before_verse": 14
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hih in tua thu khit cianga piang hi a, David in Philistia-te do-in amaute zo a, Philistia-te khut sung panin Gath leh a kiima tennate a la hi."
+        },
+        {
+          "number": 2,
+          "text": "Tua khit ciangin amah in Moab-te zo hi. Moab mite pen David’ khutnuai mi suak a, ama kiangah siah a puak uh hi."
+        },
+        {
+          "number": 3,
+          "text": "Euphrates Gun dunga ama ukna a kipsak dingin David a kuan ciangin Hamath lama om Zobah kumpipa Hadadezer zong a zo hi."
+        },
+        {
+          "number": 4,
+          "text": "David in a sakolleeng 1,000, a sakol tung tuang 7,000 leh a khe galkap 20,000 a matsak hi. David in sakolleeng 100 aa dingin a kicing a siit simloh leengkai sakol khempeuh’ zagui zong a attan hi."
+        },
+        {
+          "number": 5,
+          "text": "Zobah kumpipa Hadadezer a huh dingin Damascus-a Aram mite a pai uh ciangin, David in Aram mite 22,000 a that hi."
+        },
+        {
+          "number": 6,
+          "text": "Tua khit ciangin David in Aram-te gam Damascus ah khuapi cingte koih hi. Aram mite pen David’ khutnuai mi suak uh a, ama kiangah siah a puak uh hi. Ama paina peuhpeuh ah Yahweh in David gualzawhna pia hi."
+        },
+        {
+          "number": 7,
+          "text": "David in Hadadezer’ uliante puak kham kidalna lumte la-in Yerusalem ah a paipih hi."
+        },
+        {
+          "number": 8,
+          "text": "Hadadezer’ neihsa khuapite ahi Tibhath pan leh Chun panin David in sumngo honpi khat la a, tuate pen Solomon in sumngo Tuipi, khuampite leh sumngo nazatte bawlna-in a zatte ahi hi."
+        },
+        {
+          "number": 9,
+          "text": "David in Zobah kumpi Hadadezar’ galkap buppi a zawh lam Hamath kumpipa Tou kiang a kigen ciangin,"
+        },
+        {
+          "number": 10,
+          "text": "amah tawh a kido ngei Hadadezer tungah a gualzawhna hangin amah a hopih ding leh a lungdampih dingin amah in David kiangah a tapa Hadoram a sawl hi. Hadoram in kham, ngun leh sumngo-te tawh kibawl nazat nam khempeuh a puak hi."
+        },
+        {
+          "number": 11,
+          "text": "Kumpi David in hihte leh Edom-te kiang pan, Moab, Ammon mite kiang pan, Philistia-te leh Amalek-te—minam khempeuh kiang panin a lak ngun leh khamte tawh Yahweh tungah a ap khawm hi."
+        },
+        {
+          "number": 12,
+          "text": "Zeruyah’ tapa Abishai in Ci Kuampi sungah Edom mite 18,000 a satlum hi."
+        },
+        {
+          "number": 13,
+          "text": "Amah in Edom ah khuapi cingte koih a, tua ciangin Edom mite khempeuh pen David’ khutnuai mi a suak uh hi. Tua ciangin a paina peuhpeuh ah Yahweh in David gualzawhna pia hi."
+        },
+        {
+          "number": 14,
+          "text": "David in ama mite aa dingin thutang tak leh thuman takin semin Israyl khempeuh a uk hi."
+        },
+        {
+          "number": 15,
+          "text": "Zeruyah’ tapa Yahab pen galkap mangpa hi a, Ahilud’ tapa Yahshaphat pen thuciamteh ahi hi;"
+        },
+        {
+          "number": 16,
+          "text": "Ahitub’ tapa Zadok leh Abiathar’ tapa Abimelech (Ahimelech) pen siampi ahi uh hi; Shavsha (Seruyah) pen lai-at ahi hi;"
+        },
+        {
+          "number": 17,
+          "text": "Yahyada’ tapa Benayah pen Chereth mite leh Peleth mite a ukpa ahi hi; tua ciangin David’ tapate pen kumpipa gei-ah a liandeuh uliante ahi uh hi."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Ammon-te tawh Kidona",
+          "before_verse": 1
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hih thu khit ciangin Ammon mite kumpipa Nahash si a, a tapa in a kumpi’ za a luah hi."
+        },
+        {
+          "number": 2,
+          "text": "Hih thu hangin David in, ‘A pa in kei tungah migitna hong lak ahih manin Nahash’ tapa Hanun tungah migitna ka lak ding hi,” a ci hi. David in a pa sihna hangin amah a hehnem dingin kamtaite a sawl hi. Amah a hehnem dingin Ammon mite gama Hanun kiangah David’ uliante a pai uh hi."
+        },
+        {
+          "number": 3,
+          "text": "Ahih hangin Ammon mite uliante in Hanun kiangah, “David in nang kiangah a hehnemte hong sawlna hangin David in na pa a pahtawi-in um na hi hiam? David in gam sung a pheklek ding leh a lumlet ding leh gam sung a encik dingin a nasemte nang kiangah hong sawl hilo ahi hiam?” a ci uh hi."
+        },
+        {
+          "number": 4,
+          "text": "Tua ahih ciangin Hanun in David’ uliante manin, a khamul kiatsakin, a laizang a tawbo dong a puante atkhiatsakin a sawlkhia hi."
+        },
+        {
+          "number": 5,
+          "text": "Hih mite thu David kiang kigen a, tua ciangin amah in amaute kiangah kamtaite sawl hi; bang hang hiam cihleh hih mite nakpi takin maizumin zahla mahmah uh hi. Kumpipa in, “Na khamulte uh a saukik dong Yericho ah om unla, tua khit ciangin hong ciah un,” a ci hi."
+        },
+        {
+          "number": 6,
+          "text": "Ammon mite in David a lungsim natsak velvalna uh a theih ciangin, Hanun leh Ammon mite in Aram Naharaim mite, Aram Maacah leh Zobah panin sakolleengte leh sakol tung tuangte a cial nadingin ngun talent; ton 37 kiim, tul khat khak uh hi."
+        },
+        {
+          "number": 7,
+          "text": "Amaute in sakolleeng 32,000 cialin Maacah kumpipa leh a mite tawh a kop uh hi. Ammon mite galsim dingin a khuapite uh panin a kikhop laitakun amaute pai-in Medeba nai-ah giahphual sat uh hi."
+        },
+        {
+          "number": 8,
+          "text": "David in hih thu a zak ciangin amah in Yahab leh a galsiam a galkap khempeuh a sawl hi."
+        },
+        {
+          "number": 9,
+          "text": "Ammon mite paikhia-in amau khuapi lutna ah galdo dingin a kigual uh hi; tua laitakin amau cialsa kumpite in gam sungah mun a la uh hi."
+        },
+        {
+          "number": 10,
+          "text": "Yahab in a mai leh a nung ah galte a om lai a theih ciangin amah in Israyl mi gal siampen pawlkhat teelin, Aram mite a sim dingin a sawl hi."
+        },
+        {
+          "number": 11,
+          "text": "Mi a omlaite amah in a sanggampa Abishai’ thupiakna nuai-ah koih a, Abishai in Ammon mite lamah mun a la hi."
+        },
+        {
+          "number": 12,
+          "text": "Amah in thupia a, “Aram mite kei aa dingin a hatluat uh leh, kei hong huh inla, Ammon mite nang aa dingin a hatluat leh nang kong huh ding hi."
+        },
+        {
+          "number": 13,
+          "text": "Nakpi takin hangsan inla, i mite aa ding, i Pa khuapite aa dingin thahat ni! Yahweh in ama mit ah man a sak bangin hih tahen!” a ci hi."
+        },
+        {
+          "number": 14,
+          "text": "Tua ahih ciangin Yahab leh amah tawh a om mite in Aram mite sim dingin kuan uh a, tua ciangin Aram-te amau mai panin a taikek uh hi."
+        },
+        {
+          "number": 15,
+          "text": "Aram mite a tai lam Ammon mite in a theih uh ciangin a sanggampa Abishai kiang panin amaute zong tai-in khuapi sungah a lut uh hi. Tua ciangin Yerusalem ah Yahab a ciahkik hi."
+        },
+        {
+          "number": 16,
+          "text": "Israyl-te in amau a zawh lam Aram mite in a theih uh ciangin, Euphrates Gun gal panin a pai theih nadingun kamtaite a sawl uh hi. Hadadezer’ galkap mangpa Shophach in amaute a makaih hi."
+        },
+        {
+          "number": 17,
+          "text": "Hih thu David kiang a kigen ciangin, amah in Israyl khempeuh khawm a, Yardan kantanin, amau lam manawhin kuan a, amaute a do dingin a kiging uh hi. David in Aram mite tawh maituah dingin a galkapte gual a, tua ciangin amaute in a do uh hi."
+        },
+        {
+          "number": 18,
+          "text": "Israyl-te mai panin Aram mite taikek uh hi. David in sakol tung tuangte 7,000 leh khe gakap 40,000 that hi. Amah in a galkap mangpa Shophach zong a that hi."
+        },
+        {
+          "number": 19,
+          "text": "Israyl mite in amaute a zawh lam Hadadezar’ uliante in a theih uh ciangin, amaute in David tawh kilemna bawlin ama khutnuai mi a suak uh hi. Aram mite in Ammon mite a huh nuam nawn kei uh hi."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "headings": [
+        {
+          "level": 1,
+          "text": "David in Rabbah a Lakna",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Mi Golpite",
+          "before_verse": 4
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Khuakhal hun sung kumpite gal a kuankhiat hunin Yahab in a galkapte kuankhiatpih a, Ammon mite gam susiagawpin, tua khit ciangin pai-in Rabbah a umcih uh hi; tua hunin Yerusalem ah David a omlai hi. Yahab in Rabbah zo-in a lumlet hi."
+        },
+        {
+          "number": 2,
+          "text": "Tua ciangin David in a kumpipa; Milcom, Molech, uh lu tung panin kham talent khat a gik, suang manphate tawh a kizem lukhu khat la hi. Tua pen David’ lu tungah a kikhusak hi. Amah in khuapi panin van kinusia tampitak zong a puakhia hi."
+        },
+        {
+          "number": 3,
+          "text": "Amah in tua lai-a om mite paikhiatpihin, sing-atte, tuzumte leh heite tawh na a sem dingin a koih hi. David in Ammon mite khuapite khempeuh ah hih bangin ahih hi. Tua khit ciangin Yerusalem ah David leh a mite khempeuh a ciahkik uh hi."
+        },
+        {
+          "number": 4,
+          "text": "Hih hun khit ciangin Gazer ah Philistia-te tawh kidona a om hi. Tua hun lai-in Hushath mi Sibbechai in mi golpite’ suan khat ahi Sippai that a, tua ciangin Philistia-te a kinuaisiah hi."
+        },
+        {
+          "number": 5,
+          "text": "Philistia-te tawh kidona om kik leuleu a, Yair’ tapa Elhanan in siam lawngpi tawh a kibang teipi a nei Git mi Goliath sanggampa Lahmi a that hi."
+        },
+        {
+          "number": 6,
+          "text": "Gath ah kidona om leuleu a, tua lai-ah a khut langtuak ah khutme guk nei-in a khe langtuak ah kheme guk a nei, a khutme leh a kheme sawmnih le li a pha mi gol mahmah khat a om hi. Amah zong mi gol mahmah-te suan ahi hi."
+        },
+        {
+          "number": 7,
+          "text": "Amah in Israyl phinin a ko ciangin, David’ sanggampa Shammah’ tapa Yahnathan in amah a that hi."
+        },
+        {
+          "number": 8,
+          "text": "Hihte pen Gath gam sunga om mi golpite suante hi a, David’ khut leh a mite khut hangin amaute puk uh hi."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "headings": [
+        {
+          "level": 1,
+          "text": "David in Galsimthei Mi Phazah Sim",
+          "before_verse": 1
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Israyl langpanin Satan ding a, David in Israyl-te a mipha zah a sim nadingin a hanthawn hi."
+        },
+        {
+          "number": 2,
+          "text": "Tua ahih ciangin David in Yahab leh a mipi makaite thupia-in, “Pai unla, Dan panin Beersheba dong Israyl-te sim un; A phazah ka theih nadingin kei kiangah hong genkik un,” a ci hi."
+        },
+        {
+          "number": 3,
+          "text": "Ahih hangin Yahab in, “Yahweh in ama mite a phazah sangin a zah zakhatin tamzawsak tahen. Ahih hangin ka uk kumpipa aw, amaute khempeuh na nasemte ahi uh hi. Tua hi a, bang hangin hi bang na hih nuam na hi hiam? Bang hangin amah in Israyl tungah mawhna tun ding ahi hiam?” ci-in a dawng hi."
+        },
+        {
+          "number": 4,
+          "text": "Ahih hangin kumpipa’ kammal in Yahab’ thugenna hoih khupnelh gawp hi. Tua ahih ciangin Yahab kuankhia-in Israyl sung khempeuh ah pai a, a tawpna ah Yerusalem hong ciahkik hi."
+        },
+        {
+          "number": 5,
+          "text": "Yahab in David kiangah a vekpi-a gawmsa mi phazah a gen hi. Israyl mi khempeuh in Yahdah mi 470,000 zong a kihel namsau a tawi thei mi 1,100,000 nei uh a,"
+        },
+        {
+          "number": 6,
+          "text": "ahih hangin amah in mi simna sungah Levi leh Benyamin a sim kei hi; bang hang hiam cihleh amah in kumpipa’ thupiakna a zadah hi."
+        },
+        {
+          "number": 7,
+          "text": "Yahweh in hih thu hoihsa lo a, tua ahih manin amah in Israyl-te dan a pia hi."
+        },
+        {
+          "number": 8,
+          "text": "Tua ciangin David in Yahweh kiangah, “Hih na ka hih manin nakpi takin a mawh hi. Ahi zongin tu-in kong thuum hi, a haivai mahmahin gamta kha ka hih manin na nasempa gamtatkhialhna hong maisak in,” a ci hi."
+        },
+        {
+          "number": 9,
+          "text": "Yahweh in David’ thumupa Gad kiangah a gen inah:"
+        },
+        {
+          "number": 10,
+          "text": "“Pai inla David kiangah gen in: Yahweh in hih bangin ci hi: Nangma tungah teel ding nam thum kong pia hi. Nang tungah kong tunsak dingin nang mahmah in tuate khat teel in,’ ci in,” a ci hi."
+        },
+        {
+          "number": 11,
+          "text": "Tua ahih ciangin David kiangah Gad pai a, ama kiangah, “Yahweh in hih bangin ci hi: Nang aa dingin teel in:"
+        },
+        {
+          "number": 12,
+          "text": "‘Kum thum sung kialpi tun ding, na galte in hong zo-in namsau tawh kha thum sung hong delh ding, ahih kei leh Yahweh’ namsau tawh ni thum sung—gam sunga pulpi tungin Israyl gam sung khempeuh Yahweh’ vantungmi in a suk ding, na deihzawk teel in,’ ci hi. Kei hong sawlpa kiangah a paipihkik ding dawnna tu-in khensat in,” a ci hi."
+        },
+        {
+          "number": 13,
+          "text": "David in Gad kiangah, “Ka lungkham lua mahmah hi. Yahweh’ khut sungah hong puksak in; bang hang hiam cihleh ama hehpihnate nakpi-in lian hi; ahih hangin mihingte khut sungah hong puksak kei in,” a ci hi."
+        },
+        {
+          "number": 14,
+          "text": "Tua ahih ciangin Yahweh in Israyl tungah pulpi tungsak a, tua ciangin Israyl-te mi 70,000 a si hi."
+        },
+        {
+          "number": 15,
+          "text": "Yahweh in Yerusalem a susia dingin vantungmi khat sawl a, ahih hangin amah in a suksiat laitakin Yahweh in en a, nakpi-in a dantatna nemsakin, a hehpih hi. Amah in a susia vantungmi kiangah, “Pha zo! Na khut dokkik in!” a ci hi. Tua-in Yebus mi Ornan’ ancilna ah Yahweh’ vantungmi a om laitak ahi hi."
+        },
+        {
+          "number": 16,
+          "text": "David a khuadak ciangin leitung leh vantung kikalah Yahweh’ vantungmi dingin a khut sunga namsau khat tawh Yerusalem tungah a khut a zankhia a mu hi. Tua ciangin David leh upate in ippi puan silhin, a maipuk uh hi."
+        },
+        {
+          "number": 17,
+          "text": "David in Yahweh kiangah, “Galkapte a kisim nadingin thu a piapa kei hilo ka hi hiam? Mawhin hih khialhna a gamta kei hilo ka hi hiam? Ahih hangin hih tuute in bang gamtat khialhna nei uh ahhi hiam? Kong thuum hi Yahweh ka Pa aw, kei leh ka pa’ innkuan langah Na khut liik inla, ahih hangin Na mite tungah pulpi tungsak nawn kei in,” a ci hi."
+        },
+        {
+          "number": 18,
+          "text": "Tua ciangin David pai-in Yebus mi Ornan ancilna munah Yahweh aa dingin biaknatau khat a lamna dingin Gad in David kiangah a gen nadingin Yahweh’ vantungmi in thu a pia hi."
+        },
+        {
+          "number": 19,
+          "text": "Tua ahih ciangin Gad kammal tawh kizui-in David paito hi; bang hang hiam cihleh Gad in Yahweh’ Min tawh a genzo hi."
+        },
+        {
+          "number": 20,
+          "text": "Tu-in Ornan kihei-in vantungmi a mu hi. Amah tawh a om a tapa lite kimu uh hi; ahih hangin Ornan in a mangbuh cilna a zom lai hi."
+        },
+        {
+          "number": 21,
+          "text": "Tua ciangin David in ama lam manawh a, Ornan khuadakin David a hih lam a theih ciangin, ancilna panin amah paikhia a, lei lamah a maingatin David mai-ah a kun hi."
+        },
+        {
+          "number": 22,
+          "text": "David in Ornan kiangah, “Yahweh tungah biaknatau khat ka lam nadingin na ancilna phual kei hong neisak in. Mite tunga pulpi a khawl theih nadingin a man cing takin kei tungah hong zuak in,” a ci hi."
+        },
+        {
+          "number": 23,
+          "text": "Ornan in David kiangah, “La inla, ka uk kumpipa in hoih nasak bangin sem in. En in, meihal biakna-a dingin bawngtalte, a sing dingin ancilna vante, leh an tawh biakna dingin mangbuhte kong pia ding hi. Na khempeuh kong pia ding hi,” a ci hi."
+        },
+        {
+          "number": 24,
+          "text": "Ahih hangin Kumpi David in Ornan kiangah, “Hi lo hi, a man cing takin kong lei ding hi. Yahweh aa dingin nang aa khatpeuh kong sang kei ding a, keima sum bei loin meihal biaknate zong ka pia kei ding hi,” a ci hi."
+        },
+        {
+          "number": 25,
+          "text": "Tua ahih ciangin David in Ornan tungah a mun lei nadingin kham shekel zaguk a gik pia hi."
+        },
+        {
+          "number": 26,
+          "text": "David in tua lai-ah Yahweh aa dingin biaknatau khat lam a, tua ciangin meihal biaknate leh kilemna biaknate a pia hi. Amah in Yahweh sam a, Yahweh in vantung panin meihal biaknatau tungah meikuang tawh amah a dawng hi."
+        },
+        {
+          "number": 27,
+          "text": "Tua ciangin Yahweh in vantungmi thupia a, tua ciangin amah in a namsau a paai ah a siat hi."
+        },
+        {
+          "number": 28,
+          "text": "Tua hun lai-in Yahweh in Yebus mi Ornan ancilna phual ah amah a dawnna David in a muh ciangin, amah in tua lai-ah biakpiakna a pia hi."
+        },
+        {
+          "number": 29,
+          "text": "Tu-in Mosheh in gamlaka a bawl biakbuk leh meihal biakna aa ding biaknatau pen tua hunin Gibeon-a mun sang ah a om hi;"
+        },
+        {
+          "number": 30,
+          "text": "Ahih hangin David in Yahweh kiang thu a dong dingin tua mai-ah pai lo hi; bang hang hiam cihleh amah in Yahweh’ vantungmi’ namsau a kihta hi."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Yahweh’ Inn ding David’ Kiginna",
+          "before_verse": 2
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tua ciangin David in, “Hih in Yahweh i Pa Inn aa dingin mun hi a, hih in Israyl-te aa dingin meihal biak nadingin biaknatau omna ding mun ahi hi!” a ci hi."
+        },
+        {
+          "number": 2,
+          "text": "Tua ahih ciangin David in tua gama a teng peemta khempeuh a kikaikhawm dingin thupia a, tua ciangin amah in Yahweh’ Inn lam nadingin suangte a at dingin suang-atte a suaksak hi."
+        },
+        {
+          "number": 3,
+          "text": "Amah in kongpi kongkhaka zat ding siktukilh-te bawl nading leh a gak nadingin sik honpi khat leh a gikzah teh zawh loh sumngo tampitak a puak hi."
+        },
+        {
+          "number": 4,
+          "text": "Amah in simzawh loh taamtak singluangte zong puak hi; bang hang hiam cihleh Sidon mite leh Tyre mite in David kiangah tuate tampitak a puak uh hi."
+        },
+        {
+          "number": 5,
+          "text": "David in, “Ka tapa Solomon khangno lai a, a tuahkhak om nai loin, Yahweh aa dingin a kilam ding Inn pen gam khempeuh ah nakpi takin a thupi, a minthang, nopci mahmah hi hamtang ding hi. Tua ahih ciangin tua dingin ka kigingkhol ding hi,” a ci hi. Tua ahih ciangin David in a sihma-in na tampitak a kigingkhol hi."
+        },
+        {
+          "number": 6,
+          "text": "Tua ciangin David in a tapa Solomon samin, Yahweh, Israyl’ Pa aa dingin Inn khat a lam nadingin thu a pia hi."
+        },
+        {
+          "number": 7,
+          "text": "David in Solomon kiangah, “Ka tapa aw, Yahweh ka Pa Min aa dingin Inn khat lam ding ka lungsim sungah om a,"
+        },
+        {
+          "number": 8,
+          "text": "ahih hangin Yahweh’ kammal kei kiangah hong tungin, ‘Nang in sisan tampi suahin gal tampi na do hi. Nangmah in Keima mai leitung ah sisan tam suah lua na hih manin Ka Min aa dingin Inn khat na lam kei ding hi."
+        },
+        {
+          "number": 9,
+          "text": "Ahih hangin en in, nang sung panin tapa khat hong piang ding a, amah pen kilemna nei mi khat hi ding hi; tua ciangin keimah in a pang khempeuh-a om a galte khempeuh kiang panin tawlngakna ka pia ding hi. Ama min Solomon; lemna, daihna, hi ding hi; bang hang hiam cihleh keimah in kilemna pia-in, ama uk hun sungin Israyl ka tawldamsak ding hi."
+        },
+        {
+          "number": 10,
+          "text": "Amah in Ka Min aa dingin Inn khat lam ding a, amah pen Ka tapa hi ding a, Kei pen ama Pa ka hi ding hi. Keimah in Israyl tungah ama kumpigam tokhom ka kipsak tawntung ding hi,’ ci hi."
+        },
+        {
+          "number": 11,
+          "text": "Tu-in ka tapa aw, Yahweh in nang hong ompih tahen. Na mavang henla, Yahweh in nang tunga hong gensa bang teekteekin Yahweh na Pa Inn lam in."
+        },
+        {
+          "number": 12,
+          "text": "Yahweh in Israyl tungah thupiapa in hong bawl ciangin Yahweh’ na Pa Thukham na zuih theih nadingin Amah in pilna leh thutheih telna hong pia tahen."
+        },
+        {
+          "number": 13,
+          "text": "Tua ciangin Yahweh in Israyl-te aa dingin Mosheh a thupiak ahi ngeina kipte leh thukhennate limtakin na zuih leh na mavang ding hi. Thahat inla, hang mahmah in. Lau kei inla lungkia kei in."
+        },
+        {
+          "number": 14,
+          "text": "En in, haksatna tampi thuakin Yahweh’ Inn aa dingin kham talent 100,000, ngun talent 1,000,000, leh tam lua mahmah ahih manin a gikna tehzawh loh sumngo leh sik ka kigingkhol hi. Taamtak sing leh suang zong ka kholkhin a, ahih hangin tuate na behlap lai kul thei ding hi."
+        },
+        {
+          "number": 15,
+          "text": "Na sem mi tampi na nei hi: suang-atte, suang nasemte, khutsiamte, leh nasep nam khempeuh-a khutsiamna namkim a neite—"
+        },
+        {
+          "number": 16,
+          "text": "kham, ngun, sumngo leh sik-te ah khutsiamte simzawh loh ahi hi. Tua ahih ciangin nasep kipan inla, Yahweh in hong ompih tahen!” a ci hi."
+        },
+        {
+          "number": 17,
+          "text": "Tua ciangin David in a tapa Solomon a huh dingin Israyl makaite khempeuh thupia-in a gen inah:"
+        },
+        {
+          "number": 18,
+          "text": "“Yahweh na Pa un note hong ompih lo ahi hiam? Amah in na kiim na pam khempeuh ah gal daihna hong pia hilo ahi hiam? Amah in keima khut sungah gam sunga a tengte hong piakhin a, Yahweh mai leh a mite mai-ah gam sung khempeuh kinuaisiah hi."
+        },
+        {
+          "number": 19,
+          "text": "Tua ahih ciangin na lungsimte uh kipsak unla, Yahweh’ na Pa uh zon ding kipan un. Dingto unla, Yahweh’ Min aa dingin a kilam ding Inn sungah Yahweh’ thuciamna singkuang leh Yahweh’ nazat siangthote a kitumpih theih nadingin Yahweh i Pa’ munsiangtho lam un,” a ci hi."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Levi Mite",
+          "before_verse": 2
+        },
+        {
+          "level": 1,
+          "text": "Gerhson’ Suante",
+          "before_verse": 7
+        },
+        {
+          "level": 1,
+          "text": "Kohath’ Suante",
+          "before_verse": 12
+        },
+        {
+          "level": 1,
+          "text": "Merari’ Suante",
+          "before_verse": 21
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "David teekin a kum a cin ciangin, amah in Israyl tungah kumpi-in a tapa Solomon a bawl hi."
+        },
+        {
+          "number": 2,
+          "text": "Amah in Israyl makaite khempeuh, siampite leh Levi mite zong kaikhawm hi."
+        },
+        {
+          "number": 3,
+          "text": "Levi mite kum sawmthum leh a tungsiah kisim a, pasal mi phazah pen 38,000 ahi hi."
+        },
+        {
+          "number": 4,
+          "text": "Hih mite lak panin 24,000-te in Yahweh’ Inn nasep uk ding uh a; 6,000 pen uliante leh thukhente hi-in;"
+        },
+        {
+          "number": 5,
+          "text": "4,000-te in kongcing ding uh a; tua ciangin David in phatna a pia dingin a seh mi 4,000-te in tumgingte tawh Yahweh phat ding uh hi."
+        },
+        {
+          "number": 6,
+          "text": "David in Levi’ tapate ahi Gershon, Kohath leh Merari-te tawh kituakin Levi mite a pawlpawlin a khen hi."
+        },
+        {
+          "number": 7,
+          "text": "Gershon’ tapate pen Laadan leh Shimei ahi hi."
+        },
+        {
+          "number": 8,
+          "text": "Laadan’ tapate pen: a masa Yehiel, tua khit ciangin Zetham leh Yahyl hi a—a vekpi-in thum ahi hi."
+        },
+        {
+          "number": 9,
+          "text": "Shimei’ tapate pen Shelomith, Haziel leh Haran hi a—a vekpi-in thum ahi hi. Hihte pen Laadan’ innkuan lutangte ahi uh hi."
+        },
+        {
+          "number": 10,
+          "text": "Shimei’ tapate pen Yachath, Zina, Yeush leh Beriah ahi hi. Hih mi lite pen Shimei’ tapate ahi hi."
+        },
+        {
+          "number": 11,
+          "text": "Yachath pen a masa hi a, Zina pen a nihna ahi hi; ahih hangin Yeush leh Beriah in tapa tampi nei lo uh hi; tua ahih ciangin amaute pen hih a pawlpawlte sungah a pa’ innkuan tawh khatin kisim hi."
+        },
+        {
+          "number": 12,
+          "text": "Kohath’ tapate pen Amram, Ishar, Hebron leh Uzziel hi a—a vekpi-in li ahi hi."
+        },
+        {
+          "number": 13,
+          "text": "Amram’ tapate pen Aaron leh Mosheh ahi hi. Aaron pen kiseh tuam a, a siangthopen nate a ap ding, Yahweh mai-ah biakpiaknate a piak ding, Ama mai-ah biaknasep a sem ding leh Ama Min tawh a tawntungin thupha piaknate a genkhia dingin amah leh a suanlekhakte a tawntungin kiseh tuam hi."
+        },
+        {
+          "number": 14,
+          "text": "Yahweh’ mipa Mosheh’ tapate pen Levi’ minam lakah kisim khawm hi."
+        },
+        {
+          "number": 15,
+          "text": "Mosheh’ tapate pen Gershom leh Yliezer ahi hi."
+        },
+        {
+          "number": 16,
+          "text": "Gershom’ tapate lak panin Shebuel pen a masa ahi hi."
+        },
+        {
+          "number": 17,
+          "text": "Yliezer’ tapate lak panin Rechabyah pen a masa ahi hi. Tu-in Yliezer in tapa dang a nei kei hi; ahih hangin Rechabyah’ tapate tam mahmah uh hi."
+        },
+        {
+          "number": 18,
+          "text": "Izhar’ tapate lak panin Shelomith pen a masa ahi hi."
+        },
+        {
+          "number": 19,
+          "text": "Hebron’ tapate lak panin, a masa Yeriyah, a nihna Amaryah, a thumna Yachaziel leh a lina Yekameam ahi hi."
+        },
+        {
+          "number": 20,
+          "text": "Uzziel’ tapate lak panin Micahyah a masa hi a, Yeshiyah a nihna ahi hi."
+        },
+        {
+          "number": 21,
+          "text": "Merari’ tapate pen Mahli leh Mushi ahi hi. Mahli’ tapate pen Eleazar leh Kish hi a,"
+        },
+        {
+          "number": 22,
+          "text": "ahih hangin Eleazar si-in tapa a nei kei hi. Amah in tanu bek nei a, tua ahih ciangin a sanggampa’ tapate in amaute a tenpih uh hi."
+        },
+        {
+          "number": 23,
+          "text": "Mushi’ tapate pen: Mahli, Eder leh Yeremoth hi a—a vekpi-in thum ahi hi."
+        },
+        {
+          "number": 24,
+          "text": "Hihte pen amau bawng tawh kizui-in Levi’ suanlekhakte ahi uh a—Yahweh’ Inn nasepna ah na a sem, kum sawmnih panin a tungsiah, amaute’ minte a kikhumna zui-in a kiciamteh lai-in amau bawng innkuan lutangte ahi uh hi."
+        },
+        {
+          "number": 25,
+          "text": "Bang hang hiam cihleh David in, “Yahweh, Israyl’ Pa in a mite tungah tawlngakna hong pia-in Yerusalem-a tenna ah hong latokhin ahih nungsangin,"
+        },
+        {
+          "number": 26,
+          "text": "Levi mite in biakbuk ahi a, a nasepna dingin nazatte khatpeuh zong a puak ding uh kisam nawn lo hi,” a cizo hi."
+        },
+        {
+          "number": 27,
+          "text": "Tua ahih ciangin David’ kammal nunungpente tawh kizui-in Levi mite kum sawmnih panin a tungsiah a kisim hi."
+        },
+        {
+          "number": 28,
+          "text": "Amaute vaipuak pen Yahweh’ Inn nasepna ah Aaron’ suante huh ding ahi hi: huang sung leh inndeite sungah, a siangtho nate khempeuh a siangsak ding leh Yahweh’ Inn nasepna ah a huh ding uh ahi hi."
+        },
+        {
+          "number": 29,
+          "text": "Amaute in sabuai tunga kikoih ompihna anlum, an tawh biakna aa dingin annel, silngo sawhloh mohphengte, a ki-emte leh a kigawmte, leh a phazah tehna leh a phacia tehna khempeuh a uk ding uh hi."
+        },
+        {
+          "number": 30,
+          "text": "Yahweh tungah lungdamna a ko ding leh a phat dingin zingsang simin amaute ding ding uh a, tua tawh kibangin nitakin zong hih ding uh hi;"
+        },
+        {
+          "number": 31,
+          "text": "tua banah Shabbat nite, Kha Thak nite leh a kisehsa Pawi nite-a Yahweh tungah a kipia meihal biakna peuhpeuh ah zong ding ding uh hi. Amaute in mi phazah a kisehsa bang leh amau hih dingin a kilahzia bangin Yahweh mai-ah a hunhunin biaknasep sem ding uh hi."
+        },
+        {
+          "number": 32,
+          "text": "Tua ahih ciangin Kikhopna Puanbuk, Mun Siangtho leh Yahweh’ Inn nasepna ah Aaron’ suanlekhak a sanggamte uh lamlahna bangin Levi mite in a vaipuakte uh sem ding uh hi."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Siampi a Pawlpawlte",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "A Omlai Levi Mite",
+          "before_verse": 20
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hihte pen Aaron’ suan a pawlpawlte ahi hi. Aaron’ tapate pen Nadab, Abihu, Eleazar leh Ithamar ahi hi."
+        },
+        {
+          "number": 2,
+          "text": "Ahih hangin Nadab leh Abihu pen a pa uh mai-ah si-in ta nei lo uh hi; tua ahih ciangin Eleazar leh Ithamar in siampi-in na a sem uh hi."
+        },
+        {
+          "number": 3,
+          "text": "Eleazar’ tapa Zadok leh Ithamar’ tapa Ahimelech huhna tawh David in a kiseh amau nasep kigualhzia seh dingin amaute a pawlpawlin a khen hi."
+        },
+        {
+          "number": 4,
+          "text": "Tu-in Ithamar sunga makaite sangin Eleazar sungah makai tam kimuzaw a, tua ahih manin amaute in Eleazar suante sung panin innkuan lutang sawm le gukin khenin, Ithamar suante pen innkuan lutang giatin a khen hi."
+        },
+        {
+          "number": 5,
+          "text": "Eleazar’ suante lak pan leh Ithamar’ suante lak panin Yahweh’ Inn-a ulian leh munsiangtho-a ulian a sem dingin a nih tuakin a kibangin deihsak tuam om loin aidotna tawh a khen uh hi."
+        },
+        {
+          "number": 6,
+          "text": "Levi mi Nethaneel’ tapa lai-at Shemayah in kumpipa leh uliante om mahin tuate gelhkhia a, tuate in: siampi Zadok, siampi Abiathar’ tapa Ahimelech, leh siampite leh Levi-te innkuan lutangte—Eleazar kiang panin innkuan lutang khat leh Ithamar’ kiang panin khat ahi hi."
+        },
+        {
+          "number": 7,
+          "text": "Ailot masapen Yahyarib tungah tu a, a nihna Yedayah tungah,"
+        },
+        {
+          "number": 8,
+          "text": "a thumna Harim tungah, a lina Seorim tungah,"
+        },
+        {
+          "number": 9,
+          "text": "a ngana Malchiyah tungah, a gukna Miyamin tungah,"
+        },
+        {
+          "number": 10,
+          "text": "a sagihna Hakkoz tungah, a giatna Abiyah tungah,"
+        },
+        {
+          "number": 11,
+          "text": "a kuana Yahshua tungah, a sawmna Shecanyah tungah,"
+        },
+        {
+          "number": 12,
+          "text": "a sawm le khatna Eliashib tungah, a sawm le nihna Yakim tungah,"
+        },
+        {
+          "number": 13,
+          "text": "a sawm le thumna Huppah tungah, a sawm le lina Yeshebeab tungah,"
+        },
+        {
+          "number": 14,
+          "text": "a sawm le ngana Bilgah tungah, a sawm le gukna Immer tungah,"
+        },
+        {
+          "number": 15,
+          "text": "a sawm le sagihna Hezir tungah, a sawm le giatna Aphses tungah,"
+        },
+        {
+          "number": 16,
+          "text": "a sawm le kuana Pethahyah tungah, a sawmnihna Yehezekel tungah,"
+        },
+        {
+          "number": 17,
+          "text": "a sawmnih le khatna Yachin tungah, a sawmnih le nihna Gamut tungah,"
+        },
+        {
+          "number": 18,
+          "text": "a sawmnih le thumna Delayah tungah, a sawmnih le lina Maazyah tungah a tu hi."
+        },
+        {
+          "number": 19,
+          "text": "Hih pen Yahweh Israyl’ Pa in ama thupiak bangin a pa uh Aaron in a seh biakna ngeina tawh kizui-in Yahweh’ Inn sungah a lut uh ciangin a kisehsa amau nasep kigualhzia ahi hi."
+        },
+        {
+          "number": 20,
+          "text": "Levi’ suan a omlaite: Amram’ tapate panin Shubael, Shubael’ tapate panin Yechdeyah ahi hi."
+        },
+        {
+          "number": 21,
+          "text": "Rachabyah suan ama tapate sung panin a masa Isshiyah ahi hi."
+        },
+        {
+          "number": 22,
+          "text": "Izhar mite sung panin: Shelomoth, Shelomoth’ tapate sung panin Yachath ahi hi."
+        },
+        {
+          "number": 23,
+          "text": "Hebron’ tapate pen Yeriyah a masa, Amaryah a nihna, Yachaziel a thumna, leh Yekameam a lina ahi hi."
+        },
+        {
+          "number": 24,
+          "text": "Uzziel’ tapate pen Micayah hi a, Micayah’ tapate lak panin Shamir ahi hi."
+        },
+        {
+          "number": 25,
+          "text": "Micahyah’ sanggampa pen Isshiyah hi a, Isshiyah’ tapate sung panin Zecharyah ahi hi."
+        },
+        {
+          "number": 26,
+          "text": "Merari’ tapate pen Mahli leh Mushi ahi hi; tua khit ciangin Yaaziyah’ tapate lak panin Beno ahi hi."
+        },
+        {
+          "number": 27,
+          "text": "Merari’ suante Yaaziyah panin Beno, Shoham, Zaccur leh Ibri ahi hi."
+        },
+        {
+          "number": 28,
+          "text": "Mahli’ tapa pen Eleazar hi a, amah in tapa nei lo hi;"
+        },
+        {
+          "number": 29,
+          "text": "Kish panin: Kish’ tapa Yerachmeel ahi hi."
+        },
+        {
+          "number": 30,
+          "text": "Tua banah Mushi’ tapate pen Mahli, Eder leh Yerimoth ahi hi. Hihte zong amau bawng tawh kizui-in Levi mite ahi uh hi."
+        },
+        {
+          "number": 31,
+          "text": "Amaute in zong a sanggamte uh Aaron’ suanlekhakte mah bangin Kumpi David, Zadok, Ahimelech leh siampi bawng lutangte leh Levi mite omin ai a lawn hi. A sanggam upente innkuante leh a sanggam naupente innkuante a kibangin a hih uh hi."
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Lasiamte",
+          "before_verse": 1
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "David leh amah tawh galkap makaite in harp khausaite, zither khausaite leh daltuahte tawh kopin lawp takin lasakna a sem dingin Asaph, Heman leh Yeduthun’ suante pawlkhat sehtuam uh hi. Amau nasep tawh kizui-in tumgingsiamte pen:"
+        },
+        {
+          "number": 2,
+          "text": "Asaph’ tapate lak panin: Zaccur, Yahseph, Nethanyah leh Asarelah ahi hi. Asaph lamlahna nuai-a Asaph’ suante in kumpipa makaihna nuai-ah lawp takin la a sa uh hi."
+        },
+        {
+          "number": 3,
+          "text": "Yeduthun sung panin Yeduthun’ tapate pen: Gedalyah, Zeri, Yeshayah, Shimei, Hashabyah leh Mattithyah hi a—a vekpi-in guk hi-in a pa uh Yeduthun makaihna nuai-ah omte ahi uh hi. Yeduthun pen zither khausai zangin lungdam kohnate leh Yahweh tungah phatnate tawh kisai-in lawp takin la a sapa ahi hi."
+        },
+        {
+          "number": 4,
+          "text": "Heman sung panin Heman’ tapate pen: Bukkyah, Mattanyah, Uzziel, Shebuel, Yerimoth, Hananyah, Hanani, Elyathah, Giddalti, Romamti-Ezer, Yoshbekashah, Mallothi, Hothir, leh Machatzyoth ahi hi."
+        },
+        {
+          "number": 5,
+          "text": "Hihte khempeuh pen kumpipa’ thumupa Heman’ tapate ahi uh hi. Yahweh’ kammal tawh kizui-in amah a kitawisang nadingin ama tunga kipia a tapate hi a—Yahweh aa dingin Heman in a tapa sawm le li leh a tanu thumte a pia hi."
+        },
+        {
+          "number": 6,
+          "text": "Hihte khempeuh pen Yahweh’ Inn-a nasem dingin Yahweh’ Inn ah daltuahte, harp khausaite leh zither khausaite tawh lasakna lamsang ah a pa uh makaihna nuai-a omte ahi uh hi. Asaph, Yeduthun leh Heman-te pen kumpipa’ lamlahna leh thuneihna nuai-ah om uh hi."
+        },
+        {
+          "number": 7,
+          "text": "Amaute leh Yahweh lasaknate ah a hilh a siam amau sanggamte a phazah pen 288 ahi hi."
+        },
+        {
+          "number": 8,
+          "text": "A neupen panin a lianpen dong; a sinte panin a siate dong, hih nasep a sem dingin amaute in ai a lawn uh hi."
+        },
+        {
+          "number": 9,
+          "text": "Asaph tunga a tu ai masa pen Yahseph aa ding suak a, a tapate leh a sanggamte—la siam 12 ahi hi. A nihna-in Gedalyah aa dingin hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 10,
+          "text": "Ailot a thumna Zaccur aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 11,
+          "text": "Ailot a lina Yizri (Zeri) aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 12,
+          "text": "Ailot a ngana Nethanyah aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 13,
+          "text": "Ailot a gukna Bukkyah aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 14,
+          "text": "Ailot a sagihna Yesharelah (Asarelah) aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 15,
+          "text": "Ailot a giatna Yeshayah aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 16,
+          "text": "Ailot a kuana Mattanyah aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 17,
+          "text": "Ailot a sawmna Shimei aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 18,
+          "text": "Ailot a sawm le khatna Azarel (Uzziel) aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 19,
+          "text": "Ailot a sawm le nihna Hashabyah aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 20,
+          "text": "Ailot a sawm le thumna Shubael (Shebuel) aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 21,
+          "text": "Ailot a sawm le lina Mattithyah aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 22,
+          "text": "Ailot a sawm le ngana Yeremoth (Yerimoth) aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 23,
+          "text": "Ailot a sawm le gukna Hananyah aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 24,
+          "text": "Ailot a sawm le sagihna Yoshbekashah aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 25,
+          "text": "Ailot a sawm le giatna Hanani aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 26,
+          "text": "Ailot a sawm le kuana Mallothi aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 27,
+          "text": "Ailot a sawmnihna Elyathah aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 28,
+          "text": "Ailot a sawmnih le khatna Hothir aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 29,
+          "text": "Ailot a sawmnih le nihna Gidalti aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 30,
+          "text": "Ailot a sawmnih le thumna Machatzyoth aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        },
+        {
+          "number": 31,
+          "text": "Ailot a sawmnih le lina Romamti-Ezer aa ding hong hi a, a tapate leh a sanggamte—lasiam 12 ahi hi."
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Kongcingte leh a Ukte",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Vankemte leh Adang Uliante",
+          "before_verse": 20
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hihte pen Korah gui panin kongcing a pawlpawlte ahi uh hi: Asaph’ suante panin Kore’ tapa Meshelemyah;"
+        },
+        {
+          "number": 2,
+          "text": "Meshelemyah’ tapate pen: a tacil Zecharyah, a nihna Yediael, a thumna Zebadyah, a lina Yathniel,"
+        },
+        {
+          "number": 3,
+          "text": "a ngana Elam, a gukna Yahchanan, leh a sagihna Al-Yahenai ahi hi."
+        },
+        {
+          "number": 4,
+          "text": "Obed-Edom in zong tapate nei a, tuate in: a tacil Shemayah, a nihna Yahzabad, a thumna Yahach, a lina Sacar, a ngana Nethanel,"
+        },
+        {
+          "number": 5,
+          "text": "a gukna Ammiel, a sagihna Issachar, a giatna Peulthai ahi hi; bang hang hiam cihleh Yahweh in amah thupha a pia hi."
+        },
+        {
+          "number": 6,
+          "text": "Obed-Edom’ tapa Shemayah in zong tapate nei a, amau bawng lutangte ahi uh hi; bang hang hiam cihleh amaute pen hih theihna lianpi a nei mite ahi uh hi."
+        },
+        {
+          "number": 7,
+          "text": "Hih Shemayah tapate pen: Othni, Rephael, Obed, Elzabad, Elihu, leh Semachyah ahi uh hi. Elihu leh Semachyah pen nakpi takin hihzawhna a nei mite ahi uh hi."
+        },
+        {
+          "number": 8,
+          "text": "Hihte khempeuh a tapate uh leh a sanggamte uh tawh Obed-Edom suante hi uh a, siamna nei-in a vaipuakte uh a tangtun a kician—Obed-Edom pana kongcing sawmguk le nihte ahi uh hi."
+        },
+        {
+          "number": 9,
+          "text": "Meshelemyah in tapate leh sanggam pasalte nei a—mi kician vive giat ahi hi."
+        },
+        {
+          "number": 10,
+          "text": "Merari’ gui panin Hosah in tapate nei hi: a masa Shimri (Amah pen tacil hi lo a, ahih hangin a pa in amah a masa-in bawl hi),"
+        },
+        {
+          "number": 11,
+          "text": "a nihna Hilkiyah, a thumna Tebalyah leh a lina Zecharyah ahi hi. Hosah’ tapate leh a sanggamte pen sawm le thum ahi hi."
+        },
+        {
+          "number": 12,
+          "text": "Amau makaite tungtawnin a kiseh hih kongcing a pawlpawlte in a sanggamte uh mah bangin Yahweh’ Inn-a nasepte ah vaipuak a nei uh hi."
+        },
+        {
+          "number": 13,
+          "text": "Amau bawng tawh kizui-in a neupen hitaleh a lianpen hitaleh kongpi khat ciat aa dingin amaute in ai a lawn uh hi."
+        },
+        {
+          "number": 14,
+          "text": "Ni suahna lam kongpi aa dingin ailotna Shelemyah tungah tu hi. Amaute in a tapa Zecharyah a pil thukikuppihpa aa dingin ai a lot uh ciangin ama ailotna Leilu lam kongpi aa dingin a tu hi."
+        },
+        {
+          "number": 15,
+          "text": "Leitaw lam kongpi ai Obed-Edom tungah tu a, a tapate aa dingin ailotna pen Vankholna-Inn nihte dingin a ngah hi."
+        },
+        {
+          "number": 16,
+          "text": "Shuppim leh Hosah tunga a kia ailotna pen lampi tungnung-a Shallecheth Kongpi leh Nitumna lam kongpi ahi hi. A cingte khat le khat kimaituah uh a,"
+        },
+        {
+          "number": 17,
+          "text": "ni khatin guk in Nisuahna lam cing hi. Ni khatin li in Leilu lam cing hi. Ni khatin li in Leitaw lam cing a, Vankholna-Innte khat ciangin nihta-in cing a—a cingte li ahi hi."
+        },
+        {
+          "number": 18,
+          "text": "Nitumna lam-a dingin nisimin buktual ah nih om a, a lampi ah li a om hi."
+        },
+        {
+          "number": 19,
+          "text": "Hihte pen Korah’ suante lak leh Merari’ suante laka kongcing a pawlpawlte ahi uh hi."
+        },
+        {
+          "number": 20,
+          "text": "Yahweh sunga sanggam Levi mite in Yahweh’ Inn Van manpha koihna leh a Ki-ap Letsongte a koihna ukte ahi uh hi."
+        },
+        {
+          "number": 21,
+          "text": "Gershon’ suanlekhakte ahi Laadan’ tapate pen: Gershon mi Laadan’ bawng sunga ukpite; leh Yechimel mite ahi hi."
+        },
+        {
+          "number": 22,
+          "text": "Hih Yechiel-te’ gui—Zetham leh a sanggampa Yahyl pen Yahweh’ Inn Van manpha koihna-a vaipuak neite ahi uh hi."
+        },
+        {
+          "number": 23,
+          "text": "Amram mite, Izhar mite, Hebron mite leh Uzziel mite tawh kisai van manpha koihna tunga thuneite in—"
+        },
+        {
+          "number": 24,
+          "text": "Mosheh’ tapa Gershom’ tapa Shebuel pen Van manpha koihna ukpipa hi a,"
+        },
+        {
+          "number": 25,
+          "text": "tua ciangin Yliezer’ gui sunga a sanggamte pen: a tapa Rechabyah, a tapa Yeshayah, a tapa Yahram, a tapa Zichri leh a tapa Shelomith ahi hi."
+        },
+        {
+          "number": 26,
+          "text": "Kumpi David, beh lutangte, a tultul ukte, a zaza ukte leh galkap mangte in a apsa uh a siangtho van manpha koihna ah hih Shelomith leh a sanggamte in uk uh hi."
+        },
+        {
+          "number": 27,
+          "text": "Gal sunga kinusia vante amaute in Yahweh’ Inn nasep nadingin a ap uh hi."
+        },
+        {
+          "number": 28,
+          "text": "Thumupa Samuyl, Kish tapa Shaul, Ner’ tapa Abner, leh Zeruyah’ tapa Yahab-te apsa khempeuh leh adang a ki-ap nate khempeuh pen Shelomith leh a sanggamte vaipuak ahi hi."
+        },
+        {
+          "number": 29,
+          "text": "Izhar mite panin Chenanyah leh a tapate in Israyl tunga uliante leh thukhente semin Yerusalem pualama nasepte a sem uh hi."
+        },
+        {
+          "number": 30,
+          "text": "Hebron mite panin Hashabyah leh a sanggam mi kician 1,700 in Yardan nitumna lam gam sunga Yahweh’ nasep khempeuh tawh a kisaite leh kumpipa’ nasepna-a Israyl-te vaihawmnate ah vaipuak a nei hi."
+        },
+        {
+          "number": 31,
+          "text": "Hebron mite lak panin Yeriyah pen a pu a pate khangthu ciaptehna tawh kizui-in ukpi ahi hi. David uk zawh a kum sawm lina kumin Hebron mite laka kikantelna nei-in Gilead gam Yazer ah siamna lianpi a nei mite kimu hi."
+        },
+        {
+          "number": 32,
+          "text": "Kumpi David in Yeriyah’ sanggamte, siamna a nei mihing 2,700, beh lutangte pen Yahweh tawh kisai thute leh kumpipa’ vaite ah, Reuben minam, Gad minam leh Menasheh minam-alangte tungah a uk dingin a koih hi."
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Kumpigam Uliante",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "Vankholna a Cingte",
+          "before_verse": 25
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Amau beh lutangte, a tultul ukte leh a zaza ukte khempeuh, a uliante khempeuh tawh kizui-in a min kigual Israyl’ suante khempeuh in gallam a pawlpawlte tawh kisai thute ah kumpipa’ na a sem uh hi. Mi 24,000 a om pawl khat ciat in kum khat sung tawntung a kha kha-in a nasep a laih uh hi."
+        },
+        {
+          "number": 2,
+          "text": "A Kha Masa pawl a ukpa pen Zabdiel’ tapa Yashobeam hi a, ama Pawl sungah mi 24,000 om hi;"
+        },
+        {
+          "number": 3,
+          "text": "Amah pen Yahdah mi Perez gui pan hi a, Kha Masa Kha-in galkap ukte khempeuh tunga galkap mangpa ahi hi."
+        },
+        {
+          "number": 4,
+          "text": "A Kha Nihna Pawl a ukpa pen Ahoh mi Dodai hi a, tua ciangin Mikloth zong makai khat ahi hi; ama Pawl sungah mi 24,000 om hi."
+        },
+        {
+          "number": 5,
+          "text": "A Kha Thumna Pawl tunga thuneipa pen Siampi Lian Yahyada’ tapa Benayah hi a, ama Pawl sungah mi 24,000 om hi."
+        },
+        {
+          "number": 6,
+          "text": "Hih Benayah pen Sawmthumte laka mi thahat khat hi a, Sawmthumte a ukpa ahi hi. A tapa Ammizabad pen hih Pawl a ukpa ahi hi."
+        },
+        {
+          "number": 7,
+          "text": "A Kha Lina Pawl a ukpa pen Yahab’ sanggampa Asahel hi a, ama khit ciangin a tapa Zebadyah thunei a suak hi; ama Pawl sungah mi 24,000 om hi."
+        },
+        {
+          "number": 8,
+          "text": "A Kha Ngana Pawl a ukpa pen Izrah mi Shamhuth hi a, ama Pawl sungah mi 24,000 om hi."
+        },
+        {
+          "number": 9,
+          "text": "A Kha Gukna Pawl a ukpa pen Teko mi Ikkesh’ tapa Ira hi a, ama Pawl sungah mi 24,000 om hi."
+        },
+        {
+          "number": 10,
+          "text": "A Kha Sagihna Pawl a ukpa pen Ephraim minam pana Pelon mi Helez hi a, ama Pawl sungah mi 24,000 om hi."
+        },
+        {
+          "number": 11,
+          "text": "A Kha Giatna Pawl a ukpa pen Zerah suan Hushath mi Sibbechai hi a, ama Pawl sungah mi 24,000 om hi."
+        },
+        {
+          "number": 12,
+          "text": "A Kha Kuana Pawl a ukpa pen Benyamin minam pana Anathoth mi Abiezer hi a, ama Pawl sungah mi 24,000 om hi."
+        },
+        {
+          "number": 13,
+          "text": "A Kha Sawmna Pawl a ukpa pen Zarh suan Netophath mi Maharai hi a, ama Pawl sungah mi 24,000 om hi."
+        },
+        {
+          "number": 14,
+          "text": "A Kha Sawm le Khatna Pawl a ukpa pen Ephraim minam panin Pirathon mi Benayah hi a, ama Pawl sungah mi 24,000 om hi."
+        },
+        {
+          "number": 15,
+          "text": "A Kha Sawm le Nihna Pawl a ukpa pen Othniel’ gui pana Netophath mi Heldai hi a, ama Pawl sungah mi 24,000 om hi."
+        },
+        {
+          "number": 16,
+          "text": "Israyl minamte tunga Minam Ukpite pen: Reuben minam tungah Zichri’ tapa Eliezer; Simeon minam tungah Maachah’ tapa Sephatyah;"
+        },
+        {
+          "number": 17,
+          "text": "Levi minam tungah Kemuel’ tapa Hashabyah hi a, ahih hangin Aaron namte tungah Zadk ahi hi;"
+        },
+        {
+          "number": 18,
+          "text": "Yahdah minam tungah David’ sanggamte khat Elihu; Issachar’ minam tungah Michael’ tapa Omri;"
+        },
+        {
+          "number": 19,
+          "text": "Zebulun minam tungah Obadyah’ tapa Ishmayah; Naphtali minam tungah Azriel’ tapa Yerimoth;"
+        },
+        {
+          "number": 20,
+          "text": "Yahseph minam sung pana Ephraim minam tungah Azazyah’ tapa Hoshea; Yahseph minam sung pana Menasheh minam-alang tungah Pedayah’ tapa Yahyl;"
+        },
+        {
+          "number": 21,
+          "text": "Yahseph minam Gilead gam sunga Menasheh minam-alang tungah Zecharyah’ tapa Iddo; Benyamin minam tungah Abner’ tapa Yaasiel;"
+        },
+        {
+          "number": 22,
+          "text": "Dan minam tungah Yeroham’ tapa Azarel ahi hi. Hihte pen Israyl minamte tunga Minam Ukpite ahi uh hi."
+        },
+        {
+          "number": 23,
+          "text": "Ahi zongin David in kum sawmnih pan a nuaisiah a phate sim lo hi; bang hang hiam cihleh Yahweh in vantungte sunga om aksite bangin Israyl tampi phasak dingin a ciamkhin hi."
+        },
+        {
+          "number": 24,
+          "text": "Zeruyah’ tapa Yahab in misimna pan a, ahih hangin amah in zo man lo hi; bang hang hiam cihleh hih misimna hangin Israyl tungah hehna tung a, Kumpi David khangthu ciaptehna ah zong a phazah kikhum tuan lo hi."
+        },
+        {
+          "number": 25,
+          "text": "Adiel’ tapa Azmaveth in kumpipa’ van manpha koihna uk hi; Uzzyah’ tapa Yahnathan in gam sung, khuapite sung, khuaneute sung leh mun muanhuaite sunga vankholnate uk hi;"
+        },
+        {
+          "number": 26,
+          "text": "Chelub’ tapa Ezri in lo sungah na a sem, lokho mite uk hi;"
+        },
+        {
+          "number": 27,
+          "text": "Ramath mi Shimei in leenggui lote uk a, ahih hangin Shiphmi mi Zabdi in leenggahzu a khol nadingin leenggui lo panin a piang leenggahte a uk hi;"
+        },
+        {
+          "number": 28,
+          "text": "Geder mi Baal-Hanan in Shephelah gam sunga olive leh theithek kungte uk hi; Yahash in sathau kholna uk hi;"
+        },
+        {
+          "number": 29,
+          "text": "Sharon mi Shitrai in Sharon gam sunga a gamta ganhonte uk hi; Adlai’ tapa Shaphat in kuamte sunga a gamta ganhonte uk hi;"
+        },
+        {
+          "number": 30,
+          "text": "Ishmayl mi Obil in kalaohte uk hi; Meronoth mi Yechdeyah in laate uk hi;"
+        },
+        {
+          "number": 31,
+          "text": "Hager mi Yaziz in tuuhonte uk hi—hihte khempeuh pen Kumpi David’ neihsa a uk uliante ahi uh hi."
+        },
+        {
+          "number": 32,
+          "text": "David pano thukuppih theih, mipil laisiam Yahnathan leh Hachmoni’ tapa Yehiel-te in kumpipa’ tapate a sai uh hi."
+        },
+        {
+          "number": 33,
+          "text": "Ahithophel pen kumpipa’ thukuppihpa leh thulakpa ahi hi; tua ciangin Ark mi Hushai pen kumpipa’ lawm ahi hi."
+        },
+        {
+          "number": 34,
+          "text": "Ahithophel khit ciangin Benayah’ tapa Yahyada pen kumpipa’ thukuppihpa leh thulakpa hi a, tua khit ciangin Abiathar in tua za len hi. Kumpipa’ galkap mang lianpen Yahab ahi hi."
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Biakinn ding David’ Geelnate",
+          "before_verse": 1
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "David in Yerusalem ah Israyl gam sunga makai khempeuh—minamte ukpi khempeuh, kumpipa’ galkap a pawlpawlte galkap mangte, a tultul ukte, a zaza ukte, kumpipa’ neihsa leh a ganhon ukte, a tapate, kumpi-inna uliante, mi thahatte leh galsiam mi hangsante a sam hi."
+        },
+        {
+          "number": 2,
+          "text": "Tua ciangin kumpi David a khe-in dingto-in, “Ka sanggamte leh ka mite aw, na ngai un. Yahweh’ thuciamna singkuang khawl nading leh i Pa khe ngakna dingin Inn khat lam ding ka lungsim sungah om hi. A lam dingin ka kiging khin a,"
+        },
+        {
+          "number": 3,
+          "text": "ahih hangin Yahweh in kei kiangah, ‘Nangmah in Keima Min aa dingin Inn na lam kei ding hi; bang hang hiam cihleh nangmah in gal tampi do-in sisan na luangsak hi,’ hong ci hi."
+        },
+        {
+          "number": 4,
+          "text": "Ahi zongin Yahweh Israyl’ Pa in Israyl tungah a tawntunga kumpi dingin ka pa innkuan sunga om khempeuh panin kei hong teel hi; bang hang hiam cihleh amah in ukpa dingin Yahdah teelzo hi. Tua khit ciangin Yahdah innkuan panin ka pa innkuan teel a, ka pa’ tapate lak panin Israyl khempeuh tungah kumpi-in kei hong bawl ding Amah lungkim hi."
+        },
+        {
+          "number": 5,
+          "text": "Yahweh in keimah tapa tampi hong piakhin ahih manin ka tapate khempeuh lak panin Amah in Israyl tunga Yahweh’ Kumpigam tokhom ah a tu dingin ka tapa Solomon a teelkhin hi."
+        },
+        {
+          "number": 6,
+          "text": "Amah in kei kiangah, ‘Hih in Ka Inn leh Ka huangte a lam dingin na tapa Solomon ahi hi; bang hang hiam cihleh Keimah in Ka tapa bangin amah ka teel khin a, tua ciangin Kei pen ama Pa ka hi ding hi."
+        },
+        {
+          "number": 7,
+          "text": "Tuni-a mah bangin Ka Thukhamte leh Ka thukhennate zuihna panin cik mahin a pial kei nak leh, Keimah in ama kumpigam a tawntungin ka kipsak ding hi,’ hong ci hi."
+        },
+        {
+          "number": 8,
+          "text": "Tua ahih ciangin tu-in Yahweh’ mihonpi Israyl khempeuh muhna leh i Pa zakna ah kong gen inah: note in hih gam hoih luah-in no khita na tate uh aa dingin gamh-in a tawntungin na nusiat theih nadingun Yahweh na Pa uh Thukhamte khempeuh zui-in zong un."
+        },
+        {
+          "number": 9,
+          "text": "Nang ka tapa Solomon in na pa’ Pa thei inla, lungsim kicing tak leh utna lungsim tawh Ama na sem in; bang hang hiam cihleh Yahweh in lungsim takpi zong a, lungsim pana piang ngaihsutna khempeuh a theitel hi. Amah a zon leh, na mu ding a, ahih hangin Amah na taisan leh, Amah in nang hong paaikhia tawntung ding hi."
+        },
+        {
+          "number": 10,
+          "text": "Tu-in en in; munsiangtho aa dingin Inn khat a lam dingin Yahweh in nang hong teelkhin hi; khensat inla sem in!” a ci hi."
+        },
+        {
+          "number": 11,
+          "text": "Tua ciangin David in a tapa Solomon tungah Yahweh’ Inn lapkaihna dingzia, a innte, a vankholnate, a tungnung inndei tuamte, a sungnung inndeite leh hehpihna tokhom omna ding mun a geelna khempeuh pia a,"
+        },
+        {
+          "number": 12,
+          "text": "Yahweh’ Inn huangte aa ding, inndei kiimkot khempeuh aa ding, Yahweh’ Inn van manpha koihna aa ding leh a ki-ap letsongte koihna aa dingin Kha in ama lungsim sunga a koih geelnate khempeuh leh,"
+        },
+        {
+          "number": 13,
+          "text": "siampite leh Levi mi pawl-te aa ding, Yahweh’ Inn nasepna khempeuh aa ding, leh Yahweh’ Inn nasepna-a a kizang nazatte khempeuh aa dingin a geelnate zong a pia hi;"
+        },
+        {
+          "number": 14,
+          "text": "Amah in nasepna nam khempeuh-a a kizang kham tawh kibawl nazatte khempeuh a gikna a ciangtan hi. Amah in nasepna nam khempeuh-a a kizang ngun tawh kibawl nazatte khempeuh gikna zong a ciangtan hi—"
+        },
+        {
+          "number": 15,
+          "text": "meivakkhuam khat ciata a zatna tawh kizui-in kham meivakkhuamte gikna, a meivakte khat ciat gikna, ngun meivakkhuamte a gikna leh a meivakte khat ciat gikna a ciangtan hi."
+        },
+        {
+          "number": 16,
+          "text": "Amah in ompihna anlum aa ding sabuai khat ciat aa dingin kham gikna leh ngun sabuaite khat ciat aa dingin ngun a gikna a ciangtan hi;"
+        },
+        {
+          "number": 17,
+          "text": "sikkeu-kate, tuithehna thawl gongbakte leh thawl gongbak letna neite aa dingin kham citak gikna, kham pakante khat ciat aa dingin kham citak gikna leh ngun citak pakante khat ciat aa dingin ngun gikna,"
+        },
+        {
+          "number": 18,
+          "text": "paknamtui biaknatau aa ding leh a khate kizankhia-in Yahweh’ thuciamna singkuang a khuh cherubim leeng aa dingin a kisiangsaksa kham gikna-te a ciangtan hi."
+        },
+        {
+          "number": 19,
+          "text": "David in, ‘Yahweh’ khut in kei hong ompihin Amah in hih geelna a neng a tawngin kei hong telsak ahih manin hih khempeuh a kigelh ahi hi,’ a ci hi."
+        },
+        {
+          "number": 20,
+          "text": "Tua ciangin David in Solomon kiangah, “Ngaihsun inla hangsan in, tua ciangin hih na sem in! Lau kei inla, zong lungkia kei in; bang hang hiam cihleh Pa Yahweh, keima Pa in nang hong ompih ding hi. Nangmah in Yahweh’ Inn nasepna khempeuh na zawhkhit matengin Amah in hong nusia loin hong taisan lo ding hi."
+        },
+        {
+          "number": 21,
+          "text": "Yahweh’ Inn nasepna-a siampite leh Levi mi a pawlpawlte leh a uttawm khutsiam peuhpeuh, makai khempeuh leh nangma thupiakna nuai-a mi khempeuh in nasepna khempeuh ah nang hong huh ding uh hi."
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Biakinn Lam nading a Kipiate",
+          "before_verse": 1
+        },
+        {
+          "level": 1,
+          "text": "David in Yahweh a Phatna",
+          "before_verse": 10
+        },
+        {
+          "level": 1,
+          "text": "Solomon Kumpi Suak",
+          "before_verse": 20
+        },
+        {
+          "level": 1,
+          "text": "David Sihna",
+          "before_verse": 26
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tua ciangin Kumpi David in mihon khempeuh kiangah, “Yahweh in amah bek a teel ka tapa Solomon pen khangno lai-in tuahkhak nei nai lo a, Yahweh’ Inn pen mihing aa ding hi loin Yahweh i Vantung Pa aa ding ahih manin hih nasepna pen lianlua mahmah hi."
+        },
+        {
+          "number": 2,
+          "text": "Ka Pa’ Inn dingin ka hih theih tawpin ka kigingkholkhin hi: kham tawh kibawl nate aa dingin kham, ngun tawh kibawl nate aa dingin ngun, sumngo tawh kibawl nate aa dingin sumngo, sik tawh kibawl nate aa dingin sik, sing tawh kibawl nate aa dingin sing, tuate banah phuh dingin suangsan, mel tuamtuam a nei suang, suang manpha nam khempeuh leh suangpaakte ahi hi."
+        },
+        {
+          "number": 3,
+          "text": "Tuate banah ka Pa Inn ah kiptakin ka ki-apna hangin hih a siangtho Inn-a dingin ka kiginsa khempeuh banah Yahweh’ Inn-a dingin ka piak keima neihsa mahmah kham leh ngunte in:"
+        },
+        {
+          "number": 4,
+          "text": "Ophir kham talent 3,000; ton 110 kiim, Inn kawmte a zut dingin a kisiangsak ngun talent 7,000; ton 260 kiim;"
+        },
+        {
+          "number": 5,
+          "text": "Kham tawh kibawl nate aa dingin kham, ngun tawh kibawl nate aa ding ngun, khutsiamte khutin kisem nasep khempeuh aa ding ahi hi. Tua hi a, tuni-in Yahweh tungah kua ki-ap nuam na hi uh hiam?” a ci hi."
+        },
+        {
+          "number": 6,
+          "text": "Tua ciangin beh lutangte, Israyl minamte ukpite, a tultul ukte, a zaza ukte leh kumpipa’ nasepna a uk uliante khempeuh in lawp takin a pia uh hi."
+        },
+        {
+          "number": 7,
+          "text": "Amaute in Yahweh’ Inn-a nasem nadingin kham talent 5,000 leh daric 10,000; ton 190 leh pound 185 kiim; ngun talent 10,000; sumngo talent 18,000; sik talent 100,000 a pia uh hi."
+        },
+        {
+          "number": 8,
+          "text": "Suang manpha a nei peuhpeuh in Yahweh’ Inn-a van manpha koihna, Gershon mi Yehiel khut sungah piakhia uh hi."
+        },
+        {
+          "number": 9,
+          "text": "Tua ciangin mipite, amau kipiakkhiatna uh hangin lungdam-kipaak uh hi; bang hang hiam cihleh amaute in amau uttawmna hanga biaknate Yahweh tungah lungsim takpi tawh piakhin uh a, tua ciangin Kumpi David in zong nuam a sa mahmah hi."
+        },
+        {
+          "number": 10,
+          "text": "Tua ahih ciangin David in mihon khempeuh mai-ah Yahweh phat a, David in, “Yahweh ka pa Israyl’ Pa aw, tawntung panin tawngtung dong nang hong kiphat tahen!"
+        },
+        {
+          "number": 11,
+          "text": "Yahweh aw, liatna, vangliatna, minthanna, tehpih theih omlohna, leh thupitna-te Nang aa ahi hi! Bang hang hiam cihleh vantung leh leitunga om khempeuh Nang aa hi a, kumpigam zong Nang aa ahi hi, Yahweh aw, tua hi a, Na khempeuh tunga Lutang bangin Nang hong kitawisang hi!"
+        },
+        {
+          "number": 12,
+          "text": "Nang kiang panin hauhna leh pahtawina hong pai hi; bang hang hiam cihleh Nangmah in a vekpi-in a uk hi! Na khut sungah vangliatna leh thahatna om a, na khempeuh liatsakna leh hatsakna pen Nangma vangliatna sunga om ahi hi!"
+        },
+        {
+          "number": 13,
+          "text": "Tu-in kote Pa aw, Nangma tungah ka lung uh dam a, Nangma Min manpha kong phat uh hi!"
+        },
+        {
+          "number": 14,
+          "text": "Ahih hangin kote in hih bangin uttawmna tawh kong piak theih nadingun kei kua hi a, ka mite kua ahi hiam? Hih nate khempeuh nang kiang panin hong pai hi a, Nangma nate mah Nang tunga ong pia ka hi lel uh hi."
+        },
+        {
+          "number": 15,
+          "text": "Bang hang hiam cihleh kote pen ka pu ka pate uh mah bangin Nangma mai-ah peemta leh a vakvaite ka hi uh hi. Leitunga ka nuntakna uh pen niliim bang hi lel a, lametna om lo hi."
+        },
+        {
+          "number": 16,
+          "text": "Yahweh kote Pa aw, Na Min Siangtho aa dingin Inn khat kong lamsak theih nadingun ka kiginna uh hih a dimlet nate khempeuh pen Nangma khut mah panin hong pai hi a, nangma aa vive ahi hi."
+        },
+        {
+          "number": 17,
+          "text": "Ka Pa aw, mite lungsim a ze-et na hih lam zong ka thei a, thutanna ah nang na lungkim hi. Ka lungsim thutang takin hih nate khempeuh lawp takin ka piakhin hi. Tua hi a, tu-in Nang tunga lawp takin hong pia, hih lai-a om Na mite, lungnuam takin ka mu hi."
+        },
+        {
+          "number": 18,
+          "text": "Kote pate ahi Abraham, Isaac leh Israyl-te’ Pa Yahweh aw, hih lunggulhnate na mite lungsim ah a tawntungin omsak inla, nangma tungah amau lungtangte kipsak in;"
+        },
+        {
+          "number": 19,
+          "text": "Na Thukhamte, Na tecipannate leh na ngeina kipte a zuih nading, hih nate khempeuh limtakin a sep theih nading, ka kiginkholhsa hih Inn a lam theih nadingin ka tapa Solomon lungsim kicing na guan in,” a ci hi."
+        },
+        {
+          "number": 20,
+          "text": "Tua khit ciangin David in mihon khempeuh kiangah, “Tu-in Yahweh note Pa uh phat un!” a ci hi. Tua ahih ciangin mihon khempeuh in Yahweh a pate uh Pa phat uh a, tua khit ciangin a lute uh kunin, Yahweh leh kumpipa mai-ah a kunsuk uh hi."
+        },
+        {
+          "number": 21,
+          "text": "A zingciangin amaute in Yahweh tungah biakpiaknate pia a, bawngtal 1,000, tuutal 1,000, tuuno apa 1,000 tawh meihal biaknate leh dawna biaknate, Israyl khempeuh aa dingin tam tawpin a tam adang biaknate tawh a pia khawm uh hi."
+        },
+        {
+          "number": 22,
+          "text": "Tua ni-in amaute in Yahweh mai-ah nakpi-in lungnopna tawh ne-in dawn uh a, tua ciangin amaute in David’ tapa Solomon a nih veina-in kumpi suaksak-in Kumpi dingin amah leh Siampi Lian dingin Zadok Yahweh mai-ah sathau a nilh uh hi."
+        },
+        {
+          "number": 23,
+          "text": "Tua ciangin Yahweh’ kumpi-tokhom tungah amah tu-in a pa David kumpi’ za a luah hi. Amah daupai-in Israyl khempeuh in ama thu mang hi."
+        },
+        {
+          "number": 24,
+          "text": "Uliante khempeuh, mi thahatte khempeuh leh Kumpi David’ tapate khempeuh zong Kumpi Solomon tungah a ki-ap uh hi."
+        },
+        {
+          "number": 25,
+          "text": "Tua hi a, Yahweh in Israyl khempeuh mit ah Solomon nakpi takin tawisang a, thupitna lian mahmah amah a piak bangin ama ma-a Israyl kumpite khat beek in a ngah ngei kei uh hi."
+        },
+        {
+          "number": 26,
+          "text": "Yishai’ tapa David in Israyl khempeuh a uk hi."
+        },
+        {
+          "number": 27,
+          "text": "Amah in Israyl a uk hun sung pen kum sawmli hi a—Hebron ah kum sagih ukin Yerusalem ah kum sawmthum le kum thum a uk hi."
+        },
+        {
+          "number": 28,
+          "text": "Amah kum cingin si a, nuntak sau-in hau a, pahtawina a ngah hi; tua ciangin a tapa Solomon in a kumpi’ za a luah hi."
+        },
+        {
+          "number": 29,
+          "text": "Kumpi David uk hun sunga thupiangte a pat panin a tawp dong thumupa Samuyl’ laibu, kamsang Nathan’ laibu leh thumupa Gad laibu sungah,"
+        },
+        {
+          "number": 30,
+          "text": "ama uk huna thupiangte, a vangliatnate, a nuntakna, a kumpigam leh gam sung kumpigamte khempeuh lakkhia-in a kigelh hi."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f7f6f2">
+  <meta name="description" content="Read Laisiangtho, the Tedim Bible.">
+  <title>Laisiangtho — Bible Reader</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/tokens.css">
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/layout.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+  <link rel="stylesheet" href="assets/css/reader.css">
+  <link rel="stylesheet" href="assets/css/themes.css">
+</head>
+<body>
+  <a class="skip-link" href="#reader-content">Skip to Bible text</a>
+  <div class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="Laisiangtho home">
+        <span class="brand-mark" aria-hidden="true">L</span>
+        <span class="brand-copy"><strong>Laisiangtho</strong><small>The Book of Yahweh · Tedim</small></span>
+      </a>
+      <div class="topbar-actions">
+        <button class="icon-button" id="search-toggle" type="button" aria-label="Search" title="Search">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"></circle><path d="m16 16 5 5"></path></svg>
+        </button>
+        <button class="icon-button" id="bookmarks-toggle" type="button" aria-label="Bookmarks" title="Bookmarks">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4.8A1.8 1.8 0 0 1 7.8 3h8.4A1.8 1.8 0 0 1 18 4.8V21l-6-3.8L6 21z"></path></svg>
+        </button>
+        <button class="icon-button" id="settings-toggle" type="button" aria-label="Reading settings" title="Reading settings">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3"></circle><path d="m19.4 15 .1.1 1.1 1.9-1.8 3.1-2.2-.5a7.8 7.8 0 0 1-1.7 1l-.5 2.2h-3.6l-.5-2.2a7.8 7.8 0 0 1-1.7-1l-2.2.5-1.8-3.1 1.1-1.9A7.6 7.6 0 0 1 5.5 12c0-.7.1-1.4.3-2l-1.1-1.9 1.8-3.1 2.2.5c.5-.4 1.1-.8 1.7-1L10.9 2h3.6l.5 2.2c.6.2 1.2.6 1.7 1l2.2-.5 1.8 3.1-1.1 1.9c.2.6.3 1.3.3 2s-.1 1.4-.3 2z"></path></svg>
+        </button>
+      </div>
+    </header>
+
+    <main class="main-layout">
+      <aside class="sidebar" aria-label="Bible navigation">
+        <div class="sidebar-heading">
+          <span class="eyebrow">LIBRARY</span>
+          <span class="version-chip">TEDIM</span>
+        </div>
+        <label class="field-label" for="book-select">Book</label>
+        <select id="book-select" class="select-control" aria-label="Select Bible book"></select>
+        <label class="field-label" for="chapter-select">Chapter</label>
+        <select id="chapter-select" class="select-control" aria-label="Select chapter" disabled></select>
+        <div class="sidebar-divider"></div>
+        <div class="sidebar-status">
+          <span class="status-dot"></span>
+          <span id="library-status">Loading book catalogue…</span>
+        </div>
+        <p class="sidebar-note">Books without text are listed for the complete 66-book library and will become available when their JSON files are added.</p>
+      </aside>
+
+      <section class="reader-panel" aria-label="Bible reader">
+        <div class="reader-toolbar">
+          <div class="breadcrumb" id="breadcrumb">Laisiangtho <span>/</span> Select a book</div>
+          <div class="chapter-controls">
+            <button class="text-button" id="previous-chapter" type="button" disabled>← Previous</button>
+            <button class="text-button" id="next-chapter" type="button" disabled>Next →</button>
+          </div>
+        </div>
+
+        <section class="search-panel" id="search-panel" hidden>
+          <div class="search-field-wrap">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"></circle><path d="m16 16 5 5"></path></svg>
+            <input id="search-input" type="search" placeholder="Search within this book…" autocomplete="off">
+            <button id="search-close" class="subtle-button" type="button">Close</button>
+          </div>
+          <p class="search-hint" id="search-hint">Searches the currently selected book.</p>
+          <div id="search-results" class="search-results" aria-live="polite"></div>
+        </section>
+
+        <div class="reader-content" id="reader-content" tabindex="-1">
+          <div class="welcome-state" id="welcome-state">
+            <div class="welcome-symbol">L</div>
+            <p class="eyebrow">THE BOOK OF YAHWEH</p>
+            <h1>Read the Scriptures</h1>
+            <p>Select a book and chapter to begin. Your reading preferences and saved items stay on this device.</p>
+          </div>
+          <div id="loading-state" class="loading-state" hidden><span class="spinner"></span><span>Loading Scripture…</span></div>
+          <div id="error-state" class="message-state" hidden></div>
+          <article id="chapter-view" class="chapter-view" hidden>
+            <header class="chapter-heading">
+              <p class="eyebrow" id="chapter-kicker">LAISIANGTHO</p>
+              <h1 id="chapter-title"></h1>
+              <p class="chapter-subtitle" id="chapter-subtitle"></p>
+            </header>
+            <div id="chapter-headings" class="chapter-headings"></div>
+            <div id="verses-container" class="verses-container"></div>
+          </article>
+        </div>
+
+        <footer class="reader-footer">
+          <span id="reading-position">Choose a book to start reading</span>
+          <span>Works on mobile · tablet · desktop</span>
+        </footer>
+      </section>
+    </main>
+  </div>
+
+  <div class="mobile-bottom-bar" aria-label="Quick navigation">
+    <button type="button" id="mobile-books"><span>☰</span><small>Books</small></button>
+    <button type="button" id="mobile-prev" disabled><span>‹</span><small>Previous</small></button>
+    <button type="button" id="mobile-next" disabled><span>›</span><small>Next</small></button>
+    <button type="button" id="mobile-settings"><span>⚙</span><small>Settings</small></button>
+  </div>
+
+  <dialog class="side-dialog" id="settings-dialog" aria-labelledby="settings-title">
+    <div class="dialog-header"><div><p class="eyebrow">PREFERENCES</p><h2 id="settings-title">Reading settings</h2></div><button class="icon-button dialog-close" data-close="settings-dialog" aria-label="Close settings">×</button></div>
+    <div class="dialog-body">
+      <label class="setting-row"><span><strong>Text size</strong><small>Adjust Scripture reading size</small></span><span class="font-controls"><button id="font-decrease" type="button" aria-label="Decrease font size">A−</button><output id="font-size-value">19 px</output><button id="font-increase" type="button" aria-label="Increase font size">A+</button></span></label>
+      <div class="setting-row"><span><strong>Appearance</strong><small>Choose your reading theme</small></span><select id="theme-select" class="select-control compact"><option value="light">Light</option><option value="dark">Dark</option><option value="system">System</option></select></div>
+      <p class="dialog-footnote">Settings are saved locally in this browser.</p>
+    </div>
+  </dialog>
+
+  <dialog class="side-dialog" id="bookmarks-dialog" aria-labelledby="bookmarks-title">
+    <div class="dialog-header"><div><p class="eyebrow">YOUR LIBRARY</p><h2 id="bookmarks-title">Saved verses</h2></div><button class="icon-button dialog-close" data-close="bookmarks-dialog" aria-label="Close bookmarks">×</button></div>
+    <div class="dialog-body"><div id="saved-list" class="saved-list"><p class="empty-note">No saved verses yet.</p></div></div>
+  </dialog>
+
+  <dialog class="note-dialog" id="note-dialog" aria-labelledby="note-title">
+    <form method="dialog" id="note-form">
+      <div class="dialog-header"><div><p class="eyebrow">PERSONAL NOTE</p><h2 id="note-title">Verse note</h2></div><button class="icon-button dialog-close" value="cancel" aria-label="Close note">×</button></div>
+      <div class="dialog-body"><p class="note-reference" id="note-reference"></p><textarea id="note-text" rows="5" placeholder="Write your note…"></textarea><div class="dialog-actions"><button class="secondary-button" value="cancel">Cancel</button><button class="primary-button" id="note-save" value="save">Save note</button></div></div>
+    </form>
+  </dialog>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>
